@@ -3,20 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520238201123">
-        <mark key="[" line="72" column="29" />
-        <mark key="]" line="72" column="29" />
-        <mark key="." line="72" column="29" />
-        <mark key="^" line="72" column="24" />
-      </file>
       <file name="/Dummy.txt" timestamp="1520219583268">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/LoginUserDto.kt" timestamp="1520219760900">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserFollowerMapper.kt" timestamp="1520241547488">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/ResetPwdDto.kt" timestamp="1520231280688">
         <mark key="[" line="14" column="18" />
@@ -39,17 +32,35 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="15" column="28" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/User.kt" timestamp="1520220775913">
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="55" column="25" />
-        <mark key="^" line="55" column="25" />
-        <mark key="." line="55" column="25" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/PwdUtil.kt" timestamp="1520235855198">
         <mark key="[" line="75" column="16" />
         <mark key="]" line="75" column="39" />
         <mark key="." line="75" column="39" />
         <mark key="^" line="75" column="39" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520238201123">
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="72" column="29" />
+        <mark key="." line="72" column="29" />
+        <mark key="^" line="72" column="24" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/LoginUserDto.kt" timestamp="1520219760900">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserFollowerMapper.xml" timestamp="1520241418519">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="1" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/User.kt" timestamp="1520220775913">
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="55" column="25" />
+        <mark key="^" line="55" column="25" />
+        <mark key="." line="55" column="25" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserMapper.kt" timestamp="1520235636864">
         <mark key="[" line="56" column="17" />
@@ -57,50 +68,50 @@
         <mark key="." line="56" column="20" />
         <mark key="^" line="56" column="20" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520235618858">
-        <mark key="[" line="306" column="36" />
-        <mark key="]" line="306" column="36" />
-        <mark key="^" line="305" column="83" />
-        <mark key="." line="306" column="36" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520241535080">
+        <mark key="[" line="93" column="109" />
+        <mark key="]" line="93" column="109" />
+        <mark key="^" line="93" column="104" />
+        <mark key="." line="93" column="109" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9naW5Vc2VyRHRvKHVzZXIuaWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
+      <register name="0" type="4">
+        <text>查询用户的关注</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGVzKCdiYXNpYycsICd1c2VyJykiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBBcGlFeGNlcHRpb24oIrzTw9zD3MLryqew3CIpCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqILLp0a/Tw7untcS52NeiCiAgICAgKiBAcGFyYW0gdXNlcklkINPDu6dpZAogICAgICovCiAgICBmdW4gc2VsZWN0QnlVc2VySWQoQFBhcmFtKCJ1c2VySWQiKSB1c2VySWQ6IExvbmcpOiBMaXN0PFVzZXJGb2xsb3dlcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">ICAKICA8IS0tILLp0a/Tw7untcS52NeiIC0tPgogIDxzZWxlY3QgaWQ9InNlbGVjdEJ5VXNlcklkIj4KICAgIAogIDwvc2VsZWN0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGUpOiBVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGVzKCdiYXNpYycsICd1c2VyJykiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBBcGlFeGNlcHRpb24oIrzTw9zD3MLryqew3CIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGUpOiBVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gZmluZE9uZUJ5Q2VsbHBob25lKHBob25lKSA/OiB0aHJvdyBOdWxsUG9pbnRlckV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8c3FsIGlkPSJzZWxlY3RTY2hvb2xGb2xsb3dlckNvbmRpdGlvbiI+CgogIDwvc3FsPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(userId)</text>
       </register>
     </registers>
     <search>
