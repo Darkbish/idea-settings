@@ -1,5 +1,5 @@
 <application>
   <component name="GDPHSettings">
-    <option name="useNexus" value="true" />
+    <option name="useMavenIndex" value="true" />
   </component>
 </application>
