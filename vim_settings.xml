@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520231466694">
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520235906313">
+        <mark key="[" line="257" column="116" />
+        <mark key="]" line="257" column="117" />
+        <mark key="." line="257" column="117" />
+        <mark key="^" line="257" column="117" />
       </file>
       <file name="/Dummy.txt" timestamp="1520219583268">
         <mark key="[" line="0" column="0" />
@@ -28,11 +29,11 @@
         <mark key="]" line="24" column="15" />
         <mark key="." line="24" column="15" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1520231968530">
-        <mark key="[" line="291" column="24" />
-        <mark key="]" line="291" column="32" />
-        <mark key="." line="291" column="32" />
-        <mark key="^" line="291" column="32" />
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1520235643169">
+        <mark key="[" line="291" column="17" />
+        <mark key="]" line="291" column="17" />
+        <mark key="." line="291" column="17" />
+        <mark key="^" line="291" column="11" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/token/TokenDto.kt" timestamp="1520219499021">
         <mark key="[" line="9" column="0" />
@@ -44,23 +45,23 @@
         <mark key="^" line="55" column="25" />
         <mark key="." line="55" column="25" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/PwdUtil.kt" timestamp="1520232313991">
-        <mark key="[" line="85" column="40" />
-        <mark key="]" line="85" column="41" />
-        <mark key="." line="85" column="41" />
-        <mark key="^" line="85" column="41" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/PwdUtil.kt" timestamp="1520235855198">
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="75" column="39" />
+        <mark key="." line="75" column="39" />
+        <mark key="^" line="75" column="39" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserMapper.kt" timestamp="1520232002088">
-        <mark key="[" line="59" column="35" />
-        <mark key="]" line="59" column="35" />
-        <mark key="." line="59" column="35" />
-        <mark key="^" line="56" column="26" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserMapper.kt" timestamp="1520235636864">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520232339564">
-        <mark key="[" line="304" column="51" />
-        <mark key="]" line="304" column="43" />
-        <mark key="^" line="306" column="40" />
-        <mark key="." line="304" column="43" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520235618858">
+        <mark key="[" line="306" column="36" />
+        <mark key="]" line="306" column="36" />
+        <mark key="^" line="305" column="83" />
+        <mark key="." line="306" column="36" />
       </file>
     </filemarks>
     <jumps />
@@ -72,7 +73,7 @@
         <text encoding="base64">ICAgICAgICB0aHJvdyBBcGlFeGNlcHRpb24oIrzTw9zD3MLryqew3CIpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>isBlank</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
@@ -99,7 +100,7 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBuZXdQd2Qg0MLD3MLrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>isBlank</text>
       </register>
     </registers>
     <search>
