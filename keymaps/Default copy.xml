@@ -2,6 +2,9 @@
   <action id="CheckinProject" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
   </action>
