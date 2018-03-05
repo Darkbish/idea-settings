@@ -9,17 +9,24 @@
       <file name="ui.lnf.xml" timestamp="1520253240638">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1520254793879">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/Program.java" timestamp="1520253680141">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520254584144">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/PointController.kt" timestamp="1520252941147">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/service/PointService.kt" timestamp="1520253028948" />
       <file name="editor.codeinsight.xml" timestamp="1520253274033">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,12 +49,15 @@
         <text encoding="base64">ICAgIDxvcHRpb24gbmFtZT0iQUREX0lNUE9SVFNfT05fUEFTVEUiIHZhbHVlPSIxIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigxLCAiTGVlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlclNlcnZpY2UuZmluZFNjaG9vbEdyb3VwKGR0bywgaWQpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigxLCAiTGVlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlclNlcnZpY2UuZmluZFNjaG9vbEdyb3VwKGR0bywgaWQpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigxLCAiTGVlIik7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnN0YXRpc3RpY3NCeVVzZXJJZCgpCg==</text>
       </register>
       <register name="-" type="4">
