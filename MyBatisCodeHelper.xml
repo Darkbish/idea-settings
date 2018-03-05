@@ -1,13 +1,7 @@
 <application>
   <component name="MyBatisCodeHelper">
     <option name="profile">
-      <Profile>
-        <option name="generateMethodInService" value="true" />
-        <option name="generateMethodInServiceInterface" value="true" />
-        <option name="generateWithIfTest" value="true" />
-        <option name="mapperPrefix" value="Mapper" />
-        <option name="mysqlUseWithDash" value="true" />
-      </Profile>
+      <Profile />
     </option>
   </component>
 </application>
