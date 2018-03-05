@@ -30,6 +30,7 @@
       <file name="editor.codeinsight.xml" timestamp="1520253274033">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/xt/xt-api/build.gradle" timestamp="1520255099754" />
       <file name="colors/_@user_Darcula.icls" timestamp="1520253163578">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,6 +41,11 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
+      <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520255265662">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="36" column="22" filename="$USER_HOME$/work/demo/src/main/java/com/xt/demo/User.java" />
@@ -49,15 +55,33 @@
         <text encoding="base64">ICAgIDxvcHRpb24gbmFtZT0iQUREX0lNUE9SVFNfT05fUEFTVEUiIHZhbHVlPSIxIiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlclNlcnZpY2UuZmluZFNjaG9vbEdyb3VwKGR0bywgaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlclNlcnZpY2UuZmluZFNjaG9vbEdyb3VwKGR0bywgaWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigxLCAiTGVlIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZGVwZW5kZW5jaWVzewp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5teWJhdGlzOm15YmF0aXM6My40LjUnCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1hdmVuTG9jYWwoKQogICAgbWF2ZW4geyB1cmwgImh0dHA6Ly9tYXZlbi5hbGl5dW4uY29tL25leHVzL2NvbnRlbnQvZ3JvdXBzL3B1YmxpYy8iIH0KICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXNlclNlcnZpY2UuZmluZFNjaG9vbEdyb3VwKGR0bywgaWQpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSBuZXcgVXNlcigxLCAiTGVlIik7Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnN0YXRpc3RpY3NCeVVzZXJJZCgpCg==</text>
       </register>
       <register name="-" type="4">
@@ -77,6 +101,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
