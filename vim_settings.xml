@@ -14,6 +14,9 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1520394925361">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/entity/Area.java" timestamp="1520256401329">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -36,9 +39,21 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/CustomJackson2JsonRedisSerializer.kt" timestamp="1520394494729" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/PageRequestDto.kt" timestamp="1520394998018">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1520395142164">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520393744654" />
       <file name="ui.lnf.xml" timestamp="1520253240638">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/RedisConfiguration.kt" timestamp="1520394926244" />
       <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520256376372">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -56,6 +71,7 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1520253163578">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/RedisInterceptor.kt" timestamp="1520394441695" />
       <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/User.java" timestamp="1520253643283">
         <mark key="'" line="56" column="22" />
         <mark key="[" line="19" column="18" />
@@ -63,7 +79,7 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520317686012">
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520394728783">
         <mark key="[" line="108" column="21" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
@@ -81,8 +97,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>= (page - 1) * pageSize</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXQuY3VzdG9tU2VydmljZVR5cGVzPy5tYXAgeyBpdC5uYW1lIH0/LmxldCB7IHBsdXMoaXQpIH0K</text>
@@ -109,7 +125,7 @@
         <text encoding="base64">ICAgICAgICBSZXNvdXJjZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>名</text>
+        <text>= (page - 1) * pageSize</text>
       </register>
     </registers>
     <search>
