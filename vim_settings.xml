@@ -37,11 +37,23 @@
         <mark key="." line="15" column="46" />
         <mark key="^" line="15" column="25" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520492487442">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="9" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="17" column="9" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceTypeService.kt" timestamp="1520405959839">
         <mark key="[" line="46" column="26" />
         <mark key="]" line="46" column="26" />
         <mark key="." line="46" column="26" />
         <mark key="^" line="62" column="41" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/WxTokenMapper.kt" timestamp="1520492301354">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
       </file>
       <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520256376372">
         <mark key="[" line="15" column="0" />
@@ -237,6 +249,12 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="61" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/WxToken.kt" timestamp="1520492255149">
+        <mark key="[" line="56" column="5" />
+        <mark key="]" line="82" column="3" />
+        <mark key="." line="82" column="3" />
+        <mark key="^" line="82" column="3" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/task/task/TaskPageRequestDto.kt" timestamp="1520401872881">
         <mark key="[" line="15" column="115" />
         <mark key="]" line="15" column="115" />
@@ -311,37 +329,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZm9sbG93ZWQpIGl0LmNlbGxwaG9uZSBlbHNlIGNlbGxwaG9uZVBsYWNlaG9sZGVyLAogICAgICAgICAgICAgICAgICAgIGlmIChmb2xsb3dlZCkgaXQud2VpeGluIGVsc2UgIioiLnJlcGVhdChpdC53ZWl4aW4/Lmxlbmd0aCA/OiAxMCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Omh0dHBzOi8vYXBpLndlaXhpbi5xcS5jb20vc25zL29hdXRoMi9hY2Nlc3NfdG9rZW4/YXBwaWQ9JFdYX0FQUF9JRCZzZWNyZXQ9JFdYX0FQUF9TRUNSRVQmY29kZT0kY29kZSZncmFudF90eXBlPWF1dGhvcml6YXRpb25fY29kZSIK</text>
+        <text encoding="base64">ICAgIEBJZAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>accessToken(code)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Oi8vIgo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpZCIsIG51bGxhYmxlID0gZmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5jZWxscGhvbmUsCiAgICAgICAgICAgICAgICAgICAgaXQud2VpeGluLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjZWxscGhvbmVQbGFjZWhvbGRlciA9ICIqIi5yZXBlYXQoMTEpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEJsYW5rOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNYXBUbyhTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Omh0dHBzOi8vYXBpLndlaXhpbi5xcS5jb20vc25zL29hdXRoMi9hY2Nlc3NfdG9rZW4/YXBwaWQ9JFdYX0FQUF9JRCZzZWNyZXQ9JFdYX0FQUF9TRUNSRVQmY29kZT0kY29kZSZncmFudF90eXBlPWF1dGhvcml6YXRpb25fY29kZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gbGlzdC5tYXAgeyBtYXBwZXIubWFwKGl0LCBTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MuamF2YSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Oi8vIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5jZWxscGhvbmUsCiAgICAgICAgICAgICAgICAgICAgaXQud2VpeGluLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBncm91cEJ5UGFyZW50KCk6TGlzdDxTZXJ2aWNlVHlwZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjZWxscGhvbmVQbGFjZWhvbGRlciA9ICIqIi5yZXBlYXQoMTEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICNlbmRyZWdpb24gCg==</text>
+        <text encoding="base64">ICAgIEBNYXBUbyhTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>accessToken(code)</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
