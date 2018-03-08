@@ -16,6 +16,12 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="15" column="103" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxProperties.kt" timestamp="1520496967122">
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/task/demo/TaskDemoPageRequestDto.kt" timestamp="1520401852270">
         <mark key="[" line="13" column="105" />
         <mark key="]" line="13" column="104" />
@@ -37,11 +43,8 @@
         <mark key="." line="15" column="46" />
         <mark key="^" line="15" column="25" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520492487442">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="9" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="17" column="9" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520493863878">
+        <mark key="[" line="16" column="46" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceTypeService.kt" timestamp="1520405959839">
         <mark key="[" line="46" column="26" />
@@ -89,11 +92,11 @@
       <file name="/Dummy.regexp" timestamp="1520401108285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520491550339">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="54" />
-        <mark key="^" line="23" column="54" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520496971903">
+        <mark key="[" line="36" column="43" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="41" />
       </file>
       <file name="/ToStringBuilder (Apache commons-lang)" timestamp="1520401076077">
         <mark key="[" line="0" column="0" />
@@ -135,8 +138,11 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="D:/Works/xt-api/build.gradle" timestamp="1520472735382">
-        <mark key="[" line="77" column="53" />
+      <file name="D:/Works/xt-api/build.gradle" timestamp="1520495868797">
+        <mark key="[" line="83" column="4" />
+        <mark key="]" line="83" column="4" />
+        <mark key="^" line="36" column="29" />
+        <mark key="." line="83" column="4" />
       </file>
       <file name="/StringBuffer" timestamp="1520401076072">
         <mark key="[" line="0" column="0" />
@@ -158,6 +164,18 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/WxTokenMapping.xml" timestamp="1520494417127">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="10" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxConfiguration.kt" timestamp="1520497126831">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/gallery/GalleryPageRequestDto.kt" timestamp="1520401520511">
         <mark key="[" line="9" column="61" />
         <mark key="]" line="9" column="61" />
@@ -172,6 +190,9 @@
         <mark key="]" line="42" column="62" />
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/CustomWxMpInRedisConfigStorage.kt" timestamp="1520497257575">
+        <mark key="[" line="4" column="36" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/category/ArticleCategoryPageRequestDto.kt" timestamp="1520401345165">
         <mark key="[" line="11" column="63" />
@@ -194,11 +215,10 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520491242929">
-        <mark key="[" line="58" column="42" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="0" />
+      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520496466918">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/resource/ResourcePageRequestDto.kt" timestamp="1520401644357">
         <mark key="[" line="12" column="63" />
@@ -249,11 +269,11 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="61" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/WxToken.kt" timestamp="1520492255149">
-        <mark key="[" line="56" column="5" />
-        <mark key="]" line="82" column="3" />
-        <mark key="." line="82" column="3" />
-        <mark key="^" line="82" column="3" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/WxToken.kt" timestamp="1520493436645">
+        <mark key="[" line="74" column="114" />
+        <mark key="]" line="74" column="114" />
+        <mark key="." line="74" column="114" />
+        <mark key="^" line="73" column="3" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/task/task/TaskPageRequestDto.kt" timestamp="1520401872881">
         <mark key="[" line="15" column="115" />
@@ -289,6 +309,9 @@
       </file>
       <file name="/Custom toString" timestamp="1520401076096">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/ApiApplication.kt" timestamp="1520495572266">
+        <mark key="[" line="11" column="22" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/client/ClientPageRequestDto.kt" timestamp="1520401400369">
         <mark key="[" line="11" column="63" />
@@ -326,40 +349,42 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZm9sbG93ZWQpIGl0LmNlbGxwaG9uZSBlbHNlIGNlbGxwaG9uZVBsYWNlaG9sZGVyLAogICAgICAgICAgICAgICAgICAgIGlmIChmb2xsb3dlZCkgaXQud2VpeGluIGVsc2UgIioiLnJlcGVhdChpdC53ZWl4aW4/Lmxlbmd0aCA/OiAxMCksCg==</text>
+        <text encoding="base64">ICAgIGRlcGVuZHNPbihwcm9jZXNzUmVzb3VyY2VzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJZAo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpZCIsIG51bGxhYmxlID0gZmFsc2UpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>WxMpInMemoryConfigStorage ()
+            config.appId = wxProperties.appId
+            config.secret = wxProperties.secret</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBhZXNLZXk6Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5oaWJlcm5hdGUudmFsaWRhdG9yLmNvbnN0cmFpbnRzLk5vdEJsYW5rOwo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7d2VpeGluLnJlZGlyZWN0LXVybH0iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Omh0dHBzOi8vYXBpLndlaXhpbi5xcS5jb20vc25zL29hdXRoMi9hY2Nlc3NfdG9rZW4/YXBwaWQ9JFdYX0FQUF9JRCZzZWNyZXQ9JFdYX0FQUF9TRUNSRVQmY29kZT0kY29kZSZncmFudF90eXBlPWF1dGhvcml6YXRpb25fY29kZSIK</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKFd4UHJvcGVydGllczo6Y2xhc3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Oi8vIgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB2YWwgY29uZmlnID0gV3hNcEluUmVkaXNDb25maWdTdG9yYWdlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5jZWxscGhvbmUsCiAgICAgICAgICAgICAgICAgICAgaXQud2VpeGluLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjZWxscGhvbmVQbGFjZWhvbGRlciA9ICIqIi5yZXBlYXQoMTEpCg==</text>
+        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHd4U2VydmljZS5vYXV0aDJidWlsZEF1dGhvcml6YXRpb25VcmwocmVkaXJlY3RVcmwsIFd4Q29uc3RzLk9BdXRoMlNjb3BlLlNOU0FQSV9CQVNFLCBudWxsKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNYXBUbyhTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZighc3RhdGUuaXNOdWxsT3JCbGFuaygpKXsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>redirectUrl</text>
       </register>
     </registers>
     <search>
@@ -378,6 +403,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
