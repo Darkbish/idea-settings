@@ -77,6 +77,12 @@
       <file name="/Dummy.regexp" timestamp="1520401108285">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520491550339">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="54" />
+        <mark key="^" line="23" column="54" />
+      </file>
       <file name="/ToStringBuilder (Apache commons-lang)" timestamp="1520401076077">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,6 +155,12 @@
       <file name="vim_settings.xml" timestamp="1520253362366">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/Variable.kt" timestamp="1520491361911">
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="42" column="62" />
+        <mark key="^" line="42" column="62" />
+        <mark key="." line="42" column="62" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/category/ArticleCategoryPageRequestDto.kt" timestamp="1520401345165">
         <mark key="[" line="11" column="63" />
         <mark key="]" line="11" column="63" />
@@ -170,10 +182,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520478273776">
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="23" column="27" />
-        <mark key="." line="23" column="0" />
+      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520491242929">
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="60" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/resource/ResourcePageRequestDto.kt" timestamp="1520401644357">
         <mark key="[" line="12" column="63" />
@@ -298,37 +311,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZm9sbG93ZWQpIGl0LmNlbGxwaG9uZSBlbHNlIGNlbGxwaG9uZVBsYWNlaG9sZGVyLAogICAgICAgICAgICAgICAgICAgIGlmIChmb2xsb3dlZCkgaXQud2VpeGluIGVsc2UgIioiLnJlcGVhdChpdC53ZWl4aW4/Lmxlbmd0aCA/OiAxMCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5jZWxscGhvbmUsCiAgICAgICAgICAgICAgICAgICAgaXQud2VpeGluLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Omh0dHBzOi8vYXBpLndlaXhpbi5xcS5jb20vc25zL29hdXRoMi9hY2Nlc3NfdG9rZW4/YXBwaWQ9JFdYX0FQUF9JRCZzZWNyZXQ9JFdYX0FQUF9TRUNSRVQmY29kZT0kY29kZSZncmFudF90eXBlPWF1dGhvcml6YXRpb25fY29kZSIK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>followers?.any { it.userId == it.id } ?: false,</text>
+        <text>accessToken(code)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjZWxscGhvbmVQbGFjZWhvbGRlciA9ICIqIi5yZXBlYXQoMTEpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Oi8vIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBNYXBUbyhTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC5jZWxscGhvbmUsCiAgICAgICAgICAgICAgICAgICAgaXQud2VpeGluLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gbGlzdC5tYXAgeyBtYXBwZXIubWFwKGl0LCBTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MuamF2YSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjZWxscGhvbmVQbGFjZWhvbGRlciA9ICIqIi5yZXBlYXQoMTEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBNYXBUbyhTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBncm91cEJ5UGFyZW50KCk6TGlzdDxTZXJ2aWNlVHlwZT4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gbGlzdC5tYXAgeyBtYXBwZXIubWFwKGl0LCBTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MuamF2YSkgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICNlbmRyZWdpb24gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICNyZWdpb24gZnJvbnRlbmQK</text>
+        <text encoding="base64">ICAgIGZ1biBncm91cEJ5UGFyZW50KCk6TGlzdDxTZXJ2aWNlVHlwZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqILf+zvHA4NDNt9bX6cHQse0KICAgICAqLwogICAgQEdldE1hcHBpbmcoImdyb3VwIikKICAgIEBNYXBUbyhTZXJ2aWNlVHlwZUR0bzo6Y2xhc3MpCiAgICBmdW4gZ3JvdXAoKSA9IHNlcnZpY2UuZ3JvdXBCeVBhcmVudCgpCg==</text>
+        <text encoding="base64">ICAgIC8vICNlbmRyZWdpb24gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>followers?.any { it.userId == it.id } ?: false,</text>
+        <text>accessToken(code)</text>
       </register>
     </registers>
     <search>
