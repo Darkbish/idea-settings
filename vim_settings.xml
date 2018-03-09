@@ -114,6 +114,7 @@
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1520574534184">
         <mark key="'" line="283" column="4" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/CustomAccessDeniedHandler.kt" timestamp="1520577019191" />
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/role/RolePageRequestDto.kt" timestamp="1520401670300">
         <mark key="[" line="12" column="81" />
         <mark key="]" line="12" column="81" />
@@ -222,10 +223,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520561688519">
-        <mark key="[" line="59" column="52" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520576414279">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="4" />
+        <mark key="^" line="29" column="135" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/resource/ResourcePageRequestDto.kt" timestamp="1520401644357">
         <mark key="[" line="12" column="63" />
@@ -250,6 +252,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="75" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationEntryPoint.kt" timestamp="1520577028028" />
       <file name="$USER_HOME$/work/demo/src/main/resources/mybatis.config" timestamp="1520256703944">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="18" />
@@ -297,6 +300,12 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WebSecurityConfig.kt" timestamp="1520576655717">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="60" column="88" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520254584144">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -319,10 +328,6 @@
         <mark key="]" line="11" column="63" />
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="63" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/RegisterDto.kt" timestamp="1520564881331">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="79" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/User.kt" timestamp="1520574290375">
         <mark key="'" line="20" column="6" />
@@ -352,8 +357,8 @@
       <jump line="283" column="4" filename="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW50ZXJuYWwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvdG9rZW4vcmVmcmVzaCIpCiAgICAgICAgICAgIC5wZXJtaXRBbGwoKQogICAgICAgICAgICAuYW50TWF0Y2hlcnMoIi93eC9jb2RlIikKICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvZHJ1aWQvKioiKQogICAgICAgICAgICAucGVybWl0QWxsKCkKICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvYXNzZXRzLyoqIikKICAgICAgICAgICAgLnBlcm1pdEFsbCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW50ZXJuYWwg</text>
@@ -365,10 +370,10 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW5VdGlsLmdlbmVyYXRlTG9naW5Ub2tlbih1c2VyLCBqd3QucHJpbmNpcGFsIGFzIFN0cmluZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCx1c2VyLm9wZW5JZCwgdXNlci5uaWNrTmFtZSwgIiRob3N0JHt1c2VyLmF2YXRhcn0iLCB1c2VyLmNlbGxwaG9uZSwgdG9rZW4udG9rZW4sIHRva2VuLnR5cGUsIHRva2VuLmV4cGlyZXNJbiwgdG9rZW4uY3JlYXRlRGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvdG9rZW4vcmVmcmVzaCIpCiAgICAgICAgICAgIC5wZXJtaXRBbGwoKQogICAgICAgICAgICAuYW50TWF0Y2hlcnMoIi93eC9jb2RlIikKICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvZHJ1aWQvKioiKQogICAgICAgICAgICAucGVybWl0QWxsKCkKICAgICAgICAgICAgLmFudE1hdGNoZXJzKCIvYXNzZXRzLyoqIikKICAgICAgICAgICAgLnBlcm1pdEFsbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCwgdXNlci5vcGVuSWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCx1c2VyLm9wZW5JZCwgdXNlci5uaWNrTmFtZSwgIiRob3N0JHt1c2VyLmF2YXRhcn0iLCB1c2VyLmNlbGxwaG9uZSwgdG9rZW4udG9rZW4sIHRva2VuLnR5cGUsIHRva2VuLmV4cGlyZXNJbiwgdG9rZW4uY3JlYXRlRGF0ZSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCwgdXNlci5vcGVuSWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
@@ -377,19 +382,19 @@
         <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCwgdXNlci5vcGVuSWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCwgdXNlci5vcGVuSWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmdlbmRlciA9IHVzZXIuZ2VuZGVySWQ/LmxldCB7IGRpY3RJdGVtTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShpdCkgfSA/OiBEaWN0aW9uYXJ5SXRlbSgpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLmdlbmRlciA9IHVzZXIuZ2VuZGVySWQ/LmxldCB7IGRpY3RJdGVtTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShpdCkgfSA/OiBEaWN0aW9uYXJ5SXRlbSgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGlubGluZSBmdW4gPHJlaWZpZWQgVD4gcGFyc2Uob3JpZ2luOiBJbnQpOiBUPyB3aGVyZSBUIDogRW51bTxUPiwgVCA6IE9wdGlvbiA9CiAgICAgICAgICAgIFQ6OmNsYXNzLmphdmEuZW51bUNvbnN0YW50cy5zaW5nbGVPck51bGwgeyBpdC5vcmlnaW4gPT0gb3JpZ2luIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/genderId/gender/g</text>
