@@ -9,11 +9,11 @@
         <mark key="^" line="13" column="100" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxProperties.kt" timestamp="1520559659596">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-        <mark key="^" line="26" column="20" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxProperties.kt" timestamp="1520561765358">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="23" column="48" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/task/demo/TaskDemoPageRequestDto.kt" timestamp="1520401852270">
         <mark key="[" line="13" column="105" />
@@ -78,11 +78,11 @@
       <file name="/Dummy.regexp" timestamp="1520401108285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520499599284">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="21" column="13" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520561924348">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="69" />
       </file>
       <file name="/ToStringBuilder (Apache commons-lang)" timestamp="1520401076077">
         <mark key="[" line="0" column="0" />
@@ -153,11 +153,11 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxConfiguration.kt" timestamp="1520499555704">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="17" column="21" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxConfiguration.kt" timestamp="1520561812970">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/gallery/GalleryPageRequestDto.kt" timestamp="1520401520511">
         <mark key="[" line="9" column="61" />
@@ -202,8 +202,8 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520496466918">
-        <mark key="[" line="59" column="0" />
+      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520561688519">
+        <mark key="[" line="59" column="52" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
@@ -340,37 +340,37 @@
         <text>getJsapiTicket</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHZhciBjb25maWcgPSB0ZW1wbGF0ZS5vcHNGb3JWYWx1ZSgpWyJ3eENvbmZpZyJdCiAgICAgICAgaWYoY29uZmlnID09IG51bGwpewogICAgICAgICAgICBjb25maWcgPSB3eFByb3BlcnRpZXMuY29udmVydCgpCiAgICAgICAgICAgIHRlbXBsYXRlLm9wc0ZvclZhbHVlKCkuc2V0KCJ3eENvbmZpZyIsIGNvbmZpZykKICAgICAgICB9CgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW4ub3BlbklkCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>200</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW4ub3BlbklkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRlbXBsYXRlOlJlZGlzVGVtcGxhdGU8U3RyaW5nLCBXeE1wSW5NZW1vcnlDb25maWdTdG9yYWdlID4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYXV0aFVybCA9ICh3eFNlcnZpY2Uud3hNcENvbmZpZ1N0b3JhZ2UgYXMgQ3VzdG9tV3hNcEluUmVkaXNDb25maWdTdG9yYWdlKS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHd4UHJvcGVydGllczogV3hQcm9wZXJ0aWVzCg==</text>
+        <text encoding="base64">ICAgICAgICB3eFNlcnZpY2Uud3hNcENvbmZpZ1N0b3JhZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHZhciBjb25maWcgPSB0ZW1wbGF0ZS5vcHNGb3JWYWx1ZSgpWyJ3eENvbmZpZyJdCiAgICAgICAgaWYoY29uZmlnID09IG51bGwpewogICAgICAgICAgICBjb25maWcgPSB3eFByb3BlcnRpZXMuY29udmVydCgpCiAgICAgICAgICAgIHRlbXBsYXRlLm9wc0ZvclZhbHVlKCkuc2V0KCJ3eENvbmZpZyIsIGNvbmZpZykKICAgICAgICB9CgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCmZ1bgo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRlbXBsYXRlOlJlZGlzVGVtcGxhdGU8U3RyaW5nLCBXeE1wSW5NZW1vcnlDb25maWdTdG9yYWdlID4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5leHBpcmVKc2FwaVRpY2tldCgpCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHd4UHJvcGVydGllczogV3hQcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCmZ1bgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci51cGRhdGVBY2Nlc3NUb2tlbihhY2Nlc3NUb2tlbiwgZXhwaXJlc0luU2Vjb25kcykK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5leHBpcmVKc2FwaVRpY2tldCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>WxMpInMemoryConfigStorage</text>
       </register>
     </registers>
     <search>
