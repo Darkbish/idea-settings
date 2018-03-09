@@ -71,6 +71,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/RegisterByWxDto.kt" timestamp="1520565201019">
+        <mark key="'" line="11" column="27" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520563113755">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="133" column="91" />
@@ -142,6 +149,12 @@
         <mark key="]" line="14" column="113" />
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="113" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/LoginUserDto.kt" timestamp="1520564964489">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="editor.codeinsight.xml" timestamp="1520253274033">
         <mark key="[" line="0" column="0" />
@@ -289,6 +302,12 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520565457683">
+        <mark key="[" line="124" column="72" />
+        <mark key="]" line="124" column="69" />
+        <mark key="^" line="124" column="69" />
+        <mark key="." line="124" column="69" />
+      </file>
       <file name="/StringBuilder (JDK 1.5)" timestamp="1520401076074">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,6 +331,10 @@
       </file>
       <file name="/String concat (+) and super.toString()" timestamp="1520401076069">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/RegisterDto.kt" timestamp="1520564881331">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="79" />
       </file>
       <file name="/Groovy: String concat (+) and super.toString()" timestamp="1520401076091">
         <mark key="[" line="0" column="0" />
@@ -338,45 +361,47 @@
       <jump line="6" column="6" filename="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/menu/MenuPageRequestDto.kt" />
       <jump line="8" column="11" filename="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserPageRequestDto.kt" />
       <jump line="22" column="35" filename="D:/Works/xt-api/src/main/kotlin/com/xt/common/CustomWxMpInRedisConfigStorage.kt" />
+      <jump line="9" column="27" filename="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/RegisterByWxDto.kt" />
+      <jump line="118" column="50" filename="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>getJsapiTicket</text>
+      <register name="0" type="2">
+        <text encoding="base64">QFBob25lQ29kZShwaG9uZSA9ICJjZWxscGhvbmUiLCBjb2RlID0gImNvZGUiLCBjbGVhckNhY2hlID0gdHJ1ZSkKQFJlbW90ZSh0YXJnZXQgPSAiY2VsbHBob25lIiwgc2VydmljZSA9IFVzZXJTZXJ2aWNlOjpjbGFzcywgbWVzc2FnZSA9ICLK1rv6usXS0deisuEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogzrSw87aoyta7+rrFCiAgICAgKi8KICAgIFVuQmluZCwK</text>
+        <text encoding="base64">ICAgIEBmaWVsZDpOb3RCbGFuawogICAgQGZpZWxkOkxlbmd0aChtaW4gPSA2LCBtYXggPSAyMCkKICAgIHZhciBwd2Q6IFN0cmluZz8sCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogzrSw87aoyta7+rrFCiAgICAgKi8KICAgIFVuQmluZCwK</text>
+      <register name="&quot;" type="4">
+        <text>tokenService.findByOpenId(entity.openId)</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogzrSw87aoyta7+rrFCiAgICAgKi8KICAgIFVuQmluZCwK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXNlci5jZWxscGhvbmUgLT4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>when user{
             
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG1hcHBlcjogTWFwcGVyCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW4ub3BlbklkCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYXV0aFVybCA9ICh3eFNlcnZpY2Uud3hNcENvbmZpZ1N0b3JhZ2UgYXMgQ3VzdG9tV3hNcEluUmVkaXNDb25maWdTdG9yYWdlKS4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB3eFNlcnZpY2Uud3hNcENvbmZpZ1N0b3JhZ2UK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHZhciBjb25maWcgPSB0ZW1wbGF0ZS5vcHNGb3JWYWx1ZSgpWyJ3eENvbmZpZyJdCiAgICAgICAgaWYoY29uZmlnID09IG51bGwpewogICAgICAgICAgICBjb25maWcgPSB3eFByb3BlcnRpZXMuY29udmVydCgpCiAgICAgICAgICAgIHRlbXBsYXRlLm9wc0ZvclZhbHVlKCkuc2V0KCJ3eENvbmZpZyIsIGNvbmZpZykKICAgICAgICB9CgogICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRlbXBsYXRlOlJlZGlzVGVtcGxhdGU8U3RyaW5nLCBXeE1wSW5NZW1vcnlDb25maWdTdG9yYWdlID4K</text>
-      </register>
       <register name="-" type="4">
-        <text>WxMpInMemoryConfigStorage</text>
+        <text>tokenService.findByOpenId(entity.openId)</text>
       </register>
     </registers>
     <search>
@@ -398,6 +423,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
