@@ -132,6 +132,12 @@
         <mark key="^" line="36" column="29" />
         <mark key="." line="83" column="4" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1520572344897">
+        <mark key="[" line="207" column="4" />
+        <mark key="]" line="194" column="11" />
+        <mark key="." line="194" column="11" />
+        <mark key="^" line="194" column="11" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/ArticlePageRequestDto.kt" timestamp="1520401377470">
         <mark key="[" line="14" column="113" />
         <mark key="]" line="14" column="113" />
@@ -283,11 +289,11 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520567221265">
-        <mark key="[" line="147" column="35" />
-        <mark key="]" line="120" column="27" />
-        <mark key="." line="120" column="27" />
-        <mark key="^" line="120" column="27" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520572695473">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="175" column="72" />
+        <mark key="." line="175" column="72" />
+        <mark key="^" line="175" column="72" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/token/TokenPageRequestDto.kt" timestamp="1520401893266">
         <mark key="[" line="9" column="65" />
@@ -329,22 +335,22 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9naW5Vc2VyRHRvKHVzZXIuaWQsIHVzZXIub3BlbklkLCB1c2VyLm5pY2tOYW1lLCAiJGhvc3Qke3VzZXIuYXZhdGFyfSIsIHVzZXIuY2VsbHBob25lLCB0b2tlbi50b2tlbiwgdG9rZW4udHlwZSwgdG9rZW4uZXhwaXJlc0luLCB0b2tlbi5jcmVhdGVEYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW5VdGlsLmdlbmVyYXRlTG9naW5Ub2tlbih1c2VyLCBqd3QucHJpbmNpcGFsIGFzIFN0cmluZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCx1c2VyLm9wZW5JZCwgdXNlci5uaWNrTmFtZSwgIiRob3N0JHt1c2VyLmF2YXRhcn0iLCB1c2VyLmNlbGxwaG9uZSwgdG9rZW4udG9rZW4sIHRva2VuLnR5cGUsIHRva2VuLmV4cGlyZXNJbiwgdG9rZW4uY3JlYXRlRGF0ZSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Unhandled</text>
+        <text>XtException</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmdlbmRlciA9IHVzZXIuZ2VuZGVySWQ/LmxldCB7IGRpY3RJdGVtTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShpdCkgfSA/OiBEaWN0aW9uYXJ5SXRlbSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCwgdXNlci5vcGVuSWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCwgdXNlci5vcGVuSWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGlubGluZSBmdW4gPHJlaWZpZWQgVD4gcGFyc2Uob3JpZ2luOiBJbnQpOiBUPyB3aGVyZSBUIDogRW51bTxUPiwgVCA6IE9wdGlvbiA9CiAgICAgICAgICAgIFQ6OmNsYXNzLmphdmEuZW51bUNvbnN0YW50cy5zaW5nbGVPck51bGwgeyBpdC5vcmlnaW4gPT0gb3JpZ2luIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCwgdXNlci5vcGVuSWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -353,16 +359,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpdmF0ZSBmdW4gPFQ+IEVudW0uQ29tcGFuaW9uLnBhcnNlKHNleDogSW50Pyk6IFQ/IHsKCn0K</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmdlbmRlciA9IHVzZXIuZ2VuZGVySWQ/LmxldCB7IGRpY3RJdGVtTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShpdCkgfSA/OiBEaWN0aW9uYXJ5SXRlbSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIEdlbmRlci5wYXJzZShvcmlnaW46IEludCk6IEdlbmRlcj8gPSB0aGlzLmphdmFDbGFzcy5lbnVtQ29uc3RhbnRzLmZpcnN0T3JOdWxsIHsgaXQub3JpZ2luID09IG9yaWdpbiB9Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGlubGluZSBmdW4gPHJlaWZpZWQgVD4gcGFyc2Uob3JpZ2luOiBJbnQpOiBUPyB3aGVyZSBUIDogRW51bTxUPiwgVCA6IE9wdGlvbiA9CiAgICAgICAgICAgIFQ6OmNsYXNzLmphdmEuZW51bUNvbnN0YW50cy5zaW5nbGVPck51bGwgeyBpdC5vcmlnaW4gPT0gb3JpZ2luIH0KICAgIH0K</text>
+      </register>
       <register name="-" type="4">
-        <text>Unhandled</text>
+        <text>XtException</text>
       </register>
     </registers>
     <search>
