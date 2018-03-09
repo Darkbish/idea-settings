@@ -363,11 +363,11 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="63" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/JwtAuthenticationFilter.kt" timestamp="1520581629654">
-        <mark key="[" line="24" column="58" />
-        <mark key="]" line="24" column="58" />
-        <mark key="." line="24" column="58" />
-        <mark key="^" line="24" column="58" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/JwtAuthenticationFilter.kt" timestamp="1520586412480">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="33" column="95" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ServiceTypeMapper.kt" timestamp="1520404243361">
         <mark key="[" line="25" column="0" />
@@ -380,7 +380,7 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520585319072">
+      <file name="/Dummy.txt" timestamp="1520586436281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/file/FilePageRequestDto.kt" timestamp="1520401495662">
@@ -394,6 +394,12 @@
         <mark key="]" line="35" column="24" />
         <mark key="." line="35" column="26" />
         <mark key="^" line="28" column="26" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1520586467898">
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="47" column="62" />
+        <mark key="^" line="47" column="62" />
+        <mark key="." line="47" column="62" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserFollowerPageRequestDto.kt" timestamp="1520401941760">
         <mark key="[" line="9" column="47" />
@@ -449,6 +455,12 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="12" column="30" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/File.kt" timestamp="1520586282787">
+        <mark key="[" line="97" column="91" />
+        <mark key="]" line="91" column="34" />
+        <mark key="." line="91" column="34" />
+        <mark key="^" line="91" column="34" />
+      </file>
       <file name="/Groovy: String concat (+) and super.toString()" timestamp="1520401076091">
         <mark key="[" line="0" column="0" />
       </file>
@@ -489,43 +501,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7aG9zdH0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgaG9zdDogU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7and0LnNlY3JldH0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc2VjcmV0OiBTdHJpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>sessionId</text>
+        <text>tokenHead</text>
       </register>
       <register name="/" type="4">
         <text>genderId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBOZXN0ZWRDb25maWd1cmF0aW9uUHJvcGVydHkK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChwYXRoPy5oYXNoQ29kZSgpID86IDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7aG9zdH0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgaG9zdDogU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7and0LnNlY3JldH0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc2VjcmV0OiBTdHJpbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7cGljLWNvZGUuc2Vzc2lvbi1pZH0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc2Vzc2lvbklkOiBTdHJpbmcK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7and0LmhlYWRlcn0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgdG9rZW5IZWFkZXI6IFN0cmluZwogICAgQFZhbHVlKCJcJHtqd3QudG9rZW5IZWFkfSIpCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB0b2tlbkhlYWQ6IFN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJGhvc3Qke2l0LmF2YXRhcn0iLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7aG9zdH0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgaG9zdDogU3RyaW5nCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7cGljLWNvZGUuc2Vzc2lvbi1pZH0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc2Vzc2lvbklkOiBTdHJpbmcK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBhbGxvd2VkRXh0OkFycmF5PFN0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiJGhvc3Qke2l0LmF2YXRhcn0iLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7dXBsb2FkLmZvbGRlcn0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZm9sZGVyOiBTdHJpbmcKICAgIEBWYWx1ZSgiXCR7dXBsb2FkLmFsbG93ZWQtZXh0fSIpCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBhbGxvd2VkRXh0OiBTdHJpbmcKICAgIEBWYWx1ZSgiXCR7dXBsb2FkLnRlbXB9IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRlbXA6IFN0cmluZwo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7aG9zdH0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgaG9zdDogU3RyaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7dXBsb2FkLmZvbGRlcn0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZm9sZGVyOiBTdHJpbmcKICAgIEBWYWx1ZSgiXCR7dXBsb2FkLnRlbXB9IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRlbXA6IFN0cmluZwo=</text>
+        <text encoding="base64">ICAgIHZhciBhbGxvd2VkRXh0OkFycmF5PFN0cmluZz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7dmVyaWZ5LWNvZGUuZXhwaXJlfSIpCiAgICBwcml2YXRlIHZhciBleHBpcmU6IEludCA9IDYwMAo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7dXBsb2FkLmZvbGRlcn0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZm9sZGVyOiBTdHJpbmcKICAgIEBWYWx1ZSgiXCR7dXBsb2FkLmFsbG93ZWQtZXh0fSIpCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBhbGxvd2VkRXh0OiBTdHJpbmcKICAgIEBWYWx1ZSgiXCR7dXBsb2FkLnRlbXB9IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRlbXA6IFN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByb3V0ZToKICAgIGF1dGhlbnRpY2F0aW9uOgogICAgICBwYXRoOiB0b2tlbgogICAgICByZWZyZXNoOiB0b2tlbi9yZWZyZXNoCg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiXCR7dXBsb2FkLmZvbGRlcn0iKQogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZm9sZGVyOiBTdHJpbmcKICAgIEBWYWx1ZSgiXCR7dXBsb2FkLnRlbXB9IikKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHRlbXA6IFN0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/genderId/gender/g</text>
