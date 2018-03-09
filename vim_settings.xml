@@ -63,10 +63,10 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/WxLoginStatus.kt" timestamp="1520564180176">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/WxLoginStatus.kt" timestamp="1520567893882">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/RegisterByWxDto.kt" timestamp="1520565201019">
         <mark key="'" line="11" column="27" />
@@ -81,10 +81,10 @@
         <mark key="." line="169" column="0" />
         <mark key="^" line="216" column="49" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520564144863">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520567898460">
+        <mark key="[" line="43" column="34" />
+        <mark key="]" line="43" column="34" />
+        <mark key="." line="43" column="34" />
       </file>
       <file name="/fragment.kt" timestamp="1520565847078">
         <mark key="'" line="0" column="0" />
@@ -334,8 +334,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Unhandled</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLmdlbmRlciA9IHVzZXIuZ2VuZGVySWQ/LmxldCB7IGRpY3RJdGVtTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShpdCkgfSA/OiBEaWN0aW9uYXJ5SXRlbSgpCg==</text>
@@ -362,7 +362,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>user.pwd</text>
+        <text>Unhandled</text>
       </register>
     </registers>
     <search>
