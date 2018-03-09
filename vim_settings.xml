@@ -27,6 +27,13 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/UserMapping.xml" timestamp="1520574152289">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="27" column="10" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/PageRequestDto.kt" timestamp="1520399623711">
         <mark key="[" line="15" column="46" />
         <mark key="]" line="15" column="46" />
@@ -98,6 +105,15 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="63" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/EnumConverter.kt" timestamp="1520574229539">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1520574534184">
+        <mark key="'" line="283" column="4" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/role/RolePageRequestDto.kt" timestamp="1520401670300">
         <mark key="[" line="12" column="81" />
         <mark key="]" line="12" column="81" />
@@ -122,21 +138,17 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.binarywang/weixin-java-mp/2.9.7.BETA/b6681050fb750d97c2ff7575ff168cc629863212/weixin-java-mp-2.9.7.BETA-sources.jar!/me/chanjar/weixin/mp/api/WxMpInRedisConfigStorage.java" timestamp="1520498738478">
-        <mark key="[" line="79" column="16" />
-        <mark key="]" line="79" column="29" />
-      </file>
       <file name="D:/Works/xt-api/build.gradle" timestamp="1520495868797">
         <mark key="[" line="83" column="4" />
         <mark key="]" line="83" column="4" />
         <mark key="^" line="36" column="29" />
         <mark key="." line="83" column="4" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1520572344897">
-        <mark key="[" line="207" column="4" />
-        <mark key="]" line="194" column="11" />
-        <mark key="." line="194" column="11" />
-        <mark key="^" line="194" column="11" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1520573963839">
+        <mark key="[" line="194" column="4" />
+        <mark key="]" line="194" column="4" />
+        <mark key="." line="194" column="4" />
+        <mark key="^" line="194" column="10" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/ArticlePageRequestDto.kt" timestamp="1520401377470">
         <mark key="[" line="14" column="113" />
@@ -311,10 +323,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="79" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/User.kt" timestamp="1520565723111">
-        <mark key="[" line="68" column="13" />
-        <mark key="]" line="194" column="326" />
-        <mark key="." line="194" column="326" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/User.kt" timestamp="1520574290375">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="4" />
+        <mark key="." line="68" column="4" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/school/SchoolPageRequestDto.kt" timestamp="1520401701425">
         <mark key="[" line="8" column="67" />
@@ -332,16 +345,26 @@
       <jump line="9" column="27" filename="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/RegisterByWxDto.kt" />
       <jump line="118" column="50" filename="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" />
       <jump line="0" column="0" filename="/fragment.kt" />
+      <jump line="12" column="21" filename="D:/Works/xt-api/src/main/resources/dozer/mappings/UserMapping.xml" />
+      <jump line="20" column="6" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/User.kt" />
+      <jump line="11" column="22" filename="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" />
+      <jump line="283" column="4" filename="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50ZXJuYWwg</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">aW50ZXJuYWwg</text>
+      </register>
+      <register name="/" type="4">
+        <text>genderId</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdG9rZW5VdGlsLmdlbmVyYXRlTG9naW5Ub2tlbih1c2VyLCBqd3QucHJpbmNpcGFsIGFzIFN0cmluZykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCx1c2VyLm9wZW5JZCwgdXNlci5uaWNrTmFtZSwgIiRob3N0JHt1c2VyLmF2YXRhcn0iLCB1c2VyLmNlbGxwaG9uZSwgdG9rZW4udG9rZW4sIHRva2VuLnR5cGUsIHRva2VuLmV4cGlyZXNJbiwgdG9rZW4uY3JlYXRlRGF0ZSkK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>XtException</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB0b2tlblV0aWwuZ2VuZXJhdGVUb2tlbih1c2VyLmNlbGxwaG9uZSwgVG9rZW5UeXBlLlVzZXIsIGp3dC5wcmluY2lwYWwgYXMgU3RyaW5nKQogICAgICAgIHJldHVybiBMb2dpblVzZXJEdG8odXNlci5pZCwgdXNlci5vcGVuSWQsIHVzZXIubmlja05hbWUsICIkaG9zdCR7dXNlci5hdmF0YXJ9IiwgdXNlci5jZWxscGhvbmUsIHRva2VuLnRva2VuLCB0b2tlbi50eXBlLCB0b2tlbi5leHBpcmVzSW4sIHRva2VuLmNyZWF0ZURhdGUpCg==</text>
@@ -367,17 +390,29 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIGlubGluZSBmdW4gPHJlaWZpZWQgVD4gcGFyc2Uob3JpZ2luOiBJbnQpOiBUPyB3aGVyZSBUIDogRW51bTxUPiwgVCA6IE9wdGlvbiA9CiAgICAgICAgICAgIFQ6OmNsYXNzLmphdmEuZW51bUNvbnN0YW50cy5zaW5nbGVPck51bGwgeyBpdC5vcmlnaW4gPT0gb3JpZ2luIH0KICAgIH0K</text>
       </register>
-      <register name="-" type="4">
-        <text>XtException</text>
+      <register name=":" type="4">
+        <text>%s/genderId/gender/g</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>genderId</last-search>
+      <last-offset />
+      <last-pattern>genderId</last-pattern>
+      <last-replace>gender</last-replace>
+      <last-substitute>genderId</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>gender</entry>
+        <entry>gender_id</entry>
+        <entry>genderId</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/gender_id/gender/g</entry>
+        <entry>%s/genderId/gender/g</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
