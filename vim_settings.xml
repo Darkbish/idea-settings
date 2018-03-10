@@ -313,6 +313,7 @@
       <file name="/Dummy.regexp" timestamp="1520401108285">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520649398563" />
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/ServiceTypePageRequestDto.kt" timestamp="1520401793104">
         <mark key="[" line="8" column="63" />
         <mark key="]" line="8" column="63" />
@@ -431,10 +432,10 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="38" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/JwtAuthenticationFilter.kt" timestamp="1520586995208">
-        <mark key="[" line="26" column="74" />
-        <mark key="]" line="26" column="74" />
-        <mark key="." line="26" column="74" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/JwtAuthenticationFilter.kt" timestamp="1520649614096">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
         <mark key="^" line="26" column="80" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ServiceTypeMapper.kt" timestamp="1520404243361">
@@ -457,11 +458,11 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="57" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/WxToken.kt" timestamp="1520500264859">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="28" column="26" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/WxToken.kt" timestamp="1520649848084">
+        <mark key="'" line="82" column="10" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1520586467898">
         <mark key="[" line="47" column="49" />
@@ -481,11 +482,11 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WebSecurityConfig.kt" timestamp="1520582314046">
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="36" />
-        <mark key="." line="38" column="36" />
-        <mark key="^" line="38" column="36" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WebSecurityConfig.kt" timestamp="1520649130107">
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="59" column="48" />
+        <mark key="." line="59" column="48" />
+        <mark key="^" line="59" column="47" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520587242618">
         <mark key="[" line="57" column="0" />
@@ -565,13 +566,14 @@
       <jump line="34" column="3" filename="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/Env.java" />
       <jump line="66" column="24" filename="D:/Works/xt-api/src/main/kotlin/com/xt/common/UploadUtil.kt" />
       <jump line="57" column="13" filename="D:/Works/xt-api/src/main/kotlin/com/xt/config/OrikaConfiguration.kt" />
+      <jump line="56" column="10" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/WxToken.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tokenHead</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMob3RoZXI6IEFueT8pOiBCb29sZWFuIHsKICAgICAgICBpZiAodGhpcyA9PT0gb3RoZXIpIHJldHVybiB0cnVlCiAgICAgICAgaWYgKG90aGVyICFpcyBXeFRva2VuKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoIXN1cGVyLmVxdWFscyhvdGhlcikpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAob3BlbklkICE9IG90aGVyLm9wZW5JZCkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGFjY2Vzc1Rva2VuICE9IG90aGVyLmFjY2Vzc1Rva2VuKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAocmVmcmVzaFRva2VuICE9IG90aGVyLnJlZnJlc2hUb2tlbikgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKHNjb3BlICE9IG90aGVyLnNjb3BlKSByZXR1cm4gZmFsc2UKICAgICAgICBpZigpCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IHN1cGVyLmhhc2hDb2RlKCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIG9wZW5JZC5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBhY2Nlc3NUb2tlbi5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyByZWZyZXNoVG9rZW4uaGFzaENvZGUoKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgc2NvcGUuaGFzaENvZGUoKQogICAgICAgIHJldHVybiByZXN1bHQKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gdG9TdHJpbmcoKTogU3RyaW5nIHsKICAgICAgICByZXR1cm4gIld4VG9rZW4ob3BlbklkPSckb3BlbklkJywgYWNjZXNzVG9rZW49JyRhY2Nlc3NUb2tlbicsIHJlZnJlc2hUb2tlbj0nJHJlZnJlc2hUb2tlbicsIHNjb3BlPSckc2NvcGUnKSIKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>tokenHead</text>
+        <text>/code</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -579,26 +581,26 @@
       <register name="0" type="2">
         <text encoding="base64">bm9BcmcgewogICAgYW5ub3RhdGlvbignY29tLnh0LmNvbW1vbi5Ob0FyZ3MnKQogICAgYW5ub3RhdGlvbignamF2YXgucGVyc2lzdGVuY2UuVGFibGUnKQp9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFubm90YXRpb24oJ2phdmF4LnBlcnNpc3RlbmNlLlRhYmxlJykK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMob3RoZXI6IEFueT8pOiBCb29sZWFuIHsKICAgICAgICBpZiAodGhpcyA9PT0gb3RoZXIpIHJldHVybiB0cnVlCiAgICAgICAgaWYgKG90aGVyICFpcyBXeFRva2VuKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoIXN1cGVyLmVxdWFscyhvdGhlcikpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAob3BlbklkICE9IG90aGVyLm9wZW5JZCkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGFjY2Vzc1Rva2VuICE9IG90aGVyLmFjY2Vzc1Rva2VuKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAocmVmcmVzaFRva2VuICE9IG90aGVyLnJlZnJlc2hUb2tlbikgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKHNjb3BlICE9IG90aGVyLnNjb3BlKSByZXR1cm4gZmFsc2UKICAgICAgICBpZigpCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IHN1cGVyLmhhc2hDb2RlKCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIG9wZW5JZC5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBhY2Nlc3NUb2tlbi5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyByZWZyZXNoVG9rZW4uaGFzaENvZGUoKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgc2NvcGUuaGFzaENvZGUoKQogICAgICAgIHJldHVybiByZXN1bHQKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gdG9TdHJpbmcoKTogU3RyaW5nIHsKICAgICAgICByZXR1cm4gIld4VG9rZW4ob3BlbklkPSckb3BlbklkJywgYWNjZXNzVG9rZW49JyRhY2Nlc3NUb2tlbicsIHJlZnJlc2hUb2tlbj0nJHJlZnJlc2hUb2tlbicsIHNjb3BlPSckc2NvcGUnKSIKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFubm90YXRpb24oJ2phdmF4LnBlcnNpc3RlbmNlLlRhYmxlJykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBlbnY6IFN0cmluZz8gPSBudWxsCiAgICBATmVzdGVkQ29uZmlndXJhdGlvblByb3BlcnR5CiAgICB2YXIgc2Vzc2lvbiA9IFNlc3Npb24oKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzb3VyY2VSZXNvbHZlciA9IFBhdGhNYXRjaGluZ1Jlc291cmNlUGF0dGVyblJlc29sdmVyKCkKICAgICAgICB2YWwgbWFwcGluZ0ZpbGVzID0gcmVzb3VyY2VSZXNvbHZlci5nZXRSZXNvdXJjZXMoZW52UHJvcGVydGllcy5kb3plci5tYXBwaW5ncykubWFwIHsgaXQudXJsLnRvU3RyaW5nKCkgfS50b1R5cGVkQXJyYXkoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciBlbnY6IFN0cmluZz8gPSBudWxsCiAgICBATmVzdGVkQ29uZmlndXJhdGlvblByb3BlcnR5CiAgICB2YXIgc2Vzc2lvbiA9IFNlc3Npb24oKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzb3VyY2VSZXNvbHZlciA9IFBhdGhNYXRjaGluZ1Jlc291cmNlUGF0dGVyblJlc29sdmVyKCkKICAgICAgICB2YWwgbWFwcGluZ0ZpbGVzID0gcmVzb3VyY2VSZXNvbHZlci5nZXRSZXNvdXJjZXMoZW52UHJvcGVydGllcy5kb3plci5tYXBwaW5ncykubWFwIHsgaXQudXJsLnRvU3RyaW5nKCkgfS50b1R5cGVkQXJyYXkoKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">QENvbXBvbmVudAo=</text>
