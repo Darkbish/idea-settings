@@ -134,10 +134,10 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520646895038">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520648382185">
+        <mark key="[" line="55" column="2" />
+        <mark key="]" line="55" column="2" />
+        <mark key="." line="55" column="2" />
         <mark key="^" line="7" column="13" />
       </file>
       <file name="ui.lnf.xml" timestamp="1520253240638">
@@ -568,10 +568,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;\${jwt.route.authentication.refresh}&quot;</text>
+        <text>tokenHead</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;\${jwt.route.authentication.refresh}&quot;</text>
+        <text>tokenHead</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
