@@ -31,11 +31,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520831913226">
-        <mark key="[" line="242" column="16" />
-        <mark key="]" line="244" column="61" />
-        <mark key="." line="244" column="61" />
-        <mark key="^" line="244" column="61" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520835887301">
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="244" column="6" />
+        <mark key="." line="238" column="0" />
+        <mark key="^" line="227" column="32" />
       </file>
       <file name="/Objects.toStringHelper (Guava)" timestamp="1520401076083">
         <mark key="[" line="0" column="0" />
@@ -520,7 +520,7 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="57" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1520586467898">
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1520836264997">
         <mark key="[" line="47" column="49" />
         <mark key="]" line="47" column="62" />
         <mark key="^" line="47" column="62" />
@@ -544,7 +544,7 @@
         <mark key="." line="59" column="48" />
         <mark key="^" line="59" column="47" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520827091758">
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520835850624">
         <mark key="[" line="198" column="60" />
         <mark key="]" line="198" column="69" />
         <mark key="." line="198" column="69" />
@@ -630,17 +630,17 @@
       <jump line="12" column="47" filename="D:/Projects/demo/src/test/kotlin/com/xt/demo/ElExpresstionTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{entity.id}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRQYWdlYWJsZSonIiwKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqR3JvdXAqJyIsCiAgICAgICAgIid1c2VyU2VydmljZS5maW5kQnlLZXlBbmRUeXBlKiciLAogICAgICAgICIndXNlclNlcnZpY2UubG9naW46JyArICN1c2VyLmNlbGxwaG9uZSArICcqJyIsCiAgICAgICAgIid1c2VyU2VydmljZS51bmlxdWU6JyArICN1c2VyLmNlbGxwaG9uZSArICcqJyIKICAgIF0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{entity.id}</text>
+        <text>?.isNullOrBlank()</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4yLjMnCg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRQYWdlYWJsZSonIiwKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqR3JvdXAqJyIsCiAgICAgICAgIid1c2VyU2VydmljZS5maW5kQnlLZXlBbmRUeXBlKiciLAogICAgICAgICIndXNlclNlcnZpY2UubG9naW46JyArICN1c2VyLmNlbGxwaG9uZSArICcqJyIsCiAgICAgICAgIid1c2VyU2VydmljZS51bmlxdWU6JyArICN1c2VyLmNlbGxwaG9uZSArICcqJyIKICAgIF0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5teWJhdGlzOm15YmF0aXMtc3ByaW5nLWJvb3Qtc3RhcnRlcicK</text>
