@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520821992699">
-        <mark key="[" line="39" column="61" />
-        <mark key="]" line="39" column="61" />
-        <mark key="." line="39" column="61" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520834863922">
+        <mark key="[" line="51" column="47" />
+        <mark key="]" line="51" column="18" />
+        <mark key="." line="51" column="18" />
+        <mark key="^" line="51" column="18" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/Extension.kt" timestamp="1520585113065">
         <mark key="[" line="125" column="0" />
@@ -92,10 +93,11 @@
       <file name="/StringBuffer" timestamp="1520401076072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projects/demo/build.gradle" timestamp="1520647566026">
-        <mark key="[" line="56" column="22" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="D:/Projects/demo/build.gradle" timestamp="1520834297867">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="70" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/ServiceTypeDto.kt" timestamp="1520405790162">
         <mark key="[" line="3" column="0" />
@@ -112,7 +114,6 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="113" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PhoneCodeValidator.kt" timestamp="1520818425261" />
       <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/PointController.kt" timestamp="1520252941147">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -206,11 +207,10 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="15" column="115" />
       </file>
-      <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/ElExpresstionTest.kt" timestamp="1520832758619">
-        <mark key="[" line="10" column="81" />
-        <mark key="]" line="10" column="76" />
-        <mark key="." line="10" column="76" />
-        <mark key="^" line="10" column="76" />
+      <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/ElExpresstionTest.kt" timestamp="1520833999257">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520254584144">
         <mark key="[" line="76" column="0" />
@@ -402,9 +402,9 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="D:/Works/xt-api/build.gradle" timestamp="1520647558149">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="92" column="0" />
+      <file name="D:/Works/xt-api/build.gradle" timestamp="1520834071038">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="57" />
         <mark key="^" line="36" column="29" />
         <mark key="." line="83" column="4" />
       </file>
@@ -484,6 +484,10 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="63" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/NoArgs.kt" timestamp="1520647398735">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="38" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/JwtAuthenticationFilter.kt" timestamp="1520649614096">
         <mark key="[" line="24" column="49" />
         <mark key="]" line="24" column="49" />
@@ -494,6 +498,12 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/ExpresstionTest.kt" timestamp="1520834597078">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="61" />
+        <mark key="." line="21" column="61" />
+        <mark key="^" line="21" column="67" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/SmsProperties.kt" timestamp="1520582409035">
         <mark key="[" line="7" column="0" />
@@ -509,12 +519,6 @@
         <mark key="]" line="11" column="57" />
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="57" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/WxToken.kt" timestamp="1520649848084">
-        <mark key="'" line="82" column="10" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1520586467898">
         <mark key="[" line="47" column="49" />
@@ -588,6 +592,10 @@
       <file name="/Groovy: String concat (+) and super.toString()" timestamp="1520401076091">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/RedisInterceptor.kt" timestamp="1520833808711">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="45" />
+      </file>
       <file name="/fragment.java" timestamp="1520647242553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -623,43 +631,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFyc2VyID0gU3BlbEV4cHJlc3Npb25QYXJzZXIoKQogICAgICAgIHZhbCBjdHggPSBTdGFuZGFyZEV2YWx1YXRpb25Db250ZXh0KCkKICAgICAgICBjdHguc2V0VmFyaWFibGUoImVudGl0eSIsIFVzZXIoMSwgIkRhdmlkIikpCiAgICAgICAgdmFsIGV4cHJlc3Npb24gPSBwYXJzZXIucGFyc2VFeHByZXNzaW9uKCJ1c2VyU2VydmljZS5maW5kT25lOiNlbnRpdHkuaWQiKS5nZXRWYWx1ZShjdHgpCiAgICAgICAgcHJpbnRsbihleHByZXNzaW9uKQ==</text>
+        <text>{entity.id}</text>
       </register>
       <register name="-" type="4">
-        <text>, ctx</text>
+        <text>{entity.id}</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkdG8udGFncyA9IEFycmF5TGlzdDxTdHJpbmc+KCkKICAgICAgICAgICAgLnJ1biB7CiAgICAgICAgICAgICAgICBwbHVzKHNlcnZpY2VUeXBlTWFwcGVyLnNlbGVjdEJ5VXNlcklkKGlkKS5tYXAgeyBpdC5uYW1lIH0pCiAgICAgICAgICAgICAgICAgICAgLnBsdXMoCiAgICAgICAgICAgICAgICAgICAgICAgIGN1c3RvbU1hcHBlci5zZWxlY3QgeyBpdC5hbmRFcXVhbFRvKFVzZXJTZXJ2aWNlVHlwZUN1c3RvbTo6dXNlcklkLCBpZCkuYW5kSXNGYWxzZShVc2VyU2VydmljZVR5cGVDdXN0b206OmRpc2FibGVkKSB9Lm1hcCB7IGl0Lm5hbWUgfQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bWFwcGVyLXNwcmluZy1ib290LXN0YXJ0ZXI6MS4yLjMnCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFyc2VyID0gU3BlbEV4cHJlc3Npb25QYXJzZXIoKQogICAgICAgIHZhbCBjdHggPSBTdGFuZGFyZEV2YWx1YXRpb25Db250ZXh0KCkKICAgICAgICBjdHguc2V0VmFyaWFibGUoImVudGl0eSIsIFVzZXIoMSwgIkRhdmlkIikpCiAgICAgICAgdmFsIGV4cHJlc3Npb24gPSBwYXJzZXIucGFyc2VFeHByZXNzaW9uKCJ1c2VyU2VydmljZS5maW5kT25lOiNlbnRpdHkuaWQiKS5nZXRWYWx1ZShjdHgpCiAgICAgICAgcHJpbnRsbihleHByZXNzaW9uKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5teWJhdGlzOm15YmF0aXMtc3ByaW5nLWJvb3Qtc3RhcnRlcicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBPZ25sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuVXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZWwgPSAidXNlclNlcnZpY2UuZmluZE9uZTojZW50aXR5LmlkIgogICAgICAgIHZhbCBoYW5kbGVkID0gCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICB2YWwgcGFyc2VyID0gU3BlbEV4cHJlc3Npb25QYXJzZXIoKQogICAgICAgIHZhbCBjdHggPSBTdGFuZGFyZEV2YWx1YXRpb25Db250ZXh0KCkKICAgICAgICBjdHguc2V0VmFyaWFibGUoImVudGl0eSIsIFVzZXIoMSwgIkRhdmlkIikpCiAgICAgICAgdmFsIGV4cHJlc3Npb24gPSBwYXJzZXIucGFyc2VFeHByZXNzaW9uKCJ1c2VyU2VydmljZS5maW5kT25lOiNlbnRpdHkuaWQiKS5nZXRWYWx1ZShjdHgpCiAgICAgICAgcHJpbnRsbihleHByZXNzaW9uKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZXhpc3RzVXNlci5vcGVuSWQgPT0gKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZXIuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJ1biB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuVXNlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFRlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsdXMoY3VzdG9tTWFwcGVyLnNlbGVjdCB7IGl0LmFuZEVxdWFsVG8oVXNlclNlcnZpY2VUeXBlQ3VzdG9tOjp1c2VySWQsIGlkKS5hbmRJc0ZhbHNlKFVzZXJTZXJ2aWNlVHlwZUN1c3RvbTo6ZGlzYWJsZWQpIH0ubWFwIHsgaXQubmFtZSB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZXhpc3RzVXNlci5vcGVuSWQgPT0gKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJ1biB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
