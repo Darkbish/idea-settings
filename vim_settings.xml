@@ -105,6 +105,7 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="113" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PhoneCodeValidator.kt" timestamp="1520818425261" />
       <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/PointController.kt" timestamp="1520252941147">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -145,10 +146,10 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520648382185">
-        <mark key="[" line="55" column="2" />
-        <mark key="]" line="55" column="2" />
-        <mark key="." line="55" column="2" />
+      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1520817984517">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
         <mark key="^" line="7" column="13" />
       </file>
       <file name="ui.lnf.xml" timestamp="1520253240638">
@@ -306,11 +307,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/VerifyCodeService.kt" timestamp="1520647125891">
-        <mark key="[" line="40" column="77" />
-        <mark key="]" line="41" column="60" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/VerifyCodeService.kt" timestamp="1520818837108">
+        <mark key="[" line="40" column="95" />
+        <mark key="]" line="40" column="95" />
         <mark key="^" line="41" column="59" />
-        <mark key="." line="41" column="60" />
+        <mark key="." line="40" column="95" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/PicCodeUtil.kt" timestamp="1520586761232">
         <mark key="[" line="146" column="0" />
@@ -330,12 +331,16 @@
       <file name="/Dummy.regexp" timestamp="1520401108285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/WxController.kt" timestamp="1520649398563" />
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/ServiceTypePageRequestDto.kt" timestamp="1520401793104">
         <mark key="[" line="8" column="63" />
         <mark key="]" line="8" column="63" />
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="63" />
+      </file>
+      <file name="/fragment.kt" timestamp="1520818829831">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="61" />
+        <mark key="." line="0" column="61" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PicCodeValidator.kt" timestamp="1520585305811">
         <mark key="[" line="33" column="24" />
@@ -587,10 +592,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>where</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>where</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
