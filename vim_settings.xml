@@ -44,11 +44,11 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1520587529071">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="73" column="35" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1520907515005">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="94" column="67" />
+        <mark key="." line="94" column="67" />
+        <mark key="^" line="94" column="67" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1520826095501">
         <mark key="[" line="286" column="0" />
@@ -78,6 +78,12 @@
         <mark key="]" line="8" column="63" />
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="63" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserFollowerController.kt" timestamp="1520907329941">
+        <mark key="[" line="45" column="8" />
+        <mark key="]" line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="45" column="7" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ServiceTypeController.kt" timestamp="1520405785793">
         <mark key="[" line="37" column="0" />
@@ -636,11 +642,11 @@
       <jump line="12" column="17" filename="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PicCode.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RequestBody @Valid</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEJlYW5VdGlscy5nZXRQcm9wZXJ0eSh2YWx1ZSwgdGhpcy5hY3R1YWwp</text>
+        <text>RequestBody @Valid</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
