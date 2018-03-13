@@ -104,11 +104,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="70" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1520913453712">
-        <mark key="[" line="211" column="48" />
-        <mark key="]" line="211" column="61" />
-        <mark key="^" line="211" column="61" />
-        <mark key="." line="211" column="61" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1520918086288">
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="15" />
+        <mark key="." line="71" column="15" />
+        <mark key="^" line="73" column="25" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/ArticlePageRequestDto.kt" timestamp="1520401377470">
         <mark key="[" line="14" column="113" />
@@ -580,8 +580,11 @@
         <mark key="." line="59" column="48" />
         <mark key="^" line="59" column="47" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/TokenService.kt" timestamp="1520913629593">
-        <mark key="[" line="33" column="42" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/TokenService.kt" timestamp="1520918034841">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="57" column="20" />
+        <mark key="." line="57" column="20" />
+        <mark key="^" line="57" column="20" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/PointService.kt" timestamp="1520910425231">
         <mark key="[" line="19" column="0" />
@@ -661,44 +664,44 @@
       <jump line="12" column="17" filename="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PicCode.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSZXR1cm5Nc2coIiIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>XtException</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;'userService.findBasicInfo:' + #userId&quot;</text>
+        <text>XtException</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">0N64xNPDu6e7/bfWCiAgICAg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsiJ3Rva2VuU2VydmljZS5maW5kQWxsKiciLCAiJ3Rva2VuU2VydmljZS5maW5kT25lQnlTdWJqZWN0OicgKyAjdG9rZW4uc3ViamVjdCIsICIndG9rZW5TZXJ2aWNlLmZpbmRPbmVCeVRva2VuOicgKyAjdG9rZW4udG9rZW4iXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXR1cm5Nc2coIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnBvaW50IC09IGNvbmZpZy5mb2xsb3dQb2ludAo=</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsiJ3Rva2VuU2VydmljZS5maW5kQWxsKiciLCAiJ3Rva2VuU2VydmljZS5maW5kT25lQnlTdWJqZWN0OicgKyAjdG9rZW4uc3ViamVjdCIsICIndG9rZW5TZXJ2aWNlLmZpbmRPbmVCeVRva2VuOicgKyAjdG9rZW4udG9rZW4iXSkKICAgIGZ1biBkZWxldGUodG9rZW46IFRva2VuKTogSW50ID0gbWFwcGVyLmRlbGV0ZSh0b2tlbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBtb2RpZnlQb2ludChpZDogTG9uZywgcG9pbnQ6IEludCk6IEludCAK</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsiJ3Rva2VuU2VydmljZS5maW5kKiciXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2hvdWxkRGVsZXRlID0gZmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAodG9rZW4gIT0gbnVsbCkgewogICAgICAgICAgICBzaG91bGREZWxldGUgPSBpc0V4cGlyZWQodG9rZW4uY3JlYXRlRGF0ZSkKICAgICAgICAgICAgaWYgKCFzaG91bGREZWxldGUpCiAgICAgICAgICAgICAgICByZXR1cm4gdG9rZW4KICAgICAgICB9CiAgICAgICAgaWYgKHNob3VsZERlbGV0ZSkKICAgICAgICAgICAgdG9rZW5TZXJ2aWNlLmRlbGV0ZSh0b2tlbiEhKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW4gPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3JlYXRlZCA9PSBudWxsKQogICAgICAgICAgICByZXR1cm4gZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVGFnVmFsaWRhdG9yIDogQ29uc3RyYWludFZhbGlkYXRvcjxUYWcsIExpc3Q8VXNlclNlcnZpY2VUeXBlQ2F0ZWdvcnlEdG8uVXNlclNlcnZpY2VUeXBlRHRvPj4gewogICAgcHJpdmF0ZSB2YXIgc2l6ZTogSW50ID0gMAogICAgcHJpdmF0ZSB2YXIgbGVuZ3RoOiBJbnQgPSAwCgogICAgb3ZlcnJpZGUgZnVuIGluaXRpYWxpemUoY29uc3RyYWludEFubm90YXRpb246IFRhZykgewogICAgICAgIHRoaXMuc2l6ZSA9IGNvbnN0cmFpbnRBbm5vdGF0aW9uLnNpemUKICAgICAgICB0aGlzLmxlbmd0aCA9IGNvbnN0cmFpbnRBbm5vdGF0aW9uLmxlbmd0aAogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBpc1ZhbGlkKHZhbHVlOiBMaXN0PFVzZXJTZXJ2aWNlVHlwZUNhdGVnb3J5RHRvLlVzZXJTZXJ2aWNlVHlwZUR0bz4/LCBjb250ZXh0OiBDb25zdHJhaW50VmFsaWRhdG9yQ29udGV4dCk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiBpZiAodmFsdWUgPT0gbnVsbCkgdHJ1ZSBlbHNlIHZhbHVlLnNpemUgPD0gc2l6ZSAmJiB2YWx1ZS5hbGwgeyBpdC5sYWJlbD8ubGV0IHsgaXQubGVuZ3RoIDw9IGxlbmd0aCB9ID86IHRydWUgfQogICAgfQoKfQo=</text>
+        <text encoding="base64">ICAgIEBSZXR1cm5Nc2coIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgU2FtZUFzVmFsaWRhdG9yIDogQ29uc3RyYWludFZhbGlkYXRvcjxTYW1lQXMsIEFueT4gewogICAgcHJpdmF0ZSB2YXIgZXhwZWN0ZWQ6IFN0cmluZz8gPSBudWxsCiAgICBwcml2YXRlIHZhciBhY3R1YWw6IFN0cmluZz8gPSBudWxsCiAgICBwcml2YXRlIHZhciBlcnJvck1lc3NhZ2U6IFN0cmluZz8gPSBudWxsCgogICAgb3ZlcnJpZGUgZnVuIGluaXRpYWxpemUoY29uc3RyYWludEFubm90YXRpb246IFNhbWVBcykgewogICAgICAgIHRoaXMuZXhwZWN0ZWQgPSBjb25zdHJhaW50QW5ub3RhdGlvbi5leHBlY3RlZAogICAgICAgIHRoaXMuYWN0dWFsID0gY29uc3RyYWludEFubm90YXRpb24uYWN0dWFsCiAgICAgICAgdGhpcy5lcnJvck1lc3NhZ2UgPSBjb25zdHJhaW50QW5ub3RhdGlvbi5tZXNzYWdlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGlzVmFsaWQodmFsdWU6IEFueSwgY29udGV4dDogQ29uc3RyYWludFZhbGlkYXRvckNvbnRleHQpOiBCb29sZWFuIHsKICAgICAgICB2YXIgdG9SZXR1cm4gPSBmYWxzZQoKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgZXhwZWN0ZWQgPSBCZWFuVXRpbHMuZ2V0UHJvcGVydHkodmFsdWUsIHRoaXMuZXhwZWN0ZWQpCiAgICAgICAgICAgIHZhbCBhY3R1YWwgPSBCZWFuVXRpbHMuZ2V0UHJvcGVydHkodmFsdWUsIHRoaXMuYWN0dWFsKQoKICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4oImV4cGVjdGVkID0gIitleHBlY3RlZCsiICAgYWN0dWFsID0gIithY3R1YWwpOwoKICAgICAgICAgICAgdG9SZXR1cm4gPSBleHBlY3RlZCA9PSBudWxsICYmIGFjdHVhbCA9PSBudWxsIHx8IGV4cGVjdGVkICE9IG51bGwgJiYgZXhwZWN0ZWQgPT0gYWN0dWFsCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHByaW50bG4oZS50b1N0cmluZygpKQogICAgICAgIH0KCiAgICAgICAgLy9JZiB0aGUgdmFsaWRhdGlvbiBmYWlsZWQKICAgICAgICBpZiAoIXRvUmV0dXJuKSB7CiAgICAgICAgICAgIGNvbnRleHQuZGlzYWJsZURlZmF1bHRDb25zdHJhaW50VmlvbGF0aW9uKCkKICAgICAgICAgICAgLy9JbiB0aGUgaW5pdGlhbGl6ZSBtZXRob2QgeW91IGdldCB0aGUgZXJyb3JNZXNzYWdlOiBjb25zdHJhaW50QW5ub3RhdGlvbi5tZXNzYWdlKCk7CiAgICAgICAgICAgIGNvbnRleHQuYnVpbGRDb25zdHJhaW50VmlvbGF0aW9uV2l0aFRlbXBsYXRlKGVycm9yTWVzc2FnZSkuYWRkUHJvcGVydHlOb2RlKGV4cGVjdGVkKS5hZGRDb25zdHJhaW50VmlvbGF0aW9uKCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRvUmV0dXJuCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnBvaW50IC09IGNvbmZpZy5mb2xsb3dQb2ludAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
