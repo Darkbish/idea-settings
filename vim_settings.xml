@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/ResponseCode.kt" timestamp="1520909952302">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="30" column="35" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/ResponseCode.kt" timestamp="1520924936769">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="31" />
         <mark key="^" line="30" column="35" />
         <mark key="." line="30" column="35" />
       </file>
@@ -403,11 +403,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="63" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ConfigMapper.xml" timestamp="1520909592761">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ConfigMapper.xml" timestamp="1520924664639">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="/fragment.kt" timestamp="1520912915276">
         <mark key="[" line="0" column="0" />
@@ -665,7 +665,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>XtException</text>
+        <text>USER_POINT_LACKING</text>
       </register>
       <register name="-" type="4">
         <text>XtException</text>
@@ -673,8 +673,8 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsiJ3Rva2VuU2VydmljZS5maW5kQWxsKiciLCAiJ3Rva2VuU2VydmljZS5maW5kT25lQnlTdWJqZWN0OicgKyAjdG9rZW4uc3ViamVjdCIsICIndG9rZW5TZXJ2aWNlLmZpbmRPbmVCeVRva2VuOicgKyAjdG9rZW4udG9rZW4iXSkK</text>
+      <register name="0" type="4">
+        <text>USER_POINT_LACKING</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
