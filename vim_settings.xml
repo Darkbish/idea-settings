@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/ResponseCode.kt" timestamp="1520909952302">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="30" column="35" />
+        <mark key="^" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ConfigMapper.kt" timestamp="1520909591481">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520834863922">
         <mark key="[" line="51" column="47" />
         <mark key="]" line="51" column="18" />
@@ -33,10 +45,11 @@
         <mark key="]" line="14" column="4" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520845015217">
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="35" />
-        <mark key="." line="225" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1520910400575">
+        <mark key="[" line="322" column="50" />
+        <mark key="]" line="322" column="47" />
+        <mark key="." line="322" column="47" />
+        <mark key="^" line="322" column="47" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/EnvProperties.kt" timestamp="1520647946933">
         <mark key="[" line="13" column="35" />
@@ -44,16 +57,17 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1520907515005">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="94" column="67" />
-        <mark key="." line="94" column="67" />
-        <mark key="^" line="94" column="67" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1520910475057">
+        <mark key="[" line="100" column="93" />
+        <mark key="]" line="100" column="93" />
+        <mark key="." line="100" column="93" />
+        <mark key="^" line="108" column="70" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1520826095501">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
-        <mark key="." line="286" column="0" />
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1520910261824">
+        <mark key="[" line="288" column="10" />
+        <mark key="]" line="288" column="53" />
+        <mark key="." line="288" column="53" />
+        <mark key="^" line="288" column="53" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/TransactionConfiguration.kt" timestamp="1520821035912">
         <mark key="[" line="3" column="0" />
@@ -79,11 +93,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="63" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserFollowerController.kt" timestamp="1520907329941">
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="7" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserFollowerController.kt" timestamp="1520910552768">
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="46" column="18" />
+        <mark key="." line="46" column="18" />
+        <mark key="^" line="46" column="18" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ServiceTypeController.kt" timestamp="1520405785793">
         <mark key="[" line="37" column="0" />
@@ -195,6 +209,12 @@
         <mark key="^" line="87" column="41" />
         <mark key="." line="87" column="41" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ConfigService.kt" timestamp="1520909608433">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PicCode.kt" timestamp="1520846787446">
         <mark key="'" line="18" column="17" />
         <mark key="[" line="53" column="60" />
@@ -277,11 +297,11 @@
         <mark key="." line="13" column="120" />
         <mark key="^" line="13" column="123" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserMapper.kt" timestamp="1520826087039">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="43" column="20" />
-        <mark key="." line="53" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserMapper.kt" timestamp="1520910211223">
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="53" column="3" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/DozerConfig.kt" timestamp="1520647181321">
         <mark key="[" line="17" column="27" />
@@ -312,6 +332,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="6" column="4" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Config.kt" timestamp="1520909639825">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/common/NoArgs.kt" timestamp="1520647400332">
         <mark key="[" line="4" column="0" />
@@ -387,6 +413,12 @@
         <mark key="]" line="8" column="63" />
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="63" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ConfigMapper.xml" timestamp="1520909592761">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PicCodeValidator.kt" timestamp="1520846606727">
         <mark key="[" line="9" column="0" />
@@ -570,6 +602,9 @@
         <mark key="." line="59" column="48" />
         <mark key="^" line="59" column="47" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/PointService.kt" timestamp="1520910425231">
+        <mark key="[" line="19" column="0" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520845099774">
         <mark key="[" line="107" column="74" />
         <mark key="]" line="112" column="0" />
@@ -642,44 +677,44 @@
       <jump line="12" column="17" filename="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PicCode.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RequestBody @Valid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBSZXR1cm5Nc2coIiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>RequestBody @Valid</text>
+        <text>, &quot;'userService.findBasicInfo:' + #userId&quot;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGV4aXN0c1VzZXIuY2VsbHBob25lICE9IHVzZXIuY2VsbHBob25lKQogICAgICAgICAgICAgICAgdGhyb3cgQXBpRXhjZXB0aW9uKCK4w9PDu6fS0b6tsPO2qMbky/zK1rv6usWjrMfrtcfCvLjDyta7+rrFo6y4/Lu7yta7+rrFIikKICAgICAgICAgICAgdXNlci5pZCA9IGV4aXN0c1VzZXIuaWQKICAgICAgICAgICAgdXNlck1hcHBlci5iaW5kKHVzZXIpCiAgICAgICAgICAgIGlmICh1c2VyLmF2YXRhci5jb250YWlucyhSZWdleCgiL2F2YXRhci9cXGQrXFwuanBnIikpKSB7CiAgICAgICAgICAgICAgICB1c2VyTWFwcGVyLm1vZGlmeUF2YXRhcih1c2VyLmlkLCB1c2VyLmF2YXRhcikKICAgICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">0N64xNPDu6e7/bfWCiAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXR1cm5Nc2coIiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVGFnVmFsaWRhdG9yIDogQ29uc3RyYWludFZhbGlkYXRvcjxUYWcsIExpc3Q8VXNlclNlcnZpY2VUeXBlQ2F0ZWdvcnlEdG8uVXNlclNlcnZpY2VUeXBlRHRvPj4gewogICAgcHJpdmF0ZSB2YXIgc2l6ZTogSW50ID0gMAogICAgcHJpdmF0ZSB2YXIgbGVuZ3RoOiBJbnQgPSAwCgogICAgb3ZlcnJpZGUgZnVuIGluaXRpYWxpemUoY29uc3RyYWludEFubm90YXRpb246IFRhZykgewogICAgICAgIHRoaXMuc2l6ZSA9IGNvbnN0cmFpbnRBbm5vdGF0aW9uLnNpemUKICAgICAgICB0aGlzLmxlbmd0aCA9IGNvbnN0cmFpbnRBbm5vdGF0aW9uLmxlbmd0aAogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBpc1ZhbGlkKHZhbHVlOiBMaXN0PFVzZXJTZXJ2aWNlVHlwZUNhdGVnb3J5RHRvLlVzZXJTZXJ2aWNlVHlwZUR0bz4/LCBjb250ZXh0OiBDb25zdHJhaW50VmFsaWRhdG9yQ29udGV4dCk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiBpZiAodmFsdWUgPT0gbnVsbCkgdHJ1ZSBlbHNlIHZhbHVlLnNpemUgPD0gc2l6ZSAmJiB2YWx1ZS5hbGwgeyBpdC5sYWJlbD8ubGV0IHsgaXQubGVuZ3RoIDw9IGxlbmd0aCB9ID86IHRydWUgfQogICAgfQoKfQo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnBvaW50IC09IGNvbmZpZy5mb2xsb3dQb2ludAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU2FtZUFzVmFsaWRhdG9yIDogQ29uc3RyYWludFZhbGlkYXRvcjxTYW1lQXMsIEFueT4gewogICAgcHJpdmF0ZSB2YXIgZXhwZWN0ZWQ6IFN0cmluZz8gPSBudWxsCiAgICBwcml2YXRlIHZhciBhY3R1YWw6IFN0cmluZz8gPSBudWxsCiAgICBwcml2YXRlIHZhciBlcnJvck1lc3NhZ2U6IFN0cmluZz8gPSBudWxsCgogICAgb3ZlcnJpZGUgZnVuIGluaXRpYWxpemUoY29uc3RyYWludEFubm90YXRpb246IFNhbWVBcykgewogICAgICAgIHRoaXMuZXhwZWN0ZWQgPSBjb25zdHJhaW50QW5ub3RhdGlvbi5leHBlY3RlZAogICAgICAgIHRoaXMuYWN0dWFsID0gY29uc3RyYWludEFubm90YXRpb24uYWN0dWFsCiAgICAgICAgdGhpcy5lcnJvck1lc3NhZ2UgPSBjb25zdHJhaW50QW5ub3RhdGlvbi5tZXNzYWdlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGlzVmFsaWQodmFsdWU6IEFueSwgY29udGV4dDogQ29uc3RyYWludFZhbGlkYXRvckNvbnRleHQpOiBCb29sZWFuIHsKICAgICAgICB2YXIgdG9SZXR1cm4gPSBmYWxzZQoKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgZXhwZWN0ZWQgPSBCZWFuVXRpbHMuZ2V0UHJvcGVydHkodmFsdWUsIHRoaXMuZXhwZWN0ZWQpCiAgICAgICAgICAgIHZhbCBhY3R1YWwgPSBCZWFuVXRpbHMuZ2V0UHJvcGVydHkodmFsdWUsIHRoaXMuYWN0dWFsKQoKICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4oImV4cGVjdGVkID0gIitleHBlY3RlZCsiICAgYWN0dWFsID0gIithY3R1YWwpOwoKICAgICAgICAgICAgdG9SZXR1cm4gPSBleHBlY3RlZCA9PSBudWxsICYmIGFjdHVhbCA9PSBudWxsIHx8IGV4cGVjdGVkICE9IG51bGwgJiYgZXhwZWN0ZWQgPT0gYWN0dWFsCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHByaW50bG4oZS50b1N0cmluZygpKQogICAgICAgIH0KCiAgICAgICAgLy9JZiB0aGUgdmFsaWRhdGlvbiBmYWlsZWQKICAgICAgICBpZiAoIXRvUmV0dXJuKSB7CiAgICAgICAgICAgIGNvbnRleHQuZGlzYWJsZURlZmF1bHRDb25zdHJhaW50VmlvbGF0aW9uKCkKICAgICAgICAgICAgLy9JbiB0aGUgaW5pdGlhbGl6ZSBtZXRob2QgeW91IGdldCB0aGUgZXJyb3JNZXNzYWdlOiBjb25zdHJhaW50QW5ub3RhdGlvbi5tZXNzYWdlKCk7CiAgICAgICAgICAgIGNvbnRleHQuYnVpbGRDb25zdHJhaW50VmlvbGF0aW9uV2l0aFRlbXBsYXRlKGVycm9yTWVzc2FnZSkuYWRkUHJvcGVydHlOb2RlKGV4cGVjdGVkKS5hZGRDb25zdHJhaW50VmlvbGF0aW9uKCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRvUmV0dXJuCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIGZ1biBtb2RpZnlQb2ludChpZDogTG9uZywgcG9pbnQ6IEludCk6IEludCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNsZWFyQ2FjaGU6IEJvb2xlYW4gPSBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUGljQ29kZVZhbGlkYXRvciA6IENvbnN0cmFpbnRWYWxpZGF0b3I8UGljQ29kZSwgQW55PiB7CgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgcmVkaXNUZW1wbGF0ZTogUmVkaXNUZW1wbGF0ZTxTdHJpbmcsIEFueT4KICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGVudlByb3BlcnRpZXM6IEVudlByb3BlcnRpZXMKCiAgICBwcml2YXRlIHZhciB1dWlkOiBTdHJpbmc/ID0gbnVsbAogICAgcHJpdmF0ZSB2YXIgY29kZTogU3RyaW5nPyA9IG51bGwKICAgIHByaXZhdGUgdmFyIGNsZWFyQ2FjaGU6IEJvb2xlYW4gPSBmYWxzZQogICAgcHJpdmF0ZSB2YXIgZXJyb3JNZXNzYWdlOiBTdHJpbmc/ID0gbnVsbAoKICAgIG92ZXJyaWRlIGZ1biBpbml0aWFsaXplKGNvbnN0cmFpbnRBbm5vdGF0aW9uOiBQaWNDb2RlKSB7CiAgICAgICAgdGhpcy51dWlkID0gY29uc3RyYWludEFubm90YXRpb24udXVpZAogICAgICAgIHRoaXMuY29kZSA9IGNvbnN0cmFpbnRBbm5vdGF0aW9uLmNvZGUKICAgICAgICB0aGlzLmNsZWFyQ2FjaGUgPSBjb25zdHJhaW50QW5ub3RhdGlvbi5jbGVhckNhY2hlCiAgICAgICAgdGhpcy5lcnJvck1lc3NhZ2UgPSBjb25zdHJhaW50QW5ub3RhdGlvbi5tZXNzYWdlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGlzVmFsaWQodmFsdWU6IEFueSwgY29udGV4dDogQ29uc3RyYWludFZhbGlkYXRvckNvbnRleHQpOiBCb29sZWFuIHsKICAgICAgICB2YXIgcmV0ID0gZmFsc2UKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgdXVpZCA9IEJlYW5VdGlscy5nZXRQcm9wZXJ0eSh2YWx1ZSwgdGhpcy51dWlkKQogICAgICAgICAgICB2YWwga2V5ID0gIiR7ZW52UHJvcGVydGllcy5waWNDb2RlLnNlc3Npb25JZH06JHV1aWQiCiAgICAgICAgICAgIHZhbCBjYWNoZWRDb2RlID0gcmVkaXNUZW1wbGF0ZS5vcHNGb3JWYWx1ZSgpLmdldChrZXkpIGFzIFN0cmluZz8KICAgICAgICAgICAgdmFsIGNvZGUgPSBCZWFuVXRpbHMuZ2V0UHJvcGVydHkodmFsdWUsIHRoaXMuY29kZSkKICAgICAgICAgICAgcmV0ID0gY29kZS5pc05vdEJsYW5rKCkgJiYgY2FjaGVkQ29kZSAhPSBudWxsICYmIGNhY2hlZENvZGUuaXNOb3RCbGFuaygpICYmIGNvZGUuZXF1YWxzKGNhY2hlZENvZGUsIGlnbm9yZUNhc2UgPSB0cnVlKQogICAgICAgICAgICBpZiAoY2xlYXJDYWNoZSkgewogICAgICAgICAgICAgICAgcmVkaXNUZW1wbGF0ZS5kZWxldGUoa2V5KQogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICB9CgogICAgICAgIGlmICghcmV0KSB7CiAgICAgICAgICAgIGNvbnRleHQuZGlzYWJsZURlZmF1bHRDb25zdHJhaW50VmlvbGF0aW9uKCkKICAgICAgICAgICAgLy9JbiB0aGUgaW5pdGlhbGl6ZSBtZXRob2QgeW91IGdldCB0aGUgZXJyb3JNZXNzYWdlOiBjb25zdHJhaW50QW5ub3RhdGlvbi5tZXNzYWdlKCk7CiAgICAgICAgICAgIGNvbnRleHQuYnVpbGRDb25zdHJhaW50VmlvbGF0aW9uV2l0aFRlbXBsYXRlKGVycm9yTWVzc2FnZSkuYWRkUHJvcGVydHlOb2RlKGNvZGUpLmFkZENvbnN0cmFpbnRWaW9sYXRpb24oKQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmV0CiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgUGhvbmVDb2RlVmFsaWRhdG9yIDogQ29uc3RyYWludFZhbGlkYXRvcjxQaG9uZUNvZGUsIEFueT4gewogICAgcHJpdmF0ZSB2YXIgZXJyb3JNZXNzYWdlOiBTdHJpbmc/ID0gbnVsbAogICAgcHJpdmF0ZSB2YXIgcGhvbmU6IFN0cmluZz8gPSBudWxsCiAgICBwcml2YXRlIHZhciBjb2RlOiBTdHJpbmc/ID0gbnVsbAogICAgcHJpdmF0ZSB2YXIgY2xlYXJDYWNoZTogQm9vbGVhbiA9IGZhbHNlCgogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc2VydmljZTogVmVyaWZ5Q29kZVNlcnZpY2UKCiAgICBvdmVycmlkZSBmdW4gaW5pdGlhbGl6ZShjb25zdHJhaW50OiBQaG9uZUNvZGUpIHsKICAgICAgICB0aGlzLmVycm9yTWVzc2FnZSA9IGNvbnN0cmFpbnQubWVzc2FnZQogICAgICAgIHRoaXMucGhvbmUgPSBjb25zdHJhaW50LnBob25lCiAgICAgICAgdGhpcy5jb2RlID0gY29uc3RyYWludC5jb2RlCiAgICAgICAgdGhpcy5jbGVhckNhY2hlID0gY29uc3RyYWludC5jbGVhckNhY2hlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGlzVmFsaWQodmFsdWU6IEFueSwgY29udGV4dDogQ29uc3RyYWludFZhbGlkYXRvckNvbnRleHQpOiBCb29sZWFuIHsKICAgICAgICB2YXIgcmV0ID0gZmFsc2UKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgcGhvbmUgPSBCZWFuVXRpbHMuZ2V0UHJvcGVydHkodmFsdWUsIHRoaXMucGhvbmUpCiAgICAgICAgICAgIHZhbCBjb2RlID0gQmVhblV0aWxzLmdldFByb3BlcnR5KHZhbHVlLCB0aGlzLmNvZGUpCiAgICAgICAgICAgIHJldCA9IHNlcnZpY2UuaXNWYWxpZChwaG9uZSwgY29kZSwgY2xlYXJDYWNoZSkKICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgIH0KCiAgICAgICAgaWYgKCFyZXQpIHsKICAgICAgICAgICAgY29udGV4dC5kaXNhYmxlRGVmYXVsdENvbnN0cmFpbnRWaW9sYXRpb24oKQogICAgICAgICAgICAvL0luIHRoZSBpbml0aWFsaXplIG1ldGhvZCB5b3UgZ2V0IHRoZSBlcnJvck1lc3NhZ2U6IGNvbnN0cmFpbnRBbm5vdGF0aW9uLm1lc3NhZ2UoKTsKICAgICAgICAgICAgY29udGV4dC5idWlsZENvbnN0cmFpbnRWaW9sYXRpb25XaXRoVGVtcGxhdGUoZXJyb3JNZXNzYWdlKS5hZGRQcm9wZXJ0eU5vZGUoY29kZSkuYWRkQ29uc3RyYWludFZpb2xhdGlvbigpCiAgICAgICAgfQogICAgICAgIHJldHVybiByZXQKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgQ3NyZlRva2VuVmFsaWRhdG9yIDogQ29uc3RyYWludFZhbGlkYXRvcjxDc3JmVG9rZW4sIFN0cmluZz4gewogICAgQEF1dG93aXJlZAogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgcmVkaXNUZW1wbGF0ZTogUmVkaXNUZW1wbGF0ZTxTdHJpbmcsIEFueT4KCiAgICBvdmVycmlkZSBmdW4gaW5pdGlhbGl6ZShjb25zdHJhaW50OiBDc3JmVG9rZW4pIHt9CgogICAgb3ZlcnJpZGUgZnVuIGlzVmFsaWQodmFsdWU6IFN0cmluZywgY29udGV4dDogQ29uc3RyYWludFZhbGlkYXRvckNvbnRleHQpOiBCb29sZWFuIHsKICAgICAgICB2YWwgY2FjaGVkID0gcmVkaXNUZW1wbGF0ZS5ib3VuZFZhbHVlT3BzKCJjc3JmOiIgKyB2YWx1ZSkuZ2V0KCkgYXMgU3RyaW5nPwogICAgICAgIHZhbCBleGlzdHMgPSB2YWx1ZSA9PSBjYWNoZWQKICAgICAgICByZWRpc1RlbXBsYXRlLmRlbGV0ZSgiY3NyZjoiICsgdmFsdWUpCiAgICAgICAgcmV0dXJuIGV4aXN0cwogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGtsYXNzID0gdmFsdWU6OmNsYXNzCg==</text>
+        <text encoding="base64">Y2xhc3MgVGFnVmFsaWRhdG9yIDogQ29uc3RyYWludFZhbGlkYXRvcjxUYWcsIExpc3Q8VXNlclNlcnZpY2VUeXBlQ2F0ZWdvcnlEdG8uVXNlclNlcnZpY2VUeXBlRHRvPj4gewogICAgcHJpdmF0ZSB2YXIgc2l6ZTogSW50ID0gMAogICAgcHJpdmF0ZSB2YXIgbGVuZ3RoOiBJbnQgPSAwCgogICAgb3ZlcnJpZGUgZnVuIGluaXRpYWxpemUoY29uc3RyYWludEFubm90YXRpb246IFRhZykgewogICAgICAgIHRoaXMuc2l6ZSA9IGNvbnN0cmFpbnRBbm5vdGF0aW9uLnNpemUKICAgICAgICB0aGlzLmxlbmd0aCA9IGNvbnN0cmFpbnRBbm5vdGF0aW9uLmxlbmd0aAogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBpc1ZhbGlkKHZhbHVlOiBMaXN0PFVzZXJTZXJ2aWNlVHlwZUNhdGVnb3J5RHRvLlVzZXJTZXJ2aWNlVHlwZUR0bz4/LCBjb250ZXh0OiBDb25zdHJhaW50VmFsaWRhdG9yQ29udGV4dCk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiBpZiAodmFsdWUgPT0gbnVsbCkgdHJ1ZSBlbHNlIHZhbHVlLnNpemUgPD0gc2l6ZSAmJiB2YWx1ZS5hbGwgeyBpdC5sYWJlbD8ubGV0IHsgaXQubGVuZ3RoIDw9IGxlbmd0aCB9ID86IHRydWUgfQogICAgfQoKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgQ29tcGFyZVZhbGlkYXRvciA6IENvbnN0cmFpbnRWYWxpZGF0b3I8Q29tcGFyZSwgQW55PiB7CiAgICBwcml2YXRlIGxhdGVpbml0IHZhciBlcnJvck1lc3NhZ2U6IFN0cmluZwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgZXhwZWN0ZWQ6IFN0cmluZwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgYWN0dWFsOiBTdHJpbmcKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG9wZXJhdG9yOiBPcGVyYXRvcgoKICAgIG92ZXJyaWRlIGZ1biBpbml0aWFsaXplKGNvbnN0cmFpbnQ6IENvbXBhcmUpIHsKICAgICAgICB0aGlzLmVycm9yTWVzc2FnZSA9IGNvbnN0cmFpbnQubWVzc2FnZQogICAgICAgIHRoaXMuZXhwZWN0ZWQgPSBjb25zdHJhaW50LmV4cGVjdGVkCiAgICAgICAgdGhpcy5hY3R1YWwgPSBjb25zdHJhaW50LmFjdHVhbAogICAgICAgIHRoaXMub3BlcmF0b3IgPSBjb25zdHJhaW50Lm9wZXJhdG9yCiAgICB9CgogICAgQFN1cHByZXNzKCJVTkNIRUNLRURfQ0FTVCIpCiAgICBvdmVycmlkZSBmdW4gaXNWYWxpZCh2YWx1ZTogQW55LCBjb250ZXh0OiBDb25zdHJhaW50VmFsaWRhdG9yQ29udGV4dCk6IEJvb2xlYW4gewogICAgICAgIHZhciByZXQgPSBmYWxzZQogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHZhbCBrbGFzcyA9IHZhbHVlOjpjbGFzcwogICAgICAgICAgICB2YWwgZXhwZWN0ZWQgPSBrbGFzcy5kZWNsYXJlZE1lbWJlclByb3BlcnRpZXMuZmluZCB7IGl0Lm5hbWUgPT0gdGhpcy5leHBlY3RlZCB9Py5qYXZhR2V0dGVyPy5pbnZva2UodmFsdWUpIGFzIENvbXBhcmFibGU8QW55PgogICAgICAgICAgICB2YWwgYWN0dWFsID0ga2xhc3MuZGVjbGFyZWRNZW1iZXJQcm9wZXJ0aWVzLmZpbmQgeyBpdC5uYW1lID09IHRoaXMuYWN0dWFsIH0/LmphdmFHZXR0ZXI/Lmludm9rZSh2YWx1ZSkgYXMgQ29tcGFyYWJsZTxBbnk+CiAgICAgICAgICAgIHJldCA9IGlzVmFsaWQoZXhwZWN0ZWQsIGFjdHVhbCkKICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKQogICAgICAgIH0KCiAgICAgICAgaWYgKCFyZXQpIHsKICAgICAgICAgICAgY29udGV4dC5kaXNhYmxlRGVmYXVsdENvbnN0cmFpbnRWaW9sYXRpb24oKQogICAgICAgICAgICAvL0luIHRoZSBpbml0aWFsaXplIG1ldGhvZCB5b3UgZ2V0IHRoZSBlcnJvck1lc3NhZ2U6IGNvbnN0cmFpbnRBbm5vdGF0aW9uLm1lc3NhZ2UoKTsKICAgICAgICAgICAgY29udGV4dC5idWlsZENvbnN0cmFpbnRWaW9sYXRpb25XaXRoVGVtcGxhdGUoZXJyb3JNZXNzYWdlKS5hZGRQcm9wZXJ0eU5vZGUoZXhwZWN0ZWQpLmFkZENvbnN0cmFpbnRWaW9sYXRpb24oKQogICAgICAgIH0KICAgICAgICByZXR1cm4gcmV0CiAgICB9CgogICAgcHJpdmF0ZSBmdW4gaXNWYWxpZChleHBlY3RlZDogQ29tcGFyYWJsZTxBbnk+LCBhY3R1YWw6IENvbXBhcmFibGU8QW55Pik6IEJvb2xlYW4gewogICAgICAgIHZhbCByZXN1bHQgPSBleHBlY3RlZC5jb21wYXJlVG8oYWN0dWFsKQogICAgICAgIHJldHVybiB3aGVuIChvcGVyYXRvcikgewogICAgICAgICAgICBPcGVyYXRvci5HdCAtPiByZXN1bHQgPiAwCiAgICAgICAgICAgIE9wZXJhdG9yLkd0ZSAtPiByZXN1bHQgPj0gMAogICAgICAgICAgICBPcGVyYXRvci5MdCAtPiByZXN1bHQgPCAwCiAgICAgICAgICAgIE9wZXJhdG9yLkx0ZSAtPiByZXN1bHQgPD0gMAogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">Y2xhc3MgU2FtZUFzVmFsaWRhdG9yIDogQ29uc3RyYWludFZhbGlkYXRvcjxTYW1lQXMsIEFueT4gewogICAgcHJpdmF0ZSB2YXIgZXhwZWN0ZWQ6IFN0cmluZz8gPSBudWxsCiAgICBwcml2YXRlIHZhciBhY3R1YWw6IFN0cmluZz8gPSBudWxsCiAgICBwcml2YXRlIHZhciBlcnJvck1lc3NhZ2U6IFN0cmluZz8gPSBudWxsCgogICAgb3ZlcnJpZGUgZnVuIGluaXRpYWxpemUoY29uc3RyYWludEFubm90YXRpb246IFNhbWVBcykgewogICAgICAgIHRoaXMuZXhwZWN0ZWQgPSBjb25zdHJhaW50QW5ub3RhdGlvbi5leHBlY3RlZAogICAgICAgIHRoaXMuYWN0dWFsID0gY29uc3RyYWludEFubm90YXRpb24uYWN0dWFsCiAgICAgICAgdGhpcy5lcnJvck1lc3NhZ2UgPSBjb25zdHJhaW50QW5ub3RhdGlvbi5tZXNzYWdlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGlzVmFsaWQodmFsdWU6IEFueSwgY29udGV4dDogQ29uc3RyYWludFZhbGlkYXRvckNvbnRleHQpOiBCb29sZWFuIHsKICAgICAgICB2YXIgdG9SZXR1cm4gPSBmYWxzZQoKICAgICAgICB0cnkgewogICAgICAgICAgICB2YWwgZXhwZWN0ZWQgPSBCZWFuVXRpbHMuZ2V0UHJvcGVydHkodmFsdWUsIHRoaXMuZXhwZWN0ZWQpCiAgICAgICAgICAgIHZhbCBhY3R1YWwgPSBCZWFuVXRpbHMuZ2V0UHJvcGVydHkodmFsdWUsIHRoaXMuYWN0dWFsKQoKICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4oImV4cGVjdGVkID0gIitleHBlY3RlZCsiICAgYWN0dWFsID0gIithY3R1YWwpOwoKICAgICAgICAgICAgdG9SZXR1cm4gPSBleHBlY3RlZCA9PSBudWxsICYmIGFjdHVhbCA9PSBudWxsIHx8IGV4cGVjdGVkICE9IG51bGwgJiYgZXhwZWN0ZWQgPT0gYWN0dWFsCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHByaW50bG4oZS50b1N0cmluZygpKQogICAgICAgIH0KCiAgICAgICAgLy9JZiB0aGUgdmFsaWRhdGlvbiBmYWlsZWQKICAgICAgICBpZiAoIXRvUmV0dXJuKSB7CiAgICAgICAgICAgIGNvbnRleHQuZGlzYWJsZURlZmF1bHRDb25zdHJhaW50VmlvbGF0aW9uKCkKICAgICAgICAgICAgLy9JbiB0aGUgaW5pdGlhbGl6ZSBtZXRob2QgeW91IGdldCB0aGUgZXJyb3JNZXNzYWdlOiBjb25zdHJhaW50QW5ub3RhdGlvbi5tZXNzYWdlKCk7CiAgICAgICAgICAgIGNvbnRleHQuYnVpbGRDb25zdHJhaW50VmlvbGF0aW9uV2l0aFRlbXBsYXRlKGVycm9yTWVzc2FnZSkuYWRkUHJvcGVydHlOb2RlKGV4cGVjdGVkKS5hZGRDb25zdHJhaW50VmlvbGF0aW9uKCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRvUmV0dXJuCiAgICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
