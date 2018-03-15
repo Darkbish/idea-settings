@@ -118,6 +118,12 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="7" />
       </file>
+      <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/GenericTest.kt" timestamp="1521091816592">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+      </file>
       <file name="D:/Projects/demo/build.gradle" timestamp="1521083632778">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="53" />
@@ -273,12 +279,12 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="95" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/PermissionConverter.kt" timestamp="1521083404496">
-        <mark key="'" line="8" column="28" />
-        <mark key="[" line="8" column="102" />
-        <mark key="]" line="8" column="102" />
-        <mark key="." line="8" column="102" />
-        <mark key="^" line="8" column="104" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/PermissionConverter.kt" timestamp="1521092162279">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="14" column="84" />
+        <mark key="]" line="14" column="82" />
+        <mark key="." line="14" column="82" />
+        <mark key="^" line="14" column="82" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/action/ActionPageRequestDto.kt" timestamp="1520401304248">
         <mark key="[" line="11" column="61" />
@@ -434,6 +440,11 @@
         <mark key="]" line="13" column="80" />
         <mark key="^" line="13" column="80" />
         <mark key="." line="13" column="80" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1521091272024">
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="31" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceTypeService.kt" timestamp="1520405959839">
         <mark key="[" line="46" column="26" />
@@ -855,11 +866,11 @@
       <jump line="72" column="54" filename="D:/Works/xt-api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>ResourceAction</text>
       </register>
       <register name="/" type="4">
         <text>dozer</text>
@@ -867,35 +878,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gRG96ZXJCZWFuTWFwcGVyQnVpbGRlci5jcmVhdGUoKS53aXRoTWFwcGluZ0ZpbGVzKAogICAgICAgICAgICAgICAgImRvemVyXFxjb25maWcueG1sIiwKICAgICAgICAgICAgICAgICJkb3plclxcbWFwcGluZ1xcU3R1ZGVudE1hcHBpbmcueG1sIgogICAgICAgICkuYnVpbGQoKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEdlbmVyaWNUeXBlUmVzb2x2ZXIucmVzb2x2ZVR5cGUoUmVzb3VyY2VBY3Rpb246OmNsYXNzLmphdmEsIENvbGxlY3Rpb246OmNsYXNzLmphdmEpIGFzIENsYXNzPENvbGxlY3Rpb248UmVzb3VyY2VBY3Rpb24+PiwKICAgIEdlbmVyaWNUeXBlUmVzb2x2ZXIucmVzb2x2ZVR5cGUoU3RyaW5nOjpjbGFzcy5qYXZhLCBMaXN0OjpjbGFzcy5qYXZhKSBhcyBDbGFzczxMaXN0PFN0cmluZz4+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCk6c3VwZXIoKXsKICAgICAgICB2YWwgYWN0aW9uczpDb2xsZWN0aW9uPFJlc291cmNlQWN0aW9uPiA9IEFycmF5TGlzdCgpCiAgICAgICAgdmFsIGxpc3Q6TGlzdDxTdHJpbmc+ID0gQXJyYXlMaXN0KCkKICAgICAgICBzdXBlcihhY3Rpb25zOjpjbGFzcy5qYXZhLCBsaXN0OjpjbGFzcy5qYXZhKQogICAgfQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb252ZXJ0RnJvbShzb3VyY2U6IExpc3Q8Kj4/LCBkZXN0aW5hdGlvbjogQ29sbGVjdGlvbjwqPj8pOiBDb2xsZWN0aW9uPCo+IHsKICAgICAgICB2YWwgbGlzdDpMaXN0PFN0cmluZz4gPSBBcnJheUxpc3QoKQogdmFsIGNsYXp6PSAgICAgICBsaXN0OjpjbGFzcy5qYXZhCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGNvbnZlcnRUbyhzb3VyY2U6IENvbGxlY3Rpb248Kj4/LCBkZXN0aW5hdGlvbjogTGlzdDwqPj8pOiBMaXN0PCo+IHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb252ZXJ0RnJvbShzb3VyY2U6ID8sIGRlc3RpbmF0aW9uOiA/KTogewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBjb252ZXJ0VG8oc291cmNlOiA/LCBkZXN0aW5hdGlvbjogPyk6IHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
+      </register>
+      <register name="8" type="4">
         <text>withMappingFiles(
                 &quot;dozer\\config.xml&quot;,
                 &quot;dozer\\mapping\\StudentMapping.xml&quot;
         ).build();</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGItaGludD5qYXZhLmxhbmcuU3RyaW5nPC9iLWhpbnQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGR0bykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Y3VzdG9tLWNvbnZlcnRlcnM+CiAgICAgICAgICAgIDxjb252ZXJ0ZXIgdHlwZT0iY29tLnh0LmNvbnZlcnRlci5FbnVtQ29udmVydGVyIj4KICAgICAgICAgICAgICAgIDxjbGFzcy1hPmphdmEubGFuZy5FbnVtPC9jbGFzcy1hPgogICAgICAgICAgICAgICAgPGNsYXNzLWI+Y29tLnh0LmR0by5PcHRpb25EdG88L2NsYXNzLWI+CiAgICAgICAgICAgIDwvY29udmVydGVyPgogICAgICAgICAgICA8Y29udmVydGVyIHR5cGU9ImNvbS54dC5jb252ZXJ0ZXIuSW50Q29udmVydGVyIj4KICAgICAgICAgICAgICAgIDxjbGFzcy1hPmphdmEubGFuZy5JbnRlZ2VyPC9jbGFzcy1hPgogICAgICAgICAgICAgICAgPGNsYXNzLWI+amF2YS5sYW5nLk51bWJlcjwvY2xhc3MtYj4KICAgICAgICAgICAgPC9jb252ZXJ0ZXI+CiAgICAgICAgICAgIDxjb252ZXJ0ZXIgdHlwZT0iY29tLnh0LmNvbnZlcnRlci5Mb25nQ29udmVydGVyIj4KICAgICAgICAgICAgICAgIDxjbGFzcy1hPmphdmEubGFuZy5Mb25nPC9jbGFzcy1hPgogICAgICAgICAgICAgICAgPGNsYXNzLWI+amF2YS5sYW5nLk51bWJlcjwvY2xhc3MtYj4KICAgICAgICAgICAgPC9jb252ZXJ0ZXI+CiAgICAgICAgPC9jdXN0b20tY29udmVydGVycz4K</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">RG96ZXJDb252ZXJ0ZXI8UmVzb3VyY2VBY3Rpb24sIEFjdGlvbj4oUmVzb3VyY2VBY3Rpb246OmNsYXNzLmphdmEsIEFjdGlvbjo6Y2xhc3MuamF2YSkgewogICAgb3ZlcnJpZGUgZnVuIGNvbnZlcnRGcm9tKHNvdXJjZTogQWN0aW9uPywgZGVzdGluYXRpb246IFJlc291cmNlQWN0aW9uPyk6IFJlc291cmNlQWN0aW9uPyB7CiAgICAgICAgcmV0dXJuIHNvdXJjZT8ubGV0IHsgUmVzb3VyY2VBY3Rpb24odHlwZSA9IGl0KSB9CiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGNvbnZlcnRUbyhzb3VyY2U6IFJlc291cmNlQWN0aW9uPywgZGVzdGluYXRpb246IEFjdGlvbj8pOiBBY3Rpb24/IHsKICAgICAgICByZXR1cm4gc291cmNlPy50eXBlCiAgICB9Cgp9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8bWFwcGluZyB0eXBlPSJvbmUtd2F5Ij4KICAgIDxjbGFzcy1hPmNvbS54dC5lbnRpdHkuUmVzb3VyY2VBY3Rpb248L2NsYXNzLWE+CiAgICA8Y2xhc3MtYj5qYXZhLmxhbmcuU3RyaW5nPC9jbGFzcy1iPgogICAgPGZpZWxkPgogICAgICA8YT50eXBlPC9hPgogICAgICA8Yj50aGlzPC9iPgogICAgPC9maWVsZD4KICA8L21hcHBpbmc+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc291cmNlPy5sZXQgeyBSZXNvdXJjZUFjdGlvbih0eXBlID0gRW51bS5wYXJzZShpdCkgPzogQWN0aW9uLkFkZCkgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
