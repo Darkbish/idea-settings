@@ -211,6 +211,12 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="7" column="13" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ActionController.kt" timestamp="1521098347648">
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="41" column="47" />
+        <mark key="." line="41" column="47" />
+        <mark key="^" line="41" column="47" />
+      </file>
       <file name="D:/Projects/demo/src/test/java/com/xt/demo/MapTest.java" timestamp="1521090170838">
         <mark key="[" line="21" column="8" />
         <mark key="]" line="21" column="8" />
@@ -871,11 +877,11 @@
       <jump line="72" column="54" filename="D:/Works/xt-api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoLgo=</text>
+      <register name="&quot;" type="4">
+        <text>.map { it.toString() }</text>
       </register>
       <register name="-" type="4">
-        <text>contains(permission)</text>
+        <text>.map { it.toString() }</text>
       </register>
       <register name="/" type="4">
         <text>dozer</text>
