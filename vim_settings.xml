@@ -26,11 +26,11 @@
         <mark key="." line="51" column="18" />
         <mark key="^" line="51" column="18" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/CustomSerializer.kt" timestamp="1521082293075">
-        <mark key="[" line="44" column="39" />
-        <mark key="]" line="44" column="8" />
-        <mark key="." line="44" column="8" />
-        <mark key="^" line="44" column="39" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/CustomSerializer.kt" timestamp="1521092754089">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="40" />
+        <mark key="." line="43" column="40" />
+        <mark key="^" line="43" column="39" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/Extension.kt" timestamp="1521082919558">
         <mark key="[" line="141" column="0" />
@@ -435,11 +435,10 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/CustomBeanSerializerModifier.kt" timestamp="1521082286605">
-        <mark key="[" line="13" column="81" />
-        <mark key="]" line="13" column="80" />
-        <mark key="^" line="13" column="80" />
-        <mark key="." line="13" column="80" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/CustomBeanSerializerModifier.kt" timestamp="1521092740788">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/Kotlin Console" timestamp="1521091272024">
         <mark key="]" line="2" column="31" />
@@ -555,10 +554,10 @@
         <mark key="." line="30" column="43" />
         <mark key="^" line="30" column="44" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserListDto.kt" timestamp="1521076868574">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserListDto.kt" timestamp="1521093823549">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/manager/ManagerPermissionDto.kt" timestamp="1521083029755">
         <mark key="[" line="8" column="22" />
@@ -571,16 +570,22 @@
         <mark key="." line="279" column="33" />
         <mark key="^" line="279" column="33" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/CustomMethodSecurityExpressionRoot.kt" timestamp="1521093784169">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/SmsProperties.kt" timestamp="1520645557223">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="9" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WebMvcConfig.kt" timestamp="1520928272219">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WebMvcConfig.kt" timestamp="1521092731075">
+        <mark key="[" line="36" column="103" />
+        <mark key="]" line="41" column="7" />
+        <mark key="." line="41" column="7" />
+        <mark key="^" line="41" column="7" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/RemoveListHostConverter.kt" timestamp="1520585360342">
         <mark key="[" line="11" column="75" />
@@ -733,11 +738,11 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="57" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1521017125696">
-        <mark key="[" line="47" column="49" />
-        <mark key="]" line="47" column="62" />
-        <mark key="^" line="47" column="62" />
-        <mark key="." line="47" column="62" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1521093540392">
+        <mark key="[" line="93" column="105" />
+        <mark key="]" line="93" column="108" />
+        <mark key="^" line="93" column="108" />
+        <mark key="." line="93" column="108" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserFollowerPageRequestDto.kt" timestamp="1520401941760">
         <mark key="[" line="9" column="47" />
@@ -867,10 +872,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBhdXRoLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ResourceAction</text>
+        <text>contains(permission)</text>
       </register>
       <register name="/" type="4">
         <text>dozer</text>
@@ -879,34 +884,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gRG96ZXJCZWFuTWFwcGVyQnVpbGRlci5jcmVhdGUoKS53aXRoTWFwcGluZ0ZpbGVzKAogICAgICAgICAgICAgICAgImRvemVyXFxjb25maWcueG1sIiwKICAgICAgICAgICAgICAgICJkb3plclxcbWFwcGluZ1xcU3R1ZGVudE1hcHBpbmcueG1sIgogICAgICAgICkuYnVpbGQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBhdXRoLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICBAU3VwcHJlc3MoIlVOQ0hFQ0tFRF9DQVNUIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEdlbmVyaWNUeXBlUmVzb2x2ZXIucmVzb2x2ZVR5cGUoUmVzb3VyY2VBY3Rpb246OmNsYXNzLmphdmEsIENvbGxlY3Rpb246OmNsYXNzLmphdmEpIGFzIENsYXNzPENvbGxlY3Rpb248UmVzb3VyY2VBY3Rpb24+PiwKICAgIEdlbmVyaWNUeXBlUmVzb2x2ZXIucmVzb2x2ZVR5cGUoU3RyaW5nOjpjbGFzcy5qYXZhLCBMaXN0OjpjbGFzcy5qYXZhKSBhcyBDbGFzczxMaXN0PFN0cmluZz4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGlzRW51bSh3cml0ZXI6IEJlYW5Qcm9wZXJ0eVdyaXRlcik6Qm9vbGVhbiA9IHdyaXRlci50eXBlLmlzRW51bVR5cGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCk6c3VwZXIoKXsKICAgICAgICB2YWwgYWN0aW9uczpDb2xsZWN0aW9uPFJlc291cmNlQWN0aW9uPiA9IEFycmF5TGlzdCgpCiAgICAgICAgdmFsIGxpc3Q6TGlzdDxTdHJpbmc+ID0gQXJyYXlMaXN0KCkKICAgICAgICBzdXBlcihhY3Rpb25zOjpjbGFzcy5qYXZhLCBsaXN0OjpjbGFzcy5qYXZhKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRW51bSh3cml0ZXIpIC0+IHdyaXRlci5hc3NpZ25TZXJpYWxpemVyKEVudW1TZXJpYWxpemVyLklOU1RBTkNFKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb252ZXJ0RnJvbShzb3VyY2U6IExpc3Q8Kj4/LCBkZXN0aW5hdGlvbjogQ29sbGVjdGlvbjwqPj8pOiBDb2xsZWN0aW9uPCo+IHsKICAgICAgICB2YWwgbGlzdDpMaXN0PFN0cmluZz4gPSBBcnJheUxpc3QoKQogdmFsIGNsYXp6PSAgICAgICBsaXN0OjpjbGFzcy5qYXZhCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGNvbnZlcnRUbyhzb3VyY2U6IENvbGxlY3Rpb248Kj4/LCBkZXN0aW5hdGlvbjogTGlzdDwqPj8pOiBMaXN0PCo+IHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBjb252ZXJ0RnJvbShzb3VyY2U6ID8sIGRlc3RpbmF0aW9uOiA/KTogewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBjb252ZXJ0VG8oc291cmNlOiA/LCBkZXN0aW5hdGlvbjogPyk6IHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4KICAgIH0K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
-      <register name="8" type="4">
-        <text>withMappingFiles(
-                &quot;dozer\\config.xml&quot;,
-                &quot;dozer\\mapping\\StudentMapping.xml&quot;
-        ).build();</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEdlbmVyaWNUeXBlUmVzb2x2ZXIucmVzb2x2ZVR5cGUoUmVzb3VyY2VBY3Rpb246OmNsYXNzLmphdmEsIENvbGxlY3Rpb246OmNsYXNzLmphdmEpIGFzIENsYXNzPENvbGxlY3Rpb248UmVzb3VyY2VBY3Rpb24+PiwKICAgIEdlbmVyaWNUeXBlUmVzb2x2ZXIucmVzb2x2ZVR5cGUoU3RyaW5nOjpjbGFzcy5qYXZhLCBMaXN0OjpjbGFzcy5qYXZhKSBhcyBDbGFzczxMaXN0PFN0cmluZz4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
