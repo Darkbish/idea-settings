@@ -205,11 +205,11 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="D:/Projects/demo/src/test/java/com/xt/demo/MapTest.java" timestamp="1521086454837">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="49" />
+      <file name="D:/Projects/demo/src/test/java/com/xt/demo/MapTest.java" timestamp="1521090170838">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="21" column="10" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/User.kt" timestamp="1521085579685">
         <mark key="[" line="5" column="42" />
@@ -856,10 +856,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DozerBeanMapperBuilder.buildDefaul</text>
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>DozerBeanMapperBuilder.buildDefaul</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>dozer</text>
