@@ -813,11 +813,11 @@
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/PointService.kt" timestamp="1520910425231">
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521166235488">
-        <mark key="[" line="210" column="46" />
-        <mark key="]" line="210" column="74" />
-        <mark key="." line="210" column="74" />
-        <mark key="^" line="210" column="74" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521169265809">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="209" column="74" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/ApiApplication.kt" timestamp="1520824367912">
         <mark key="[" line="32" column="60" />
@@ -918,7 +918,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWUgJ215c3FsOm15c3FsLWNvbm5lY3Rvci1qYXZhJwo=</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ3VzZXInKSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -930,31 +930,31 @@
         <text encoding="base64">ICAgIHJ1bnRpbWUgJ215c3FsOm15c3FsLWNvbm5lY3Rvci1qYXZhJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24KQEVuYWJsZVdlYlNlY3VyaXR5Cg==</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ3VzZXInKSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTUUxCdWlsZGVyIAo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24KQEVuYWJsZVdlYlNlY3VyaXR5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bXliYXRpcy5tYXBwZXItc3ByaW5nLWJvb3Qtc3RhcnRlcjoxLjIuMycK</text>
+        <text encoding="base64">ICAgICAgICBTUUxCdWlsZGVyIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0eXBlLWhhbmRsZXJzLXBhY2thZ2U6IGNvbS54dC5oYW5kbGVyCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ3RrLm15YmF0aXM6bXliYXRpcy5tYXBwZXItc3ByaW5nLWJvb3Qtc3RhcnRlcjoxLjIuMycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQtZW51bS10eXBlLWhhbmRsZXI6IGNvbS54dC5kZW1vLmNvbW1vbi5FbnVtSGFuZGxlcgo=</text>
+        <text encoding="base64">ICB0eXBlLWhhbmRsZXJzLXBhY2thZ2U6IGNvbS54dC5oYW5kbGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQtZW51bS10eXBlLWhhbmRsZXI6IGNvbS54dC5kZW1vLmNvbW1vbi5FbnVtSGFuZGxlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkNlbnRyYWwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QE5vQXJncwo=</text>
+        <text encoding="base64">ICAgIG1hdmVuQ2VudHJhbCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoLgo=</text>
+        <text encoding="base64">QE5vQXJncwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
