@@ -77,6 +77,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/follower/UserFollowerListDto.kt" timestamp="1521430796035">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/WxLoginStatus.kt" timestamp="1520567893882">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="4" />
@@ -99,11 +105,11 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1521429366551">
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="35" column="28" />
-        <mark key="." line="35" column="28" />
-        <mark key="^" line="35" column="41" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1521430965004">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="46" column="41" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="44" column="34" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1521078404154">
         <mark key="[" line="156" column="0" />
@@ -134,11 +140,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="63" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserFollowerController.kt" timestamp="1521428943034">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
-        <mark key="^" line="51" column="18" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserFollowerController.kt" timestamp="1521430987286">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="32" column="111" />
+        <mark key="." line="32" column="111" />
+        <mark key="^" line="32" column="111" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ServiceTypeController.kt" timestamp="1520405785793">
         <mark key="[" line="37" column="0" />
@@ -191,11 +197,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserFollowerMapper.xml" timestamp="1521429472360">
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="5" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="29" column="15" />
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserFollowerMapper.xml" timestamp="1521430537670">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/TagValidator.kt" timestamp="1520846975837">
         <mark key="[" line="9" column="0" />
@@ -472,6 +478,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="6" column="4" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/UserFollowerMapping.xml" timestamp="1521430691732">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Config.kt" timestamp="1520909639825">
         <mark key="[" line="6" column="0" />
@@ -781,11 +793,10 @@
         <mark key="^" line="36" column="52" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/follower/UserFollowerListPageRequestDto.kt" timestamp="1521429322431">
-        <mark key="[" line="9" column="67" />
-        <mark key="]" line="9" column="67" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="67" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/follower/UserFollowerListPageRequestDto.kt" timestamp="1521430948909">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ManagerController.kt" timestamp="1521017958121">
         <mark key="[" line="161" column="0" />
@@ -851,11 +862,10 @@
       <file name="/Dummy.txt" timestamp="1521192686567">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserFollowerMapper.kt" timestamp="1521429634756">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserFollowerMapper.kt" timestamp="1521430276492">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/LengthBy.kt" timestamp="1520845769738">
         <mark key="[" line="28" column="24" />
@@ -1021,11 +1031,11 @@
       <jump line="40" column="0" filename="D:/Projects/demo/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBkdG8gsunRr8z1vP4K</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>dto: UserFollowerPageRequestDto</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
@@ -1034,31 +1044,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySWQg08O7p2lkCiAgICAgKiBAcGFyYW0gdHlwZSC6w9PRwODQzQogICAgICogQHBhcmFtIG9mZnNldCDG8Mq8zrvWwwogICAgICogQHBhcmFtIHBhZ2VTaXplIL3hyvjOu9bDCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBkdG8gsunRr8z1vP4K</text>
+        <text encoding="base64">ICAgIHZhciB1c2VySWQ6IExvbmcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQubG9jYWxlKExvY2FsZS5DSElOQSkK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuZmVhdHVyZXNUb0VuYWJsZShNYXBwZXJGZWF0dXJlKQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvZmZzZXQgxvDKvM671sMKICAgICAqIEBwYXJhbSBwYWdlU2l6ZSC94cr4zrvWwwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuc2V0TG9jYWxlKExvY2FsZS5DSElOQSkK</text>
+        <text encoding="base64">ICAgICAgICBAUGFyYW0oIm9mZnNldCIpIG9mZnNldDogSW50LAogICAgICAgIEBQYXJhbSgicGFnZVNpemUiKSBwYWdlU2l6ZTogSW50Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuc2V0TG9jYWxlKExvY2FsZS5DSElOQSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgPGluY2x1ZGUgcmVmaWQ9ImNvbHVtbiI+CiAgICAgICAgPAogICAgICA8L2luY2x1ZGU+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuZGlzYWJsZShTZXJpYWxpemF0aW9uRmVhdHVyZS5XUklURV9EQVRFU19BU19USU1FU1RBTVBTKQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBkdG8gsunRr8z1vP4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuc2V0TG9jYWxlKExvY2FsZS5DSElOQSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQubG9jYWxlKExvY2FsZS5DSElOQSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuZGF0ZUZvcm1hdChmb3JtYXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuZmVhdHVyZXNUb0VuYWJsZShNYXBwZXJGZWF0dXJlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9kYU1vZHVsZS5hZGRTZXJpYWxpemVyKERhdGVUaW1lOjpjbGFzcy5qYXZhLCBEYXRlVGltZVNlcmlhbGl6ZXIoZm9ybWF0LCAwKSkK</text>
+        <text encoding="base64">ICAgICAgICBtYXBwZXIuc2V0TG9jYWxlKExvY2FsZS5DSElOQSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
