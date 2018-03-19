@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/ResponseCode.kt" timestamp="1520924936769">
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="31" />
-        <mark key="^" line="30" column="35" />
-        <mark key="." line="30" column="35" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/SpecialProvider.kt" timestamp="1521105165197">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="17" column="28" />
@@ -25,46 +19,27 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520834863922">
-        <mark key="[" line="51" column="47" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
-        <mark key="^" line="51" column="18" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/UserServiceTypeListDto.kt" timestamp="1521439845124">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-      </file>
       <file name="D:/Projects/demo/src/main/java/com/xt/demo/common/ToggleMapper.java" timestamp="1521106355302">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/PointController.kt" timestamp="1521183445455">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="23" column="21" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="23" column="21" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceService.kt" timestamp="1521442972480">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/CustomSerializer.kt" timestamp="1521189995139">
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="21" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/RedisConfiguration.kt" timestamp="1521190456081">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="46" column="69" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/dto/PointDto.kt" timestamp="1521187582212">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Service.kt" timestamp="1521442263195">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/Extension.kt" timestamp="1521172046291">
         <mark key="[" line="143" column="0" />
@@ -78,27 +53,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/ResourceAction.kt" timestamp="1521016815613">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/follower/UserFollowerListDto.kt" timestamp="1521430796035">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="13" column="27" />
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="27" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/WxLoginStatus.kt" timestamp="1520567893882">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/UserServiceTypePageRequestDto.kt" timestamp="1521438184747">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="37" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="37" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1521077442408">
         <mark key="[" line="60" column="0" />
@@ -117,12 +76,6 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1521430965004">
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="46" column="41" />
-        <mark key="." line="46" column="41" />
-        <mark key="^" line="44" column="34" />
-      </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1521078404154">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
@@ -140,18 +93,6 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="81" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/enums/Gender.kt" timestamp="1520565819237">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceTag/ServiceTagPageRequestDto.kt" timestamp="1520401768294">
-        <mark key="[" line="8" column="63" />
-        <mark key="]" line="8" column="63" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="63" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserFollowerController.kt" timestamp="1521430987286">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="32" column="111" />
@@ -159,10 +100,10 @@
         <mark key="^" line="32" column="111" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ServiceTypeController.kt" timestamp="1520405785793">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="19" column="17" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/CustomResponseBodyAdvice.kt" timestamp="1521191393405">
         <mark key="[" line="38" column="31" />
@@ -175,45 +116,16 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="7" />
       </file>
-      <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/GenericTest.kt" timestamp="1521091816592">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1520918086288">
-        <mark key="[" line="71" column="15" />
-        <mark key="]" line="71" column="15" />
-        <mark key="." line="71" column="15" />
-        <mark key="^" line="73" column="25" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/ArticlePageRequestDto.kt" timestamp="1520401377470">
         <mark key="[" line="14" column="113" />
         <mark key="]" line="14" column="113" />
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="113" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/PointMapper.xml" timestamp="1521428859647">
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="43" column="25" />
-        <mark key="^" line="40" column="26" />
-        <mark key="." line="43" column="25" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PhoneCodeValidator.kt" timestamp="1520846445155">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/PointController.kt" timestamp="1520252941147">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserFollowerMapper.xml" timestamp="1521430537670">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="10" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/TagValidator.kt" timestamp="1520846975837">
         <mark key="[" line="9" column="0" />
@@ -225,11 +137,6 @@
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="10" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxConfiguration.kt" timestamp="1520645531529">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/mapper/AreaMapper.kt" timestamp="1521105311455">
         <mark key="[" line="6" column="0" />
@@ -243,23 +150,11 @@
         <mark key="^" line="41" column="31" />
         <mark key="." line="41" column="31" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/manager/ManagerPageRequestDto.kt" timestamp="1520401555856">
-        <mark key="[" line="13" column="93" />
-        <mark key="]" line="13" column="93" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="93" />
-      </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/DemoApplication.kt" timestamp="1521105443605">
         <mark key="[" line="9" column="52" />
         <mark key="]" line="9" column="50" />
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="50" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/SameAs.kt" timestamp="1520846942484">
-        <mark key="[" line="39" column="74" />
-        <mark key="]" line="39" column="74" />
-        <mark key="." line="39" column="74" />
-        <mark key="^" line="39" column="73" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserSchoolPageRequestDto.kt" timestamp="1520409912201">
         <mark key="[" line="8" column="21" />
@@ -267,23 +162,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1521192417490">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="12" column="12" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ActionController.kt" timestamp="1521098347648">
         <mark key="[" line="41" column="48" />
         <mark key="]" line="41" column="47" />
         <mark key="." line="41" column="47" />
         <mark key="^" line="41" column="47" />
-      </file>
-      <file name="D:/Projects/demo/src/test/java/com/xt/demo/MapTest.java" timestamp="1521090170838">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="." line="21" column="8" />
-        <mark key="^" line="21" column="10" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/User.kt" timestamp="1521085579685">
         <mark key="[" line="5" column="42" />
@@ -296,6 +179,474 @@
         <mark key="]" line="41" column="61" />
         <mark key="^" line="46" column="19" />
         <mark key="." line="41" column="61" />
+      </file>
+      <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/Teacher.kt" timestamp="1521192531209">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ResourceAction.xml" timestamp="1521014999665">
+        <mark key="[" line="3" column="2" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/Compare.kt" timestamp="1520846164656">
+        <mark key="[" line="48" column="25" />
+        <mark key="]" line="48" column="25" />
+        <mark key="." line="48" column="25" />
+        <mark key="^" line="48" column="25" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/menu/MenuListDto.kt" timestamp="1521015918838">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/action/ActionPageRequestDto.kt" timestamp="1520401304248">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="61" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="61" />
+      </file>
+      <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520254584144">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/SmsUtil.kt" timestamp="1520587098605">
+        <mark key="[" line="28" column="86" />
+        <mark key="]" line="28" column="87" />
+        <mark key="^" line="32" column="69" />
+        <mark key="." line="28" column="87" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/token/TokenPageRequestDto.kt" timestamp="1520401893266">
+        <mark key="[" line="9" column="65" />
+        <mark key="]" line="9" column="65" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="65" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/FileMapping.xml" timestamp="1520587715294">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/config/EnvProperties.kt" timestamp="1520647824222">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/RegisterDto.kt" timestamp="1520927228157">
+        <mark key="[" line="28" column="25" />
+        <mark key="]" line="13" column="120" />
+        <mark key="." line="13" column="120" />
+        <mark key="^" line="13" column="123" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/PointMapping.xml" timestamp="1521183512178">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="46" />
+        <mark key="^" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/DozerConfig.kt" timestamp="1520647181321">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="17" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/entity/Area.java" timestamp="1520256401329">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/UserFollowerMapping.xml" timestamp="1521430691732">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/DateTimeConverter.kt" timestamp="1521423498748">
+        <mark key="[" line="8" column="81" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/PointMapper.kt" timestamp="1521183227381">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceTypeService.kt" timestamp="1521442795829">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+        <mark key="." line="15" column="5" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/WxTokenMapper.kt" timestamp="1520492301354">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/VerifyCodeService.kt" timestamp="1520818837108">
+        <mark key="[" line="40" column="95" />
+        <mark key="]" line="40" column="95" />
+        <mark key="^" line="41" column="59" />
+        <mark key="." line="40" column="95" />
+      </file>
+      <file name="D:/Projects/demo/src/main/resources/dozer/config.xml" timestamp="1521085297499">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ResourceService.kt" timestamp="1521015455372">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="^" line="28" column="59" />
+        <mark key="." line="28" column="37" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/UserServiceType.kt" timestamp="1521442298782">
+        <mark key="[" line="14" column="23" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/ServiceTypePageRequestDto.kt" timestamp="1520401793104">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="63" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/CorsProperties.kt" timestamp="1520645549569">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/WxProperties.kt" timestamp="1520587060976">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
+        <mark key="^" line="21" column="10" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/EnumConverter.kt" timestamp="1521171982967">
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="49" />
+        <mark key="." line="16" column="49" />
+        <mark key="^" line="16" column="49" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/MenuMapper.xml" timestamp="1521016273019">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="43" />
+        <mark key="." line="30" column="43" />
+        <mark key="^" line="30" column="44" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserListDto.kt" timestamp="1521093823549">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/manager/ManagerPermissionDto.kt" timestamp="1521083029755">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/CustomMethodSecurityExpressionRoot.kt" timestamp="1521093784169">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ServiceMapper.kt" timestamp="1521442602204">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="15" column="68" />
+        <mark key="." line="25" column="45" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/NullModule.kt" timestamp="1521189928497">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/LoginUserDto.kt" timestamp="1520567086364">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/MenuService.kt" timestamp="1521014702206">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/UserServiceCustom.kt" timestamp="1521442425026">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ResourceMapper.xml" timestamp="1521016224587">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+        <mark key="^" line="45" column="48" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserServiceTypeService.kt" timestamp="1521439402383">
+        <mark key="[" line="40" column="67" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UpdateUserDetailsInfoDto.kt" timestamp="1520926846070">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="28" column="64" />
+        <mark key="." line="28" column="64" />
+        <mark key="^" line="28" column="64" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/gallery/GalleryPageRequestDto.kt" timestamp="1520401520511">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="61" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="61" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/category/ArticleCategoryPageRequestDto.kt" timestamp="1520401345165">
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="11" column="63" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="63" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/VerifyCodeController.kt" timestamp="1520587203653">
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="52" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/CompareList.kt" timestamp="1520845876298">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ServiceTypeMapper.xml" timestamp="1521438659432">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="40" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/resource/ResourcePageRequestDto.kt" timestamp="1520401644357">
+        <mark key="[" line="12" column="63" />
+        <mark key="]" line="12" column="63" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="63" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/JwtAuthenticationFilter.kt" timestamp="1521017089572">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="26" column="80" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ServiceTypeMapper.kt" timestamp="1521442564842">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/ServiceType.kt" timestamp="1521442209556">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="13" column="4" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/SmsProperties.kt" timestamp="1520582409035">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
+      <file name="/dummy.sql" timestamp="1521180893927">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521192686567">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/LengthBy.kt" timestamp="1520845769738">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/file/FilePageRequestDto.kt" timestamp="1520401495662">
+        <mark key="[" line="11" column="57" />
+        <mark key="]" line="11" column="57" />
+        <mark key="^" line="11" column="36" />
+        <mark key="." line="11" column="57" />
+      </file>
+      <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/pojo/Area.kt" timestamp="1521104750901">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1521093540392">
+        <mark key="[" line="93" column="105" />
+        <mark key="]" line="93" column="108" />
+        <mark key="^" line="93" column="108" />
+        <mark key="." line="93" column="108" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/TokenService.kt" timestamp="1520918034841">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="57" column="20" />
+        <mark key="." line="57" column="20" />
+        <mark key="^" line="57" column="20" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521170067676">
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="257" column="24" />
+        <mark key="." line="257" column="24" />
+        <mark key="^" line="257" column="24" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" timestamp="1520645559126">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/CorsProperties.kt" timestamp="1520582343421">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="12" column="30" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/File.kt" timestamp="1520586282787">
+        <mark key="[" line="97" column="91" />
+        <mark key="]" line="91" column="34" />
+        <mark key="." line="91" column="34" />
+        <mark key="^" line="91" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1521429089492">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/ResponseCode.kt" timestamp="1520924936769">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="31" />
+        <mark key="^" line="30" column="35" />
+        <mark key="." line="30" column="35" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520834863922">
+        <mark key="[" line="51" column="47" />
+        <mark key="]" line="51" column="18" />
+        <mark key="." line="51" column="18" />
+        <mark key="^" line="51" column="18" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/UserServiceTypeListDto.kt" timestamp="1521439845124">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/PointController.kt" timestamp="1521183445455">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/RedisConfiguration.kt" timestamp="1521190456081">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="46" column="69" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserServiceTypeCustomMapper.kt" timestamp="1521442629581">
+        <mark key="[" line="6" column="20" />
+      </file>
+      <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/dto/PointDto.kt" timestamp="1521187582212">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/ResourceAction.kt" timestamp="1521016815613">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/WxLoginStatus.kt" timestamp="1520567893882">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/UserServiceTypePageRequestDto.kt" timestamp="1521438184747">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="37" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1521430965004">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="46" column="41" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="44" column="34" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/enums/Gender.kt" timestamp="1520565819237">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceTag/ServiceTagPageRequestDto.kt" timestamp="1520401768294">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="63" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="8" column="63" />
+      </file>
+      <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/GenericTest.kt" timestamp="1521091816592">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1520918086288">
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="15" />
+        <mark key="." line="71" column="15" />
+        <mark key="^" line="73" column="25" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/PointMapper.xml" timestamp="1521428859647">
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="25" />
+        <mark key="^" line="40" column="26" />
+        <mark key="." line="43" column="25" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PhoneCodeValidator.kt" timestamp="1520846445155">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserFollowerMapper.xml" timestamp="1521430537670">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/UserServiceTypeCustom.kt" timestamp="1521442320777">
+        <mark key="[" line="12" column="23" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxConfiguration.kt" timestamp="1520645531529">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/manager/ManagerPageRequestDto.kt" timestamp="1520401555856">
+        <mark key="[" line="13" column="93" />
+        <mark key="]" line="13" column="93" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="93" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/SameAs.kt" timestamp="1520846942484">
+        <mark key="[" line="39" column="74" />
+        <mark key="]" line="39" column="74" />
+        <mark key="." line="39" column="74" />
+        <mark key="^" line="39" column="73" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1521192417490">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="12" column="12" />
+      </file>
+      <file name="D:/Projects/demo/src/test/java/com/xt/demo/MapTest.java" timestamp="1521090170838">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="21" column="10" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/feedback/FeedbackPageRequestDto.kt" timestamp="1520401474492">
         <mark key="[" line="11" column="67" />
@@ -315,21 +666,6 @@
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/Teacher.kt" timestamp="1521192531209">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ResourceAction.xml" timestamp="1521014999665">
-        <mark key="[" line="3" column="2" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/Compare.kt" timestamp="1520846164656">
-        <mark key="[" line="48" column="25" />
-        <mark key="]" line="48" column="25" />
-        <mark key="." line="48" column="25" />
-        <mark key="^" line="48" column="25" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/SignInDto.kt" timestamp="1520913404834">
         <mark key="[" line="5" column="12" />
       </file>
@@ -345,9 +681,6 @@
         <mark key="." line="34" column="22" />
         <mark key="^" line="34" column="16" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/menu/MenuListDto.kt" timestamp="1521015918838">
-        <mark key="[" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/work/demo/src/main/resources/mybatis.config" timestamp="1520256703944">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="18" />
@@ -358,12 +691,6 @@
         <mark key="]" line="13" column="95" />
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="95" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/action/ActionPageRequestDto.kt" timestamp="1520401304248">
-        <mark key="[" line="11" column="61" />
-        <mark key="]" line="11" column="61" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="61" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/follower/UserFollowerPageRequestDto.kt" timestamp="1521429334203">
         <mark key="[" line="7" column="60" />
@@ -395,30 +722,8 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="67" />
       </file>
-      <file name="$USER_HOME$/work/xt/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1520254584144">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/SmsUtil.kt" timestamp="1520587098605">
-        <mark key="[" line="28" column="86" />
-        <mark key="]" line="28" column="87" />
-        <mark key="^" line="32" column="69" />
-        <mark key="." line="28" column="87" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ResourceMapper.kt" timestamp="1521014920895">
         <mark key="[" line="14" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/token/TokenPageRequestDto.kt" timestamp="1520401893266">
-        <mark key="[" line="9" column="65" />
-        <mark key="]" line="9" column="65" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="65" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/FileMapping.xml" timestamp="1520587715294">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserDetailsInfoDto.kt" timestamp="1520838952159">
         <mark key="[" line="20" column="19" />
@@ -437,35 +742,11 @@
         <mark key="]" line="23" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/config/EnvProperties.kt" timestamp="1520647824222">
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="4" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/RegisterDto.kt" timestamp="1520927228157">
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="13" column="120" />
-        <mark key="." line="13" column="120" />
-        <mark key="^" line="13" column="123" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserMapper.kt" timestamp="1521078376498">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="51" column="3" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/PointMapping.xml" timestamp="1521183512178">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="6" column="46" />
-        <mark key="^" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/DozerConfig.kt" timestamp="1520647181321">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="17" column="27" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserEnterprisePageRequestDto.kt" timestamp="1520399609322">
         <mark key="[" line="14" column="0" />
@@ -490,18 +771,6 @@
         <mark key="]" line="13" column="104" />
         <mark key="^" line="13" column="104" />
         <mark key="." line="13" column="104" />
-      </file>
-      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/entity/Area.java" timestamp="1520256401329">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/UserFollowerMapping.xml" timestamp="1521430691732">
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="8" column="8" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Config.kt" timestamp="1520909639825">
         <mark key="[" line="6" column="0" />
@@ -531,19 +800,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/DateTimeConverter.kt" timestamp="1521423498748">
-        <mark key="[" line="8" column="81" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/CompareValidator.kt" timestamp="1520845949724">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/PointMapper.kt" timestamp="1521183227381">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/PageRequestDto.kt" timestamp="1520399623711">
         <mark key="[" line="15" column="46" />
@@ -562,12 +822,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceTypeService.kt" timestamp="1520405959839">
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="26" />
-        <mark key="." line="46" column="26" />
-        <mark key="^" line="62" column="41" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/JwtProperties.kt" timestamp="1520645555326">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -578,12 +832,6 @@
         <mark key="]" line="56" column="24" />
         <mark key="^" line="56" column="24" />
         <mark key="." line="56" column="24" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/WxTokenMapper.kt" timestamp="1520492301354">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
       </file>
       <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520256376372">
         <mark key="[" line="15" column="0" />
@@ -596,29 +844,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/VerifyCodeService.kt" timestamp="1520818837108">
-        <mark key="[" line="40" column="95" />
-        <mark key="]" line="40" column="95" />
-        <mark key="^" line="41" column="59" />
-        <mark key="." line="40" column="95" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/PicCodeUtil.kt" timestamp="1520586761232">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="^" line="145" column="62" />
         <mark key="." line="146" column="0" />
-      </file>
-      <file name="D:/Projects/demo/src/main/resources/dozer/config.xml" timestamp="1521085297499">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ResourceService.kt" timestamp="1521015455372">
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="37" />
-        <mark key="^" line="28" column="59" />
-        <mark key="." line="28" column="37" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/controller/ValueController.kt" timestamp="1521191176083">
         <mark key="[" line="30" column="35" />
@@ -637,12 +867,6 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/ServiceTypePageRequestDto.kt" timestamp="1520401793104">
-        <mark key="[" line="8" column="63" />
-        <mark key="]" line="8" column="63" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="63" />
-      </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ConfigMapper.xml" timestamp="1520924664639">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="17" column="15" />
@@ -657,52 +881,14 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/CorsProperties.kt" timestamp="1520645549569">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/WxProperties.kt" timestamp="1520587060976">
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="10" />
-        <mark key="." line="21" column="10" />
-        <mark key="^" line="21" column="10" />
-      </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/Student.kt" timestamp="1521085108862">
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/EnumConverter.kt" timestamp="1521171982967">
-        <mark key="[" line="16" column="60" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
-        <mark key="^" line="16" column="49" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/MenuMapper.xml" timestamp="1521016273019">
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="30" column="43" />
-        <mark key="." line="30" column="43" />
-        <mark key="^" line="30" column="44" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserListDto.kt" timestamp="1521093823549">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/manager/ManagerPermissionDto.kt" timestamp="1521083029755">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="." line="8" column="22" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/OrikaConfiguration.kt" timestamp="1521079167934">
         <mark key="[" line="270" column="42" />
         <mark key="]" line="279" column="33" />
         <mark key="." line="279" column="33" />
         <mark key="^" line="279" column="33" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/CustomMethodSecurityExpressionRoot.kt" timestamp="1521093784169">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/SmsProperties.kt" timestamp="1520645557223">
         <mark key="[" line="7" column="0" />
@@ -726,17 +912,6 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/NullModule.kt" timestamp="1521189928497">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/LoginUserDto.kt" timestamp="1520567086364">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/enums/Option.kt" timestamp="1520566906539">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -747,46 +922,16 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/MenuService.kt" timestamp="1521014702206">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="41" />
-        <mark key="^" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ToggleMapper.kt" timestamp="1521103174254">
         <mark key="[" line="8" column="61" />
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ResourceMapper.xml" timestamp="1521016224587">
-        <mark key="[" line="45" column="42" />
-        <mark key="]" line="45" column="42" />
-        <mark key="." line="45" column="42" />
-        <mark key="^" line="45" column="48" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/dozer/config.xml" timestamp="1521424574404">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="23" />
         <mark key="^" line="23" column="17" />
         <mark key="." line="20" column="23" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserServiceTypeService.kt" timestamp="1521439402383">
-        <mark key="[" line="41" column="67" />
-        <mark key="]" line="36" column="21" />
-        <mark key="^" line="36" column="21" />
-        <mark key="." line="36" column="21" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UpdateUserDetailsInfoDto.kt" timestamp="1520926846070">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="28" column="64" />
-        <mark key="." line="28" column="64" />
-        <mark key="^" line="28" column="64" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/gallery/GalleryPageRequestDto.kt" timestamp="1520401520511">
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="9" column="61" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="61" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/config/MvcSecurityConfiguration.kt" timestamp="1521105936681">
         <mark key="[" line="23" column="50" />
@@ -805,18 +950,6 @@
         <mark key="^" line="42" column="62" />
         <mark key="." line="42" column="62" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/category/ArticleCategoryPageRequestDto.kt" timestamp="1520401345165">
-        <mark key="[" line="11" column="63" />
-        <mark key="]" line="11" column="63" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="63" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/VerifyCodeController.kt" timestamp="1520587203653">
-        <mark key="[" line="56" column="28" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="52" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/follower/UserFollowerListPageRequestDto.kt" timestamp="1521430948909">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -834,37 +967,11 @@
         <mark key="^" line="38" column="89" />
         <mark key="." line="38" column="111" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/CompareList.kt" timestamp="1520845876298">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ServiceTypeMapper.xml" timestamp="1521438659432">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="40" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/resource/ResourcePageRequestDto.kt" timestamp="1520401644357">
-        <mark key="[" line="12" column="63" />
-        <mark key="]" line="12" column="63" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="63" />
-      </file>
       <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/DozerTest.kt" timestamp="1521192600689">
         <mark key="[" line="37" column="62" />
         <mark key="]" line="37" column="60" />
         <mark key="." line="37" column="60" />
         <mark key="^" line="37" column="60" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/JwtAuthenticationFilter.kt" timestamp="1521017089572">
-        <mark key="[" line="24" column="49" />
-        <mark key="]" line="24" column="49" />
-        <mark key="." line="24" column="49" />
-        <mark key="^" line="26" column="80" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ServiceTypeMapper.kt" timestamp="1520404243361">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/RoleService.kt" timestamp="1521014834690">
         <mark key="[" line="33" column="27" />
@@ -872,45 +979,16 @@
         <mark key="^" line="33" column="30" />
         <mark key="." line="33" column="30" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/ServiceType.kt" timestamp="1521439470482">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/ExpresstionTest.kt" timestamp="1520846139635">
         <mark key="[" line="21" column="78" />
         <mark key="]" line="21" column="78" />
         <mark key="." line="21" column="78" />
         <mark key="^" line="21" column="77" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/SmsProperties.kt" timestamp="1520582409035">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="/dummy.sql" timestamp="1521180893927">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1521192686567">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserFollowerMapper.kt" timestamp="1521430276492">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/LengthBy.kt" timestamp="1520845769738">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="39" />
-        <mark key="." line="28" column="39" />
-        <mark key="^" line="28" column="39" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/file/FilePageRequestDto.kt" timestamp="1520401495662">
-        <mark key="[" line="11" column="57" />
-        <mark key="]" line="11" column="57" />
-        <mark key="^" line="11" column="36" />
-        <mark key="." line="11" column="57" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/dto/TeacherDto.kt" timestamp="1521192626711">
         <mark key="[" line="4" column="0" />
@@ -918,23 +996,11 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserServiceTypeMapper.kt" timestamp="1521438279079">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-      </file>
-      <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/pojo/Area.kt" timestamp="1521104750901">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1521093540392">
-        <mark key="[" line="93" column="105" />
-        <mark key="]" line="93" column="108" />
-        <mark key="^" line="93" column="108" />
-        <mark key="." line="93" column="108" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserServiceTypeMapper.kt" timestamp="1521442687114">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserFollowerPageRequestDto.kt" timestamp="1520401941760">
         <mark key="[" line="9" column="47" />
@@ -954,35 +1020,17 @@
         <mark key="." line="59" column="48" />
         <mark key="^" line="59" column="47" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/TokenService.kt" timestamp="1520918034841">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="57" column="20" />
-        <mark key="." line="57" column="20" />
-        <mark key="^" line="57" column="20" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/PointService.kt" timestamp="1521183240689">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="26" column="21" />
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521170067676">
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="257" column="24" />
-        <mark key="." line="257" column="24" />
-        <mark key="^" line="257" column="24" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/ApiApplication.kt" timestamp="1520824367912">
         <mark key="[" line="32" column="60" />
         <mark key="]" line="14" column="142" />
         <mark key="^" line="14" column="142" />
         <mark key="." line="14" column="142" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" timestamp="1520645559126">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="14" column="42" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/SameAsValidator.kt" timestamp="1520846828145">
         <mark key="[" line="8" column="0" />
@@ -1001,18 +1049,6 @@
         <mark key="^" line="11" column="36" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/CorsProperties.kt" timestamp="1520582343421">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="12" column="30" />
-      </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/File.kt" timestamp="1520586282787">
-        <mark key="[" line="97" column="91" />
-        <mark key="]" line="91" column="34" />
-        <mark key="." line="91" column="34" />
-        <mark key="^" line="91" column="34" />
-      </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/dto/UserDto.kt" timestamp="1521085623007">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="8" column="25" />
@@ -1023,9 +1059,6 @@
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1521429089492">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/school/SchoolPageRequestDto.kt" timestamp="1520401701425">
         <mark key="[" line="8" column="67" />
@@ -1070,11 +1103,11 @@
       <jump line="40" column="0" filename="D:/Projects/demo/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uTWFuYWdlZFJlZmVyZW5jZQo=</text>
+      <register name="&quot;" type="4">
+        <text>com.xt.entity.</text>
       </register>
       <register name="-" type="4">
-        <text>order_id</text>
+        <text>com.xt.entity.</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
@@ -1083,31 +1116,31 @@
         <text>serviceTypeIncludeParent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKc29uTWFuYWdlZFJlZmVyZW5jZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5TZXJ2aWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uQmFja1JlZmVyZW5jZQo=</text>
+        <text encoding="base64">aW1wb3J0IFNlcnZpYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8cmVzdWx0TWFwIGlkPSJzZXJ2aWNlVHlwZUxpc3QiIHR5cGU9IlNlcnZpY2VUeXBlIiBleHRlbmRzPSJjb20ueHQubWFwcGVyLlNlcnZpY2VUeXBlTWFwcGVyLnNlcnZpY2VUeXBlIj4KICAgIAogIDwvcmVzdWx0TWFwPgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS54dC5kdG8uaW5mcmFzdHJ1Y3R1cmUuU2VydmljZS5Vc2VyU2VydmljZUNhdGVnb3J5RHRvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciByb290VHlwZTogSW50PywK</text>
+        <text encoding="base64">ICAgIEBKc29uQmFja1JlZmVyZW5jZSgiY3VzdG9tU2VydmljZVR5cGUiKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAUGFyYW0oInNlcnZpY2VUeXBlIikK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpOiBTdHJpbmcgewogICAgICAgIHJldHVybiAiU2VydmljZUNhdGVnb3J5KHBhcmVudElkPSRwYXJlbnRJZCwgbmFtZT0nJG5hbWUnLCBkaXNhYmxlZD0kZGlzYWJsZWQsIGNoaWxkcmVuPSRjaGlsZHJlbiwgcGFyZW50PSRwYXJlbnQpIgogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciB1c2VySWQ6IExvbmcsCg==</text>
+        <text encoding="base64">ICAgIEBKc29uTWFuYWdlZFJlZmVyZW5jZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgIEBKc29uQmFja1JlZmVyZW5jZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvZmZzZXQgxvDKvM671sMKICAgICAqIEBwYXJhbSBwYWdlU2l6ZSC94cr4zrvWwwo=</text>
+        <text encoding="base64">ICA8cmVzdWx0TWFwIGlkPSJzZXJ2aWNlVHlwZUxpc3QiIHR5cGU9IlNlcnZpY2VUeXBlIiBleHRlbmRzPSJjb20ueHQubWFwcGVyLlNlcnZpY2VUeXBlTWFwcGVyLnNlcnZpY2VUeXBlIj4KICAgIAogIDwvcmVzdWx0TWFwPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAUGFyYW0oIm9mZnNldCIpIG9mZnNldDogSW50LAogICAgICAgIEBQYXJhbSgicGFnZVNpemUiKSBwYWdlU2l6ZTogSW50Cg==</text>
+        <text encoding="base64">ICAgIHZhciByb290VHlwZTogSW50PywK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
@@ -1161,6 +1194,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
