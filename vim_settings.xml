@@ -187,8 +187,11 @@
         <mark key="." line="41" column="47" />
         <mark key="^" line="41" column="47" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ArticleController.kt" timestamp="1521516313238">
-        <mark key="[" line="31" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ArticleController.kt" timestamp="1521517555306">
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="126" column="24" />
+        <mark key="^" line="126" column="24" />
+        <mark key="." line="126" column="24" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/User.kt" timestamp="1521085579685">
         <mark key="[" line="5" column="42" />
@@ -730,11 +733,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ArticleService.kt" timestamp="1521516867043">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="43" column="21" />
-        <mark key="^" line="43" column="21" />
-        <mark key="." line="43" column="21" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ArticleService.kt" timestamp="1521517311112">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="97" column="23" />
+        <mark key="^" line="97" column="23" />
+        <mark key="." line="97" column="23" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/UserServiceTypeCustom.kt" timestamp="1521442320777">
         <mark key="[" line="12" column="23" />
@@ -1288,10 +1291,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>布</text>
+        <text>dto.title, dto.category, dto.hide, dto.latest, dto.pinned, dto.page, dto.pageSize</text>
       </register>
       <register name="-" type="4">
-        <text>布</text>
+        <text>dto.title, dto.category, dto.hide, dto.latest, dto.pinned, dto.page, dto.pageSize</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
