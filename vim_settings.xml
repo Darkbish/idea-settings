@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/AddArticleDto.kt" timestamp="1521528242418">
+        <mark key="[" line="23" column="13" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/SchoolService.kt" timestamp="1521522451602">
         <mark key="[" line="25" column="31" />
         <mark key="]" line="25" column="31" />
@@ -129,8 +132,8 @@
         <mark key="]" line="38" column="31" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/ArticlePageListDto.kt" timestamp="1521526523892">
-        <mark key="[" line="4" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/ArticlePageListDto.kt" timestamp="1521528217234">
+        <mark key="[" line="14" column="8" />
         <mark key="]" line="16" column="28" />
         <mark key="." line="16" column="28" />
         <mark key="^" line="8" column="27" />
@@ -475,6 +478,12 @@
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="26" />
         <mark key="^" line="25" column="26" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/UpdateArticleDto.kt" timestamp="1521528316054">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ResourceMapper.xml" timestamp="1521016224587">
         <mark key="[" line="45" column="42" />
@@ -1131,7 +1140,7 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="17" column="7" />
       </file>
-      <file name="/fragment.kt" timestamp="1521185528054">
+      <file name="/fragment.kt" timestamp="1521528219558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/PicCodeValidator.kt" timestamp="1520846606727">
@@ -1416,10 +1425,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>= 0</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>= 0</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
