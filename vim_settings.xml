@@ -585,11 +585,11 @@
         <mark key="^" line="90" column="21" />
         <mark key="." line="85" column="75" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/MenuController.kt" timestamp="1521611816903">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="77" column="19" />
-        <mark key="." line="45" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/MenuController.kt" timestamp="1521612764922">
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="15" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="49" column="15" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/ResponseCode.kt" timestamp="1520924936769">
         <mark key="[" line="30" column="14" />
@@ -1178,11 +1178,11 @@
       <jump line="7" column="21" filename="D:/Works/xt-api/src/main/kotlin/com/xt/common/SpecialProvider.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBNYXBUbyhNZW51UGFnZUxpc3REdG86OmNsYXNzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>service.save(mapper.map(dto, Menu::class.java))</text>
       </register>
       <register name="-" type="4">
-        <text>.convert()</text>
+        <text>service.save(mapper.map(dto, Menu::class.java))</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
