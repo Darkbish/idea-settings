@@ -39,11 +39,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1521703569402">
-        <mark key="[" line="225" column="42" />
-        <mark key="]" line="225" column="42" />
-        <mark key="." line="225" column="42" />
-        <mark key="^" line="225" column="43" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1521704250888">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="52" />
+        <mark key="." line="241" column="39" />
+        <mark key="^" line="240" column="38" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1521514484612">
         <mark key="[" line="10" column="0" />
@@ -74,6 +74,9 @@
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
         <mark key="^" line="18" column="64" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1521705046150">
+        <mark key="[" line="25" column="28" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/TransactionConfiguration.kt" timestamp="1520821035912">
         <mark key="[" line="3" column="0" />
@@ -494,6 +497,9 @@
         <mark key="]" line="7" column="19" />
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521704778729">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/LengthBy.kt" timestamp="1520845769738">
         <mark key="[" line="28" column="24" />
@@ -1186,17 +1192,17 @@
       <jump line="7" column="21" filename="D:/Works/xt-api/src/main/kotlin/com/xt/common/SpecialProvider.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>andEqualTo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmNvdW50QnlVc2VySWQ6JyArICNlbnRpdHkuaWQiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>andEqualTo</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShEYXRlVGltZTo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmNvdW50QnlVc2VySWQ6JyArICNlbnRpdHkuaWQiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZS5zYXZlKG1hcHBlci5tYXAoZHRvLCBSZXNvdXJjZTo6Y2xhc3MuamF2YSkpCg==</text>
