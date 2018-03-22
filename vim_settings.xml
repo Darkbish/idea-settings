@@ -501,8 +501,10 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521704778729">
+      <file name="/Dummy.txt" timestamp="1521711208444">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/LengthBy.kt" timestamp="1520845769738">
         <mark key="[" line="28" column="24" />
@@ -700,9 +702,9 @@
         <mark key="." line="18" column="22" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/LoginDto.kt" timestamp="1521708985964">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DictionaryItemController.kt" timestamp="1521604775295">
         <mark key="[" line="89" column="75" />
@@ -714,6 +716,12 @@
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="5" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/QrCodeUtil.kt" timestamp="1521711059144">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="23" column="68" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/AreaService.kt" timestamp="1521603966741">
         <mark key="[" line="70" column="32" />
@@ -997,8 +1005,8 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="D:/Works/xt-api/build.gradle" timestamp="1521603150827">
-        <mark key="[" line="73" column="51" />
+      <file name="D:/Works/xt-api/build.gradle" timestamp="1521710011231">
+        <mark key="[" line="78" column="61" />
         <mark key="]" line="73" column="51" />
         <mark key="." line="73" column="51" />
       </file>
@@ -1194,11 +1202,12 @@
       <jump line="7" column="21" filename="D:/Works/xt-api/src/main/kotlin/com/xt/common/SpecialProvider.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QE9wZW4K</text>
+      <register name="&quot;" type="4">
+        <text>1.更新通用 `mapper`
+2.菜单</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>format:String,</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
@@ -1206,32 +1215,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRQYWdlYWJsZSonIiwKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqR3JvdXAqJyIsCiAgICAgICAgIid1c2VyU2VydmljZS5maW5kT25lQnlJZDonICsgI2VudGl0eS5pZCIsCiAgICAgICAgIid1c2VyU2VydmljZS5maW5kKkluZm86JyArICNlbnRpdHkuaWQiLAogICAgICAgICIndXNlclNlcnZpY2UuZmluZE9uZUJ5Q2VsbHBob25lOicgKyAjZW50aXR5LmNlbGxwaG9uZSIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QE9wZW4K</text>
+      <register name="1" type="4">
+        <text>1.更新通用 `mapper`
+2.菜单</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHVwbG9hZFV0aWw6IFVwbG9hZFV0aWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogz8LArcHQse0KICAgICAqLwogICAgQEdldE1hcHBpbmcoIm9wdGlvbnMiKQogICAgQE1hcFRvKFNlbGVjdEl0ZW1EdG86OmNsYXNzKQogICAgZnVuIGdldFNlbGVjdChrZXk6IFN0cmluZywgdHlwZTogVXNlclR5cGUpOiBMaXN0PFVzZXI+ID0gdXNlclNlcnZpY2UuZmluZEJ5S2V5QW5kVHlwZShrZXksIHR5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAvL8no1sO2/s6swuux37XEv9W2yKOst8e4usr9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmxvZ2luKiciCg==</text>
+      <register name="4" type="4">
+        <text>hashMapOf(
+            
+        )</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqJyIsCg==</text>
+      <register name="5" type="4">
+        <text>(
+    var width:Int = 100,
+    var height:Int = 100
+)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsiJ3VzZXJTZXJ2aWNlLmZpbmQqJyIsICIndXNlclNlcnZpY2UubG9naW4qJyJdKQo=</text>
+        <text encoding="base64">QE9wZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsiJ3VzZXJTZXJ2aWNlLmZpbmQqJyJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsiJ3VzZXJTZXJ2aWNlLmZpbmQqJyJdKQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogz8LArcHQse0KICAgICAqLwogICAgQEdldE1hcHBpbmcoIm9wdGlvbnMiKQogICAgQE1hcFRvKFNlbGVjdEl0ZW1EdG86OmNsYXNzKQogICAgZnVuIGdldFNlbGVjdChrZXk6IFN0cmluZywgdHlwZTogVXNlclR5cGUpOiBMaXN0PFVzZXI+ID0gdXNlclNlcnZpY2UuZmluZEJ5S2V5QW5kVHlwZShrZXksIHR5cGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmNvdW50QnlVc2VySWQ6JyArICNlbnRpdHkuaWQiCg==</text>
+        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmxvZ2luKiciCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
@@ -1291,6 +1306,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
