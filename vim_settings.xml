@@ -677,10 +677,10 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
-      <file name="D:/Projects/demo/build.gradle" timestamp="1521600895608">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="D:/Projects/demo/build.gradle" timestamp="1521769295972">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="43" />
+        <mark key="." line="59" column="0" />
         <mark key="^" line="57" column="56" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1520918086288">
@@ -717,11 +717,11 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/QrCodeUtil.kt" timestamp="1521711059144">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="23" column="68" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/QrCodeUtil.kt" timestamp="1521771630246">
+        <mark key="[" line="47" column="52" />
+        <mark key="]" line="47" column="49" />
+        <mark key="." line="47" column="49" />
+        <mark key="^" line="47" column="49" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/AreaService.kt" timestamp="1521603966741">
         <mark key="[" line="70" column="32" />
@@ -873,6 +873,11 @@
         <mark key="^" line="13" column="100" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/QrCodeTest.kt" timestamp="1521771458567">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxProperties.kt" timestamp="1520581770202">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="42" />
@@ -975,7 +980,7 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="17" column="7" />
       </file>
-      <file name="/fragment.kt" timestamp="1521624025383">
+      <file name="/fragment.kt" timestamp="1521770098459">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ActionService.kt" timestamp="1521603922639">
@@ -1005,9 +1010,9 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="D:/Works/xt-api/build.gradle" timestamp="1521710011231">
-        <mark key="[" line="78" column="61" />
-        <mark key="]" line="73" column="51" />
+      <file name="D:/Works/xt-api/build.gradle" timestamp="1521769292922">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="43" />
         <mark key="." line="73" column="51" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/dozer/config.xml" timestamp="1521424574404">
@@ -1203,50 +1208,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.更新通用 `mapper`
-2.菜单</text>
+        <text>nul()</text>
       </register>
       <register name="-" type="4">
-        <text>format:String,</text>
+        <text>nul()</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRQYWdlYWJsZSonIiwKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqR3JvdXAqJyIsCiAgICAgICAgIid1c2VyU2VydmljZS5maW5kT25lQnlJZDonICsgI2VudGl0eS5pZCIsCiAgICAgICAgIid1c2VyU2VydmljZS5maW5kKkluZm86JyArICNlbnRpdHkuaWQiLAogICAgICAgICIndXNlclNlcnZpY2UuZmluZE9uZUJ5Q2VsbHBob25lOicgKyAjZW50aXR5LmNlbGxwaG9uZSIK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5nb29nbGUuenhpbmc6amF2YXNlOjMuMy4yJwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>1.更新通用 `mapper`
-2.菜单</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgd2lkdGggPSBxcmNvZGUud2lkdGgKICAgICAgICB2YWwgaGVpZ2h0ID0gcXJjb2RlLmhlaWdodAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHVwbG9hZFV0aWw6IFVwbG9hZFV0aWwK</text>
+        <text encoding="base64">ICAgICAgICBoaW50c1tFbmNvZGVIaW50VHlwZS5RUl9WRVJTSU9OXSA9IDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL8no1sO2/s6swuux37XEv9W2yKOst8e4usr9Cg==</text>
+        <text encoding="base64">ICAgICAgICBEaW1lbnNpb24oMTIzLCAxMjMpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>hashMapOf(
-            
-        )</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBFbmNvZGVIaW50VHlwZS5NQVhfU0laRQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>(
-    var width:Int = 100,
-    var height:Int = 100
-)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBoaW50c1tFbmNvZGVIaW50VHlwZS5NQVhfU0laRV0gPSAxMjMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QE9wZW4K</text>
+        <text encoding="base64">ICAgICAgICBoaW50c1tFbmNvZGVIaW50VHlwZS5dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogz8LArcHQse0KICAgICAqLwogICAgQEdldE1hcHBpbmcoIm9wdGlvbnMiKQogICAgQE1hcFRvKFNlbGVjdEl0ZW1EdG86OmNsYXNzKQogICAgZnVuIGdldFNlbGVjdChrZXk6IFN0cmluZywgdHlwZTogVXNlclR5cGUpOiBMaXN0PFVzZXI+ID0gdXNlclNlcnZpY2UuZmluZEJ5S2V5QW5kVHlwZShrZXksIHR5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmxvZ2luKiciCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUmVzb3VyY2VzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
