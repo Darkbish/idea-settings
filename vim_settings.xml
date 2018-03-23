@@ -567,11 +567,11 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521786845233">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="69" column="21" />
-        <mark key="." line="67" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521793243182">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="7" />
+        <mark key="^" line="75" column="7" />
+        <mark key="." line="75" column="7" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" timestamp="1521774971245">
         <mark key="[" line="18" column="0" />
@@ -634,6 +634,12 @@
         <mark key="]" line="21" column="57" />
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/PromotionDto.kt" timestamp="1521793970013">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520834863922">
         <mark key="[" line="51" column="47" />
@@ -1283,7 +1289,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2lkIiwK</text>
+        <text encoding="base64">ICAgIHZhciBxcmNvZGU6IFN0cmluZywK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RhcnQgdG8g</text>
@@ -1295,31 +1301,31 @@
         <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2VudGl0eS5pZCArICcqJyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2lkIiwK</text>
+        <text encoding="base64">ICAgIHZhciBxcmNvZGU6IFN0cmluZywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZGVsZXRlIGNhY2hlIGFmdGVyICR7bWV0aG9kLm5hbWV9IGV4ZWN1dGVkIikK</text>
+        <text encoding="base64">QE5vQXJncwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIikK</text>
+        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2lkIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC5sZXQgeyB0ZW1wbGF0ZS5kZWxldGUoaXQpIH0K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZGVsZXRlIGNhY2hlIGFmdGVyICR7bWV0aG9kLm5hbWV9IGV4ZWN1dGVkIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIC5sZXQgeyB0ZW1wbGF0ZS5kZWxldGUoaXQpIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBBcGlFeGNlcHRpb24oInRlc3QiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIuaW5zZXJ0KGVudGl0eSkKICAgICAgICB0aHJvdyBBcGlFeGNlcHRpb24oInRlc3QiKQo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBBcGlFeGNlcHRpb24oInRlc3QiKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
