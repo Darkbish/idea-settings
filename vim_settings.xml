@@ -39,7 +39,6 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1521792826129" />
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1521514484612">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -304,7 +303,6 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/tk.mybatis/mapper-base/1.0.0/b414544cbca3fd8c3c955332f21344ea3e8abe13/mapper-base-1.0.0-sources.jar!/tk/mybatis/mapper/provider/base/BaseInsertProvider.java" timestamp="1521784917975" />
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/PointMapper.kt" timestamp="1521183227381">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="9" column="4" />
@@ -525,11 +523,6 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521711208444">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/LengthBy.kt" timestamp="1521781785746">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="15" column="42" />
@@ -639,11 +632,11 @@
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/PromotionDto.kt" timestamp="1521795682733">
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/PromotionDto.kt" timestamp="1521854039035">
         <mark key="[" line="5" column="24" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/WxTokenService.kt" timestamp="1520834863922">
         <mark key="[" line="51" column="47" />
@@ -1030,10 +1023,6 @@
         <mark key="]" line="17" column="15" />
         <mark key="^" line="17" column="7" />
         <mark key="." line="17" column="7" />
-      </file>
-      <file name="/fragment.kt" timestamp="1521787219745">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ActionService.kt" timestamp="1521603922639">
         <mark key="[" line="32" column="32" />
