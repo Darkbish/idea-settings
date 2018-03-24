@@ -573,11 +573,10 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521856802876">
-        <mark key="[" line="82" column="34" />
-        <mark key="]" line="82" column="31" />
-        <mark key="." line="82" column="31" />
-        <mark key="^" line="82" column="31" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521863691669">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" timestamp="1521774971245">
         <mark key="[" line="18" column="0" />
@@ -1298,8 +1297,8 @@
       <jump line="19" column="31" filename="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -1311,31 +1310,31 @@
         <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2VudGl0eS5pZCArICcqJyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5leHBpcmUodGhpcy5qc2FwaVRpY2tldCwgZXhwaXJlc1RpbWUgLSAyMDAsIFRpbWVVbml0LlNFQ09ORFMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5vcHNGb3JWYWx1ZSgpLnNldAo=</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJvcGVuaWQve29wZW5pZH0iKQogICAgZnVuIG9wZW5pZChAUGF0aFZhcmlhYmxlIG9wZW5pZDpTdHJpbmcpID0gdXNlclNlcnZpY2UuZmluZE9uZUJ5T3BlbklkKG9wZW5pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheVN0b3JlRXhjZXB0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5leHBpcmUodGhpcy5qc2FwaVRpY2tldCwgZXhwaXJlc1RpbWUgLSAyMDAsIFRpbWVVbml0LlNFQ09ORFMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZS5vcHNGb3JWYWx1ZSgpLnNldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gY3VzdG9tV3hJblJlZGlzQ29uZmlnU3RvcmFnZSgpOiBDdXN0b21XeE1wSW5SZWRpc0NvbmZpZ1N0b3JhZ2UgPSB3eFByb3BlcnRpZXMuY29udmVydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheVN0b3JlRXhjZXB0aW9uLgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKICAgIGZ1biBjb252ZXJ0KCk6IEN1c3RvbVd4TXBJblJlZGlzQ29uZmlnU3RvcmFnZSB7CiAgICAgICAgdmFsIGNvbmZpZyA9IEN1c3RvbVd4TXBJblJlZGlzQ29uZmlnU3RvcmFnZSgpCiAgICAgICAgY29uZmlnLmFwcElkID0gYXBwSWQKICAgICAgICBjb25maWcuc2VjcmV0ID0gc2VjcmV0CiAgICAgICAgY29uZmlnLm9hdXRoMnJlZGlyZWN0VXJpID0gcmVkaXJlY3RVcmwKICAgICAgICByZXR1cm4gY29uZmlnCiAgICB9Cn0=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gc3RyaW5nUmVkaXNUZW1wbGF0ZShmYWN0b3J5OiBSZWRpc0Nvbm5lY3Rpb25GYWN0b3J5KTpTdHJpbmdSZWRpc1RlbXBsYXRlewogICAgICAgIHZhbCB0ZW1wbGF0ZSA9IAogICAgfQo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gY3VzdG9tV3hJblJlZGlzQ29uZmlnU3RvcmFnZSgpOiBDdXN0b21XeE1wSW5SZWRpc0NvbmZpZ1N0b3JhZ2UgPSB3eFByb3BlcnRpZXMuY29udmVydCgpCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IHsKICAgIGZ1biBjb252ZXJ0KCk6IEN1c3RvbVd4TXBJblJlZGlzQ29uZmlnU3RvcmFnZSB7CiAgICAgICAgdmFsIGNvbmZpZyA9IEN1c3RvbVd4TXBJblJlZGlzQ29uZmlnU3RvcmFnZSgpCiAgICAgICAgY29uZmlnLmFwcElkID0gYXBwSWQKICAgICAgICBjb25maWcuc2VjcmV0ID0gc2VjcmV0CiAgICAgICAgY29uZmlnLm9hdXRoMnJlZGlyZWN0VXJpID0gcmVkaXJlY3RVcmwKICAgICAgICByZXR1cm4gY29uZmlnCiAgICB9Cn0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
