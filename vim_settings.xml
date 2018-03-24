@@ -1087,11 +1087,11 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="D:/Works/xt-api/build.gradle" timestamp="1521874811262">
-        <mark key="[" line="79" column="30" />
-        <mark key="]" line="79" column="30" />
-        <mark key="." line="79" column="30" />
-        <mark key="^" line="79" column="33" />
+      <file name="D:/Works/xt-api/build.gradle" timestamp="1521875819014">
+        <mark key="[" line="80" column="59" />
+        <mark key="]" line="80" column="39" />
+        <mark key="." line="80" column="39" />
+        <mark key="^" line="80" column="39" />
       </file>
       <file name="D:/Projects/demo/src/main/resources/application.yaml" timestamp="1521789288957">
         <mark key="[" line="21" column="38" />
@@ -1316,10 +1316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>core</text>
+        <text>android</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>android</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
