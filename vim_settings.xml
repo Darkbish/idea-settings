@@ -982,6 +982,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/resources-prod/application.yaml" timestamp="1521874102199">
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="69" column="27" />
+        <mark key="." line="69" column="27" />
+        <mark key="^" line="69" column="27" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/Tag.kt" timestamp="1520926841171">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -1081,10 +1087,11 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="D:/Works/xt-api/build.gradle" timestamp="1521769292922">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="43" />
-        <mark key="." line="73" column="51" />
+      <file name="D:/Works/xt-api/build.gradle" timestamp="1521874811262">
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="79" column="30" />
+        <mark key="." line="79" column="30" />
+        <mark key="^" line="79" column="33" />
       </file>
       <file name="D:/Projects/demo/src/main/resources/application.yaml" timestamp="1521789288957">
         <mark key="[" line="21" column="38" />
@@ -1308,11 +1315,11 @@
       <jump line="19" column="31" filename="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRPbmVCeUlkOicgKyAjZW50aXR5LmlkIiwKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2VudGl0eS5pZCArICcqJyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>core</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
@@ -1321,31 +1328,31 @@
         <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2VudGl0eS5pZCArICcqJyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRPbmVCeUlkOicgKyAjZW50aXR5LmlkIiwKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2VudGl0eS5pZCArICcqJyIsCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmNvdW50QnlVc2VySWQ6JyArICNlbnRpdHkuaWQiLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3BvaW50U2VydmljZS5zdGF0aXN0aWNzQnlVc2VySWQ6JyArICN1aWQiCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFuaWZlc3QgPSBkZWZhdWx0TWFuaWZlc3QoWwogICAgICAgICAgICAgICAgcHJvamVjdCAgICAgIDogcHJvamVjdCwKICAgICAgICAgICAgICAgIHZlcnNpb24gICAgICA6IHZlcnNpb24KICAgICAgICAgICAgXSkKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3RWZW5kb3I6IHByb2plY3RfdmVuZG9yCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuICI+PiBuZXcgdmVyc2lvbjogJHt2ZXJzaW9ufSIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYnVpbGROdW1iZXIgPSBidWlsZE51bWJlckluY3JlYXNlKFtwcm9qZWN0OiBwcm9qZWN0LCBudW1GaWxlbmFtZTogJ2J1aWxkX251bWJlci5kYXRhJ10pCiAgICAgICAgdmVyc2lvbiArPSAnLicgKyBidWlsZE51bWJlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxmaWVsZD4KICAgICAgPGE+aW52aXRlQ29kZTwvYT4KICAgICAgPGI+PC9iPgogICAgPC9maWVsZD4K</text>
+        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRPbmVCeUlkOicgKyAjZW50aXR5LmlkIiwKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmQqSW5mbzonICsgI2VudGl0eS5pZCArICcqJyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcXJjb2RlID0gIiR7dXBsb2FkUHJvcGVydGllcy5mb2xkZXJ9LyR7VG9rZW5UeXBlLlVzZXJ9LyR7ZW50aXR5LmlkfS9xcmNvZGUuanBnIgogICAgICAgIHZhbCBjb250ZW50ID0gIiR7ZW52UHJvcGVydGllcy5ob3N0fS9zaGFyZS8ke2VudGl0eS5jb2RlfSIKICAgICAgICBxcmNvZGVVdGlsLmdlbmVyYXRlKGNvbnRlbnQsIHFyY29kZSkKICAgICAgICB2YWwgcGFyYW1zID0gdXBsb2FkUHJvcGVydGllcy50ZW1wbGF0ZS5tYXAoewogICAgICAgICAgICB2YWwgcGF0aCA9ICIke3VwbG9hZFByb3BlcnRpZXMuZm9sZGVyfS8ke1Rva2VuVHlwZS5Vc2VyfS8ke2VudGl0eS5pZH0vJHtpdC5rZXl9LmpwZyIKICAgICAgICAgICAgcXJjb2RlVXRpbC5jb21iaW5lKHFyY29kZSwgaXQudmFsdWUudG9TdHJpbmcoKSwgcGF0aCkKICAgICAgICAgICAgUGFpcihpdC5rZXkudG9TdHJpbmcoKSwgIiR7ZW52UHJvcGVydGllcy5waWNIb3N0fS8ke3BhdGgucmVtb3ZlUHJlZml4KHVwbG9hZFByb3BlcnRpZXMuZm9sZGVyKX0iKQogICAgICAgIH0pCiAgICAgICAgcGFyYW1zLnBsdXMoUGFpcigicXJjb2RlIiwgIiR7ZW52UHJvcGVydGllcy5waWNIb3N0fS8ke3FyY29kZS5yZW1vdmVQcmVmaXgodXBsb2FkUHJvcGVydGllcy5mb2xkZXIpfSIpKQogICAgICAgIHVzZXJNYXBwZXIubW9kaWZ5UXJjb2RlKGVudGl0eS5pZCwgcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmNvdW50QnlVc2VySWQ6JyArICNlbnRpdHkuaWQiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGVDYWNoaW5nTnVsbFZhbHVlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAiJ3BvaW50U2VydmljZS5zdGF0aXN0aWNzQnlVc2VySWQ6JyArICN1aWQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzcmMgvMyz0MHLYE9wdGlvbmCjrLWryse+uci7srvE3Nequ7uzyWBPcHRpb25gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
