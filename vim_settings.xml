@@ -634,7 +634,7 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="49" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1521788241099">
+      <file name="/fragment.java" timestamp="1521873176371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/ResponseCode.kt" timestamp="1520924936769">
@@ -744,6 +744,9 @@
         <mark key="]" line="42" column="56" />
         <mark key="^" line="39" column="26" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserFollowerMapper.xml" timestamp="1521873292729">
+        <mark key="[" line="174" column="23" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ArticleService.kt" timestamp="1521604120516">
         <mark key="[" line="18" column="22" />
