@@ -122,7 +122,6 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/CustomResponseBodyAdvice.kt" timestamp="1521860308512" />
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/RoleMapper.xml" timestamp="1521013838471">
         <mark key="[" line="53" column="18" />
         <mark key="]" line="53" column="14" />
@@ -545,7 +544,6 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/LengthBy.kt" timestamp="1521855892458" />
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/file/FilePageRequestDto.kt" timestamp="1520401495662">
         <mark key="[" line="11" column="57" />
         <mark key="]" line="11" column="57" />
@@ -1087,10 +1085,10 @@
         <mark key="." line="13" column="52" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="D:/Works/xt-api/build.gradle" timestamp="1521875819014">
-        <mark key="[" line="80" column="59" />
-        <mark key="]" line="80" column="39" />
-        <mark key="." line="80" column="39" />
+      <file name="D:/Works/xt-api/build.gradle" timestamp="1521879320082">
+        <mark key="[" line="79" column="41" />
+        <mark key="]" line="79" column="42" />
+        <mark key="." line="79" column="42" />
         <mark key="^" line="80" column="39" />
       </file>
       <file name="D:/Projects/demo/src/main/resources/application.yaml" timestamp="1521789288957">
