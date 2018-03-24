@@ -838,6 +838,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
+      <file name="D:/Works/api/pom.xml" timestamp="1521880674203">
+        <mark key="[" line="77" column="55" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="44" />
+        <mark key="^" line="77" column="44" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/dictionary/DictionaryPageRequestDto.kt" timestamp="1520401428346">
         <mark key="[" line="8" column="75" />
         <mark key="]" line="8" column="75" />
@@ -1314,10 +1320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>android</text>
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>android</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
