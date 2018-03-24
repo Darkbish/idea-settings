@@ -481,6 +481,11 @@
         <mark key="^" line="36" column="52" />
         <mark key="." line="40" column="86" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/NotBlankBy.kt" timestamp="1521856509631">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+      </file>
       <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/UserServiceMapping.xml" timestamp="1521511107021">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="16" column="22" />
@@ -563,10 +568,11 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521796063147">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1521856802876">
+        <mark key="[" line="82" column="34" />
+        <mark key="]" line="82" column="31" />
+        <mark key="." line="82" column="31" />
+        <mark key="^" line="82" column="31" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" timestamp="1521774971245">
         <mark key="[" line="18" column="0" />
@@ -1280,10 +1286,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+        <text encoding="base64">cmVxdWlyZWQgJiY=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text encoding="base64">cmVxdWlyZWQgJiY=</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
