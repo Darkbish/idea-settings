@@ -1,6 +1,9 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Source Han Sans SC Light" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="FONT_FACE" value="Droid Sans Mono for Powerline" />
+    <option name="FONT_SCALE" value="1.25" />
+    <option name="FONT_SIZE" value="14" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
