@@ -21,6 +21,11 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/info/UpdateUserDetailsInfoDto.kt" timestamp="1522051103484">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceService.kt" timestamp="1521604619415">
         <mark key="[" line="84" column="4" />
         <mark key="]" line="17" column="33" />
@@ -283,10 +288,10 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/User.kt" timestamp="1521869782552">
-        <mark key="[" line="94" column="36" />
-        <mark key="]" line="94" column="37" />
-        <mark key="." line="94" column="37" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/User.kt" timestamp="1522051046436">
+        <mark key="[" line="60" column="41" />
+        <mark key="]" line="60" column="42" />
+        <mark key="." line="60" column="42" />
         <mark key="^" line="94" column="30" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/PointMapping.xml" timestamp="1521183512178">
