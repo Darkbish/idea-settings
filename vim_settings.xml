@@ -44,10 +44,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="69" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1522287339275">
-        <mark key="[" line="370" column="19" />
-        <mark key="]" line="370" column="19" />
-        <mark key="." line="370" column="19" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1522289903467">
+        <mark key="[" line="251" column="10" />
+        <mark key="]" line="251" column="12" />
+        <mark key="." line="251" column="12" />
+        <mark key="^" line="251" column="12" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1521514484612">
         <mark key="[" line="10" column="0" />
@@ -1383,11 +1384,11 @@
       <jump line="19" column="31" filename="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>uid</text>
       </register>
       <register name="-" type="4">
-        <text>updateByPrimaryKeySelective</text>
+        <text>uid</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
