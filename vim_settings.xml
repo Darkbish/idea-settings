@@ -526,6 +526,12 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="61" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/AreaController.kt" timestamp="1522387027325">
+        <mark key="[" line="50" column="47" />
+        <mark key="]" line="67" column="13" />
+        <mark key="^" line="67" column="13" />
+        <mark key="." line="67" column="13" />
+      </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/VerifyCode.kt" timestamp="1521788046352">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="12" column="57" />
@@ -1484,11 +1490,11 @@
       <jump line="0" column="0" filename="D:/Works/xt-api/src/main/resources/mybatis/mapper/SchoolMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uTWFuYWdlZFJlZmVyZW5jZQo=</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
