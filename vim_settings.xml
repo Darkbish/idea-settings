@@ -27,10 +27,10 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/info/UpdateUserDetailsInfoDto.kt" timestamp="1522051103484">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/info/UpdateUserDetailsInfoDto.kt" timestamp="1522397787899">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceService.kt" timestamp="1521604619415">
         <mark key="[" line="84" column="4" />
@@ -56,9 +56,9 @@
         <mark key="." line="251" column="12" />
         <mark key="^" line="251" column="12" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1521514484612">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1522397602267">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="26" column="32" />
         <mark key="^" line="10" column="2" />
         <mark key="." line="10" column="0" />
       </file>
@@ -200,6 +200,11 @@
         <mark key="]" line="50" column="26" />
         <mark key="^" line="50" column="26" />
         <mark key="." line="50" column="26" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/CompleteInfo.kt" timestamp="1522397605455">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/DemoApplication.kt" timestamp="1521602032563">
         <mark key="[" line="21" column="0" />
@@ -1128,11 +1133,11 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserEnterpriseInfoController.kt" timestamp="1521514583717">
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="61" column="21" />
-        <mark key="^" line="61" column="21" />
-        <mark key="." line="61" column="21" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserEnterpriseInfoController.kt" timestamp="1522397148071">
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="71" column="31" />
+        <mark key="^" line="71" column="31" />
+        <mark key="." line="71" column="31" />
       </file>
       <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520256376372">
         <mark key="[" line="15" column="0" />
@@ -1485,43 +1490,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">sunRr7fW0rPB0LHtCiAgICAg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBmaWVsZDpOb3RCbGFuawogICAgQGZpZWxkOkxlbmd0aChtaW4gPSAyLCBtYXggPSAxMCkKICAgIHZhciBjb250YWN0b3I6IFN0cmluZz8gPSBudWxsLAogICAgQGZpZWxkOk5vdEJsYW5rCiAgICBAZmllbGQ6TGVuZ3RoKG1pbiA9IDIsIG1heCA9IDEwKQogICAgdmFyIGpvYlRpdGxlOiBTdHJpbmc/ID0gbnVsbCwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpOiBTdHJpbmcgewogICAgICAgIHJldHVybiAiJHtzdXBlci50b1N0cmluZygpfSwgbmFtZT0kbmFtZSwgcHJvdmluY2U9JHByb3ZpbmNlLCBjaXR5PSRjaXR5LCBob3Q9JGhvdCwgZGlzYWJsZWQ9JGRpc2FibGVkKSIKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBmaWVsZDpUYWcoc2l6ZSA9IDEwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uTWFuYWdlZFJlZmVyZW5jZQo=</text>
+        <text encoding="base64">ICAgIHZhciB0YWdzOiBMaXN0PFVzZXJTZXJ2aWNlQ2F0ZWdvcnlEdG8uVXNlclNlcnZpY2VEdG8+Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uQmFja1JlZmVyZW5jZQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaXR5Lgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS54dC5kdG8uT3B0aW9uRHRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lmdlb20uQXJlYQo=</text>
+        <text encoding="base64">ICAgIEBmaWVsZDpOb3ROdWxsCiAgICB2YXIgbG9jYXRpb246T3B0aW9uRHRvPywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiR7Y2l0eT8ucH0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpOiBTdHJpbmcgewogICAgICAgIHJldHVybiAiJHtzdXBlci50b1N0cmluZygpfSwgbmFtZT0kbmFtZSwgcHJvdmluY2U9JHByb3ZpbmNlLCBjaXR5PSRjaXR5LCBob3Q9JGhvdCwgZGlzYWJsZWQ9JGRpc2FibGVkKSIKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGluY2x1ZGUgcmVmaWQ9ImNvbS54dC5tYXBwZXIuQXJlYU1hcHBlci5jb2x1bW4iPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJhbGlhcyIgdmFsdWU9InAiLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0icHJlZml4IiB2YWx1ZT0iY19wXyIvPgogICAgICA8L2luY2x1ZGU+Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uTWFuYWdlZFJlZmVyZW5jZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCiAgICA8L2Fzc29jaWF0aW9uPgo=</text>
+        <text encoding="base64">ICAgIEBKc29uQmFja1JlZmVyZW5jZQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
