@@ -693,11 +693,11 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application-prod.yml" timestamp="1522291421117">
-        <mark key="[" line="84" column="11" />
-        <mark key="]" line="84" column="11" />
-        <mark key="^" line="15" column="35" />
-        <mark key="." line="84" column="11" />
+      <file name="D:/Works/xt-api/src/main/resources/application-prod.yml" timestamp="1522727575358">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserServiceMapper.kt" timestamp="1522659563627">
         <mark key="[" line="12" column="0" />
@@ -1551,11 +1551,11 @@
       <jump line="28" column="18" filename="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserServiceMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8bWFwcGluZyB0eXBlPSJvbmUtd2F5Ij4KICAgIDxjbGFzcy1hPmNvbS54dC5lbnRpdHkuU2VydmljZTwvY2xhc3MtYT4KICAgIDxjbGFzcy1iPmphdmEubGFuZy5TdHJpbmc8L2NsYXNzLWI+CiAgICA8ZmllbGQgY3VzdG9tLWNvbnZlcnRlcj0iY29tLnh0LmNvbnZlcnRlci5TZXJ2aWNlQ29udmVydGVyIj4KICAgICAgPGE+bmFtZTwvYT4KICAgICAgPGI+dGhpczwvYj4KICAgIDwvZmllbGQ+CiAgPC9tYXBwaW5nPgo=</text>
+      <register name="&quot;" type="4">
+        <text>123456</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>123456</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
