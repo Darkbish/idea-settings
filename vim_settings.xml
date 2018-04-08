@@ -746,11 +746,11 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application-prod.yml" timestamp="1522740960123">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="17" column="24" />
-        <mark key="." line="22" column="0" />
+      <file name="D:/Works/xt-api/src/main/resources/application-prod.yml" timestamp="1523180324529">
+        <mark key="[" line="74" column="16" />
+        <mark key="]" line="74" column="49" />
+        <mark key="^" line="72" column="43" />
+        <mark key="." line="74" column="16" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserServiceMapper.kt" timestamp="1522659563627">
         <mark key="[" line="12" column="0" />
@@ -1634,17 +1634,17 @@
       <jump line="0" column="6" filename="D:/Works/xt-api/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInRlbXBsYXRlIHBhdGg6ICR7ZmlsZS5hYnNvbHV0ZVBhdGh9IikK</text>
+      <register name="&quot;" type="4">
+        <text>classpath:</text>
       </register>
       <register name="-" type="4">
-        <text>ResourceUtils.getFile(path)</text>
+        <text>classpath:</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRPbmVCeUNlbGxwaG9uZSonIgo=</text>
+      <register name="0" type="4">
+        <text>/mnt/data/www/api2.gxxuetang.com/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInRlbXBsYXRlIHBhdGg6ICR7ZmlsZS5hYnNvbHV0ZVBhdGh9IikK</text>
