@@ -73,10 +73,10 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1523173884236">
-        <mark key="[" line="238" column="120" />
-        <mark key="]" line="300" column="0" />
-        <mark key="." line="300" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1523237813670">
+        <mark key="[" line="355" column="37" />
+        <mark key="]" line="355" column="37" />
+        <mark key="." line="355" column="37" />
         <mark key="^" line="300" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1523165081849">
@@ -729,10 +729,10 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1523173079076">
-        <mark key="[" line="71" column="74" />
-        <mark key="]" line="71" column="77" />
-        <mark key="." line="71" column="77" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1523237956121">
+        <mark key="[" line="197" column="59" />
+        <mark key="]" line="197" column="59" />
+        <mark key="." line="197" column="59" />
         <mark key="^" line="71" column="77" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/UploadProperties.kt" timestamp="1521774971245">
@@ -1635,10 +1635,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>classpath:</text>
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text>classpath:</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
