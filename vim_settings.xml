@@ -21,11 +21,11 @@
         <mark key="." line="49" column="43" />
         <mark key="^" line="27" column="55" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/SchoolController.kt" timestamp="1523341278441">
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="68" column="23" />
-        <mark key="." line="68" column="23" />
-        <mark key="^" line="68" column="23" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/SchoolController.kt" timestamp="1523343455826">
+        <mark key="[" line="109" column="68" />
+        <mark key="]" line="109" column="68" />
+        <mark key="." line="109" column="68" />
+        <mark key="^" line="108" column="74" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/CustomServiceConverter.kt" timestamp="1522660703175">
         <mark key="[" line="6" column="30" />
@@ -165,6 +165,11 @@
         <mark key="^" line="53" column="6" />
         <mark key="." line="53" column="7" />
       </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/SchoolMapper.xml" timestamp="1523343383664">
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="66" column="28" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ManagerService.kt" timestamp="1521604442341">
         <mark key="[" line="55" column="4" />
         <mark key="]" line="55" column="7" />
@@ -286,11 +291,11 @@
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="38" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/SchoolMapper.kt" timestamp="1522380867948">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="14" />
-        <mark key="^" line="12" column="14" />
-        <mark key="." line="12" column="14" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/SchoolMapper.kt" timestamp="1523343342617">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/CompleteEnterpriseInfo.kt" timestamp="1522399501880">
         <mark key="[" line="5" column="0" />
@@ -571,6 +576,12 @@
         <mark key="]" line="8" column="15" />
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/enums/Action.kt" timestamp="1523343101776">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="18" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ResourceMapper.xml" timestamp="1521016224587">
         <mark key="[" line="45" column="42" />
@@ -1643,17 +1654,17 @@
       <jump line="0" column="6" filename="D:/Works/xt-api/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZS5zYXZlKG1hcHBlci5tYXAoZHRvLCBTY2hvb2w6OmNsYXNzLmphdmEpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>insert</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNYXBUbyhBcmVhU2Nob29sRHRvLlNjaG9vbER0bzo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogyejWw8jIw8W089GnCiAgICAgKi8KICAgIEBQb3N0TWFwcGluZygiaG90L3tpZH0iKQogICAgQFJldHVybk1zZyhWYXJpYWJsZS5VUERBVEVfU1VDQ0VTUykKICAgIEBQcmVBdXRob3JpemUoImhhc1JvbGUoJ21hbmFnZXInKSBBTkQgaGFzUHJpdmlsZWdlKCdzY2hvb2wnLCAnaG90JykiKQogICAgZnVuIHNldEhvdChAUGF0aFZhcmlhYmxlIGlkOiBTdHJpbmcpID0gc2VydmljZS50b2dnbGVIb3QoaWQsIHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZS5zYXZlKG1hcHBlci5tYXAoZHRvLCBTY2hvb2w6OmNsYXNzLmphdmEpKQo=</text>
