@@ -711,9 +711,6 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523261139040">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/file/FilePageRequestDto.kt" timestamp="1520401495662">
         <mark key="[" line="11" column="57" />
         <mark key="]" line="11" column="57" />
@@ -1117,9 +1114,9 @@
         <mark key="." line="13" column="95" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/converter/PermissionConverter.kt" timestamp="1523351374878">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/follower/UserFollowerPageRequestDto.kt" timestamp="1521429334203">
         <mark key="[" line="7" column="60" />
