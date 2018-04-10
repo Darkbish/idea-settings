@@ -159,22 +159,22 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/RoleMapper.xml" timestamp="1521013838471">
-        <mark key="[" line="53" column="18" />
-        <mark key="]" line="53" column="14" />
-        <mark key="^" line="53" column="6" />
-        <mark key="." line="53" column="7" />
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/RoleMapper.xml" timestamp="1523349418382">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="72" column="15" />
+        <mark key="^" line="72" column="15" />
+        <mark key="." line="72" column="15" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/SchoolMapper.xml" timestamp="1523343383664">
         <mark key="[" line="66" column="28" />
         <mark key="]" line="66" column="28" />
         <mark key="." line="66" column="28" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ManagerService.kt" timestamp="1521604442341">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="7" />
-        <mark key="^" line="55" column="7" />
-        <mark key="." line="55" column="7" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ManagerService.kt" timestamp="1523349116868">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="32" column="17" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="17" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/article/ArticlePageRequestDto.kt" timestamp="1521516447919">
         <mark key="[" line="10" column="9" />
@@ -505,6 +505,12 @@
         <mark key="]" line="8" column="63" />
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="63" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/ManagerMapper.xml" timestamp="1523349309731">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/properties/WxProperties.kt" timestamp="1521858761582">
         <mark key="[" line="22" column="1" />
@@ -1336,6 +1342,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/ManagerMapper.kt" timestamp="1523349295642">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ActionService.kt" timestamp="1522652102182">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -1439,11 +1451,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ManagerController.kt" timestamp="1521017958121">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="143" column="28" />
-        <mark key="^" line="143" column="28" />
-        <mark key="." line="143" column="28" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ManagerController.kt" timestamp="1523349102722">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="17" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="53" column="17" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/FileService.kt" timestamp="1521522151594">
         <mark key="[" line="27" column="87" />
@@ -1656,16 +1668,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RlJPTSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RlJPTSA=</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">yfO6y9PDu6cKICAgICA=</text>
+        <text>管理员分页列表</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gZmluZE9uZUJ5SWQoaWQpCiAgICAgICAgZW50aXR5LnN0YXR1cyA9IFVzZXJTdGF0dXMuQXVkaXQKICAgICAgICB1c2VyTWFwcGVyLnVwZGF0ZUJ5UHJpbWFyeUtleShlbnRpdHkpCg==</text>
