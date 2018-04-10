@@ -917,11 +917,11 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="35" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/school/SchoolListDto.kt" timestamp="1522379297627">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/school/SchoolListDto.kt" timestamp="1523336663875">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/TokenUtil.kt" timestamp="1523242197336">
         <mark key="[" line="128" column="56" />
@@ -1449,11 +1449,11 @@
         <mark key="." line="56" column="22" />
         <mark key="^" line="56" column="22" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/SchoolMapping.xml" timestamp="1522381595322">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="21" column="62" />
-        <mark key="^" line="21" column="62" />
-        <mark key="." line="21" column="62" />
+      <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/SchoolMapping.xml" timestamp="1523336713672">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="9" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="23" column="9" />
       </file>
       <file name="D:/Works/api/src/main/resources/META-INF/spring-devtools.properties" timestamp="1522042038036">
         <mark key="[" line="2" column="0" />
@@ -1635,11 +1635,11 @@
       <jump line="0" column="6" filename="D:/Works/xt-api/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBNYXBUbyhBcmVhU2Nob29sRHRvLlNjaG9vbER0bzo6Y2xhc3MpCg==</text>
+      <register name="&quot;" type="4">
+        <text>location</text>
       </register>
       <register name="-" type="4">
-        <text>completed</text>
+        <text>location</text>
       </register>
       <register name="/" type="4">
         <text>\(</text>
@@ -1648,31 +1648,31 @@
         <text encoding="base64">ICAgIEBNYXBUbyhBcmVhU2Nob29sRHRvLlNjaG9vbER0bzo6Y2xhc3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoIiIpCg==</text>
+        <text encoding="base64">ICAgIHZhciBsb2NhdGlvbjogU3RyaW5nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNYXBUbygpCg==</text>
+        <text encoding="base64">ICAgIEBQcmVBdXRob3JpemUoIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29tcGxldGVkID0gaWYgKHVzZXIudHlwZSA9PSBVc2VyVHlwZS5TY2hvb2wpICF1c2VyU2VydmljZS5maW5kU2Nob29sSW5mbyh1c2VyLmlkKS5uYW1lLmlzTnVsbE9yQmxhbmsoKQogICAgICAgIGVsc2UgIXVzZXJTZXJ2aWNlLmZpbmRFbnRlcnByaXNlSW5mbyh1c2VyLmlkKS5uYW1lLmlzTnVsbE9yQmxhbmsoKQo=</text>
+        <text encoding="base64">ICAgIEBNYXBUbygpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgY29tcGxldGVkID0gaWYgKHVzZXIudHlwZSA9PSBVc2VyVHlwZS5TY2hvb2wpICF1c2VyU2VydmljZS5maW5kU2Nob29sSW5mbyh1c2VyLmlkKS5uYW1lLmlzTnVsbE9yQmxhbmsoKQogICAgICAgIGVsc2UgIXVzZXJTZXJ2aWNlLmZpbmRFbnRlcnByaXNlSW5mbyh1c2VyLmlkKS5uYW1lLmlzTnVsbE9yQmxhbmsoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29tcGxldGVkID0gaWYgKHVzZXIudHlwZSA9PSBVc2VyVHlwZS5TY2hvb2wpICF1c2VyU2VydmljZS5maW5kU2Nob29sSW5mbyh1c2VyLmlkKS5uYW1lLmlzTnVsbE9yQmxhbmsoKQogICAgICAgIGVsc2UgIXVzZXJTZXJ2aWNlLmZpbmRFbnRlcnByaXNlSW5mbyh1c2VyLmlkKS5uYW1lLmlzTnVsbE9yQmxhbmsoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInRlbXBsYXRlIHBhdGg6ICR7ZmlsZS5hYnNvbHV0ZVBhdGh9IikK</text>
+        <text encoding="base64">ICAgIEBDYWNoZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihlLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInRlbXBsYXRlIHBhdGg6ICR7ZmlsZS5hYnNvbHV0ZVBhdGh9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInRlbXBsYXRlIHBhdGggJXMiLCBmaWxlLmFic29sdXRlUGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihlLm1lc3NhZ2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
