@@ -65,6 +65,9 @@
         <mark key="." line="23" column="110" />
         <mark key="^" line="31" column="4" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/action/ActionDto.kt" timestamp="1523434563175">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/verifyCode/VerifyCodePageRequestDto.kt" timestamp="1522378298858">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="11" column="69" />
@@ -123,8 +126,8 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/role/RolePageRequestDto.kt" timestamp="1520401670300">
-        <mark key="[" line="12" column="81" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/role/RolePageRequestDto.kt" timestamp="1523434619276">
+        <mark key="[" line="9" column="12" />
         <mark key="]" line="12" column="81" />
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="81" />
@@ -159,12 +162,12 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/RoleMapper.xml" timestamp="1523415369552">
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/RoleMapper.xml" timestamp="1523433953463">
         <mark key="'" line="26" column="15" />
         <mark key="[" line="83" column="76" />
-        <mark key="]" line="83" column="75" />
-        <mark key="." line="83" column="75" />
-        <mark key="^" line="83" column="75" />
+        <mark key="]" line="84" column="80" />
+        <mark key="." line="84" column="80" />
+        <mark key="^" line="84" column="80" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/SchoolMapper.xml" timestamp="1523343383664">
         <mark key="[" line="66" column="28" />
@@ -985,6 +988,9 @@
         <mark key="]" line="42" column="56" />
         <mark key="^" line="39" column="26" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/role/RolePermissionDto.kt" timestamp="1523434791197">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/token/TokenPageListDto.kt" timestamp="1522378273369">
         <mark key="[" line="14" column="0" />
