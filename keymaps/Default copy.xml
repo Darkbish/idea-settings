@@ -4,6 +4,9 @@
   <action id="CloseAllEditorsButActive">
     <mouse-shortcut keystroke="control button3" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl l" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
   </action>
