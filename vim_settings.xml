@@ -285,11 +285,11 @@
         <mark key="^" line="45" column="68" />
         <mark key="." line="45" column="68" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/Remote.kt" timestamp="1523505590761">
-        <mark key="[" line="41" column="61" />
-        <mark key="]" line="41" column="61" />
-        <mark key="^" line="46" column="19" />
-        <mark key="." line="41" column="61" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/Remote.kt" timestamp="1523509538827">
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="48" />
+        <mark key="." line="41" column="48" />
+        <mark key="^" line="41" column="48" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/Teacher.kt" timestamp="1521786751973">
         <mark key="[" line="13" column="38" />
@@ -1415,11 +1415,11 @@
         <mark key="^" line="9" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ConfigController.kt" timestamp="1523503971566">
-        <mark key="[" line="33" column="30" />
-        <mark key="]" line="34" column="71" />
-        <mark key="^" line="34" column="71" />
-        <mark key="." line="34" column="71" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ConfigController.kt" timestamp="1523509835923">
+        <mark key="[" line="23" column="7" />
+        <mark key="]" line="33" column="71" />
+        <mark key="^" line="33" column="71" />
+        <mark key="." line="33" column="71" />
       </file>
       <file name="D:/Works/api/src/main/resources-prod/application.yaml" timestamp="1522030160271">
         <mark key="[" line="1" column="7" />
@@ -1736,41 +1736,41 @@
       <jump line="78" column="46" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/File.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>更新配置项</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnRleHQgPSAgaGFzaE1hcE9mKFBhaXIoImR0byIsICJ2YWx1ZSIpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>updateByExampleSelective</text>
       </register>
       <register name="/" type="4">
-        <text>\(</text>
+        <text>bean</text>
       </register>
       <register name="0" type="4">
         <text>更新配置项</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgICAgIG1hcHBlci5wYWdpbmF0aW9uKGR0bywgeyBpdC5hbmRMaWtlKEZlZWRiYWNrOjp0aXRsZSwgZHRvLnRpdGxlKS5hbmRMaWtlKEZlZWRiYWNrOjpjb250YWN0LCBkdG8uY29udGFjdCkgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnRleHQgPSAgaGFzaE1hcE9mKFBhaXIoImR0byIsICJ2YWx1ZSIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGNvbnRhY3QuaGFzaENvZGUoKQo=</text>
+        <text encoding="base64">ICAgIAogICAgICAgIG1hcHBlci5wYWdpbmF0aW9uKGR0bywgeyBpdC5hbmRMaWtlKEZlZWRiYWNrOjp0aXRsZSwgZHRvLnRpdGxlKS5hbmRMaWtlKEZlZWRiYWNrOjpjb250YWN0LCBkdG8uY29udGFjdCkgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udGFjdCAhPSBvdGhlci5jb250YWN0KSByZXR1cm4gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGNvbnRhY3QuaGFzaENvZGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogwarPtbe9yr0KICAgICAqLwogICAgQENvbHVtbihuYW1lID0gImBjb250YWN0YCIsIG51bGxhYmxlID0gZmFsc2UsIGxlbmd0aCA9IDUwKQogICAgQGZpZWxkOk5vdEJsYW5rCiAgICBAZmllbGQ6TGVuZ3RoKG1heCA9IDUwKQogICAgdmFyIGNvbnRhY3Q6IFN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29udGFjdCAhPSBvdGhlci5jb250YWN0KSByZXR1cm4gZmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogwarPtbe9yr0KICAgICAqLwogICAgdmFyIGNvbnRhY3Q6IFN0cmluZywK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogwarPtbe9yr0KICAgICAqLwogICAgQENvbHVtbihuYW1lID0gImBjb250YWN0YCIsIG51bGxhYmxlID0gZmFsc2UsIGxlbmd0aCA9IDUwKQogICAgQGZpZWxkOk5vdEJsYW5rCiAgICBAZmllbGQ6TGVuZ3RoKG1heCA9IDUwKQogICAgdmFyIGNvbnRhY3Q6IFN0cmluZywK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogwarPtbe9yr0KICAgICAqLwogICAgdmFyIGNvbnRhY3Q6IFN0cmluZywK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwcGVyLnBhZ2luYXRpb24oZHRvLCB7IGl0LmFuZExpa2UoRmlsZTo6bmFtZSwgZHRvLm5hbWUpLmFuZEVxdWFsVG8oRmlsZTo6ZXh0LCBkdG8uZXh0KSB9KQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMob3RoZXI6IEFueT8pOiBCb29sZWFuIHsKICAgICAgICBpZiAodGhpcyA9PT0gb3RoZXIpIHJldHVybiB0cnVlCiAgICAgICAgaWYgKG90aGVyICFpcyBGaWxlKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoIXN1cGVyLmVxdWFscyhvdGhlcikpIHJldHVybiBmYWxzZQoKICAgICAgICBpZiAodXNlcklkICE9IG90aGVyLnVzZXJJZCkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKG1hbmFnZXJJZCAhPSBvdGhlci5tYW5hZ2VySWQpIHJldHVybiBmYWxzZQogICAgICAgIGlmIChuYW1lICE9IG90aGVyLm5hbWUpIHJldHVybiBmYWxzZQogICAgICAgIGlmIChleHQgIT0gb3RoZXIuZXh0KSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoc2l6ZSAhPSBvdGhlci5zaXplKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAodXJsICE9IG90aGVyLnVybCkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKHBhdGggIT0gb3RoZXIucGF0aCkgcmV0dXJuIGZhbHNlCgogICAgICAgIHJldHVybiB0cnVlCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGhhc2hDb2RlKCk6IEludCB7CiAgICAgICAgdmFyIHJlc3VsdCA9IHN1cGVyLmhhc2hDb2RlKCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArICh1c2VySWQ/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChtYW5hZ2VySWQ/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChuYW1lPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAoZXh0Py5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBzaXplLmhhc2hDb2RlKCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArICh1cmw/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChwYXRoPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQoKICAgIG92ZXJyaWRlIGZ1biB0b1N0cmluZygpOiBTdHJpbmcgewogICAgICAgIHJldHVybiAiRmlsZSh1c2VySWQ9JHVzZXJJZCwgbWFuYWdlcklkPSRtYW5hZ2VySWQsIG5hbWU9JG5hbWUsIGV4dD0kZXh0LCBzaXplPSRzaXplLCB1cmw9JHVybCwgcGF0aD0kcGF0aCkiCiAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
@@ -1780,9 +1780,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\(</last-search>
+      <last-search>bean</last-search>
       <last-offset />
-      <last-pattern>\(</last-pattern>
+      <last-pattern>bean</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>\(</last-substitute>
       <last-dir>1</last-dir>
@@ -1796,6 +1796,7 @@
         <entry>&quot;</entry>
         <entry>dozer</entry>
         <entry>\(</entry>
+        <entry>bean</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gender_id/gender/g</entry>
