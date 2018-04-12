@@ -683,6 +683,12 @@
         <mark key="^" line="36" column="52" />
         <mark key="." line="40" column="86" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/menu/MenuTreeDto.kt" timestamp="1523513018492">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/action/AddActionDto.kt" timestamp="1522649541753">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="25" />
@@ -840,11 +846,11 @@
         <mark key="^" line="90" column="21" />
         <mark key="." line="85" column="75" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/MenuController.kt" timestamp="1522655375113">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="86" column="75" />
-        <mark key="^" line="48" column="26" />
-        <mark key="." line="49" column="15" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/MenuController.kt" timestamp="1523512973704">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="45" />
+        <mark key="^" line="46" column="45" />
+        <mark key="." line="46" column="45" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/feedback/FeedbackDto.kt" timestamp="1523502485823">
         <mark key="[" line="4" column="0" />
@@ -1742,11 +1748,11 @@
       <jump line="78" column="46" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/File.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNvbnRleHQgPSAgaGFzaE1hcE9mKFBhaXIoImR0byIsICJ2YWx1ZSIpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>filter</text>
       </register>
       <register name="-" type="4">
-        <text>updateByExampleSelective</text>
+        <text>filter</text>
       </register>
       <register name="/" type="4">
         <text>bean</text>
