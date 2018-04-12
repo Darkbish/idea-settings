@@ -1519,10 +1519,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ManagerController.kt" timestamp="1523350632549">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/ManagerController.kt" timestamp="1523513693110">
+        <mark key="[" line="64" column="46" />
+        <mark key="]" line="64" column="61" />
+        <mark key="." line="64" column="61" />
+        <mark key="^" line="64" column="61" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/FileService.kt" timestamp="1523499765651">
         <mark key="[" line="33" column="41" />
@@ -1749,10 +1750,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filter</text>
+        <text>(principal as JwtAuthenticationToken).id</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>(principal as JwtAuthenticationToken).id</text>
       </register>
       <register name="/" type="4">
         <text>bean</text>
