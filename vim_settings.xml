@@ -9,11 +9,11 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/logback-spring.xml" timestamp="1523175397224">
-        <mark key="[" line="4" column="67" />
-        <mark key="]" line="4" column="71" />
-        <mark key="." line="4" column="71" />
-        <mark key="^" line="4" column="71" />
+      <file name="D:/Works/xt-api/src/main/resources/logback-spring.xml" timestamp="1523693474287">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="34" column="28" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/SchoolService.kt" timestamp="1523585118303">
         <mark key="[" line="74" column="33" />
@@ -82,11 +82,11 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1523585779356">
-        <mark key="[" line="255" column="49" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
-        <mark key="^" line="190" column="30" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1523692884101">
+        <mark key="[" line="177" column="38" />
+        <mark key="]" line="177" column="70" />
+        <mark key="." line="177" column="70" />
+        <mark key="^" line="177" column="70" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1523165081849">
         <mark key="[" line="31" column="0" />
@@ -121,11 +121,11 @@
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UploadController.kt" timestamp="1523590825655">
         <mark key="[" line="22" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1523347934099">
-        <mark key="[" line="338" column="29" />
-        <mark key="]" line="338" column="29" />
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserMapper.xml" timestamp="1523692323420">
+        <mark key="[" line="158" column="99" />
+        <mark key="]" line="158" column="99" />
         <mark key="^" line="338" column="29" />
-        <mark key="." line="338" column="29" />
+        <mark key="." line="158" column="99" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/TransactionConfiguration.kt" timestamp="1520821035912">
         <mark key="[" line="3" column="0" />
@@ -774,11 +774,6 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1523690001628">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/file/FilePageRequestDto.kt" timestamp="1520401495662">
         <mark key="[" line="11" column="57" />
@@ -1821,11 +1816,11 @@
       <jump line="66" column="46" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Manager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CjIuIDEuIMn9vLa1vSBgd2VicGFjayA0YA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8IS0tINLssr3I1da+IC0tPgogIDxhcHBlbmRlciBuYW1lPSJBU1lOQ19GSUxFIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY2xhc3NpYy5Bc3luY0FwcGVuZGVyIj4KICAgIDxkaXNjYXJkaW5nVGhyZXNob2xkPjA8L2Rpc2NhcmRpbmdUaHJlc2hvbGQ+CiAgICA8cXVldWVTaXplPjUwMDwvcXVldWVTaXplPgogICAgPGFwcGVuZGVyLXJlZiByZWY9IkZJTEUiLz4KICA8L2FwcGVuZGVyPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>http://manage.gxxuetang.com</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>bean</text>
@@ -1833,32 +1828,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBvcmlnaW46CiAgICAtIGh0dHA6Ly9tLmd4eHVldGFuZy5jb20KICAgIC0gaHR0cDovL21hbmFnZS5neHh1ZXRhbmcuY29tCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CjIuIDEuIMn9vLa1vSBgd2VicGFjayA0YA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICA8IS0tINLssr3I1da+IC0tPgogIDxhcHBlbmRlciBuYW1lPSJBU1lOQ19GSUxFIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY2xhc3NpYy5Bc3luY0FwcGVuZGVyIj4KICAgIDxkaXNjYXJkaW5nVGhyZXNob2xkPjA8L2Rpc2NhcmRpbmdUaHJlc2hvbGQ+CiAgICA8cXVldWVTaXplPjUwMDwvcXVldWVTaXplPgogICAgPGFwcGVuZGVyLXJlZiByZWY9IkZJTEUiLz4KICA8L2FwcGVuZGVyPgo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CjIuIDEuIMn9vLa1vSBgd2VicGFjayA0YA==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAtIGh0dHA6Ly9sb2NhbGhvc3Q6ODA5MAogICAgLSBodHRwOi8vbG9jYWxob3N0OjgwOTEKICAgIC0gaHR0cDovL20uZ3h4dWV0YW5nLmNvbQogICAgLSBodHRwOi8vbWFuYWdlLmd4eHVldGFuZy5jb20=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBvcmlnaW46ICIqIgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGFya2Igb24gMjAxNy83LzYuCiAqLwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGFya2Igb24gMjAxNy82LzI2LgogKi8K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZGFya2Igb24gMjAxNy82LzI4LgogKi8K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXQoZHRvOiBGZWVkYmFja1BhZ2VSZXF1ZXN0RHRvKSA9IHNlcnZpY2UucGFnaW5hdGlvbihkdG8pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEAK</text>
+        <text encoding="base64">ICAgIGZ1biBnZXQoZHRvOiBGZWVkYmFja1BhZ2VSZXF1ZXN0RHRvKSA9IHNlcnZpY2UucGFnaW5hdGlvbihkdG8pCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
