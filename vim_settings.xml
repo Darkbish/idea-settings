@@ -833,11 +833,11 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application-prod.yml" timestamp="1523609859187">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="85" column="32" />
+      <file name="D:/Works/xt-api/src/main/resources/application-prod.yml" timestamp="1523696464265">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="22" />
         <mark key="^" line="83" column="8" />
-        <mark key="." line="83" column="8" />
+        <mark key="." line="15" column="22" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/UserServiceMapper.kt" timestamp="1522659563627">
         <mark key="[" line="12" column="0" />
@@ -1816,11 +1816,11 @@
       <jump line="66" column="46" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Manager.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8IS0tINLssr3I1da+IC0tPgogIDxhcHBlbmRlciBuYW1lPSJBU1lOQ19GSUxFIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY2xhc3NpYy5Bc3luY0FwcGVuZGVyIj4KICAgIDxkaXNjYXJkaW5nVGhyZXNob2xkPjA8L2Rpc2NhcmRpbmdUaHJlc2hvbGQ+CiAgICA8cXVldWVTaXplPjUwMDwvcXVldWVTaXplPgogICAgPGFwcGVuZGVyLXJlZiByZWY9IkZJTEUiLz4KICA8L2FwcGVuZGVyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>bean</text>
