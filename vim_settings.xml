@@ -1681,10 +1681,10 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="D:/Works/xt-server/src/main/resources/application-prod.yml" timestamp="1523696571138">
+      <file name="D:/Works/xt-server/src/main/resources/application-prod.yml" timestamp="1523698587247">
         <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="64" />
-        <mark key="." line="5" column="64" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="64" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceTag/ServiceTagListDto.kt" timestamp="1522378105993">
@@ -1823,10 +1823,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>rm-bp1my8jah1z877jn0.mysql.rds.aliyuncs.com</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>rm-bp1my8jah1z877jn0.mysql.rds.aliyuncs.com</text>
       </register>
       <register name="/" type="4">
         <text>bean</text>
