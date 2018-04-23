@@ -507,10 +507,9 @@
         <mark key="^" line="74" column="40" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/DictionaryItemService.kt" timestamp="1523583210825">
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="67" column="40" />
-        <mark key="^" line="59" column="33" />
-        <mark key="." line="67" column="0" />
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="40" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="D:/Projects/demo/src/main/resources/dozer/config.xml" timestamp="1521085297499">
         <mark key="[" line="7" column="0" />
@@ -1094,7 +1093,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DictionaryItemController.kt" timestamp="1524449290992">
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DictionaryItemController.kt" timestamp="1524450617535">
         <mark key="[" line="67" column="40" />
         <mark key="]" line="67" column="40" />
         <mark key="." line="67" column="40" />
