@@ -82,11 +82,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1524459923624">
-        <mark key="[" line="92" column="44" />
-        <mark key="]" line="92" column="44" />
-        <mark key="." line="92" column="44" />
-        <mark key="^" line="92" column="49" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1524533340463">
+        <mark key="'" line="295" column="16" />
+        <mark key="[" line="295" column="69" />
+        <mark key="]" line="295" column="69" />
+        <mark key="." line="295" column="69" />
+        <mark key="^" line="295" column="41" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1523165081849">
         <mark key="[" line="31" column="0" />
@@ -1006,11 +1007,11 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1524460448352">
-        <mark key="[" line="124" column="138" />
-        <mark key="]" line="126" column="47" />
-        <mark key="." line="126" column="47" />
-        <mark key="^" line="126" column="47" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1524533310667">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="156" column="6" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="162" column="83" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/FeedbackMapper.kt" timestamp="1523501911026">
         <mark key="[" line="8" column="7" />
@@ -1078,10 +1079,11 @@
         <mark key="^" line="39" column="26" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserFollowerMapper.xml" timestamp="1523927861171">
-        <mark key="[" line="183" column="10" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
+      <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/UserFollowerMapper.xml" timestamp="1524532968947">
+        <mark key="[" line="118" column="44" />
+        <mark key="]" line="118" column="44" />
+        <mark key="." line="118" column="54" />
+        <mark key="^" line="116" column="46" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/token/TokenPageListDto.kt" timestamp="1522378273369">
         <mark key="[" line="14" column="0" />
@@ -1894,55 +1896,57 @@
       <jump line="10" column="22" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Config.kt" />
       <jump line="78" column="46" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Area.kt" />
       <jump line="79" column="46" filename="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Area.kt" />
+      <jump line="52" column="25" filename="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" />
+      <jump line="295" column="16" filename="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8bWFwcGluZyB0eXBlPSJvbmUtd2F5Ij4KICAgIDxjbGFzcy1hPmNvbS54dC5kdG8uaW5mcmFzdHJ1Y3R1cmUuZGljdGlvbmFyeS5BZGREaWN0aW9uYXJ5SXRlbUR0bzwvY2xhc3MtYT4KICAgIDxjbGFzcy1iPmNvbS54dC5lbnRpdHkuRGljdGlvbmFyeUl0ZW08L2NsYXNzLWI+CiAgICA8ZmllbGQ+CiAgICAgIDxhPnBhcmVudElkPC9hPgogICAgICA8Yj5kaWN0aW9uYXJ5LmlkPC9iPgogICAgPC9maWVsZD4KICA8L21hcHBpbmc+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, FollowerType.Invited</text>
       </register>
       <register name="-" type="4">
-        <text>: AddDictionaryItemDto()</text>
+        <text>, FollowerType.Invited</text>
       </register>
       <register name="/" type="4">
-        <text>bean</text>
+        <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFJlbW90ZSh0YXJnZXQgPSAiY29kZSIsIHNlcnZpY2UgPSBEaWN0aW9uYXJ5SXRlbVNlcnZpY2U6OmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRPbmVCeUlkOicgKyAjdXNlcklkIiwKICAgICAgICAiJ3VzZXJTZXJ2aWNlLmZpbmRPbmVCeUlkOicgKyAjZm9sbG93ZXJJZCIsCiAgICAgICAgIid1c2VyRm9sbG93ZXJTZXJ2aWNlLmZpbmQqRm9sbG93ZXI6JyArICN1c2VySWQgKyAnLConIiwKICAgICAgICAiJ3VzZXJGb2xsb3dlclNlcnZpY2UucGFnaW5hdGlvbjoqJyIsCiAgICAgICAgIid1c2VyU2VydmljZS5maW5kKkdyb3VwKiciLAogICAgICAgICIndXNlclNlcnZpY2UuZmluZEJhc2ljSW5mbzonICsgI3VzZXJJZCIsCiAgICAgICAgIid1c2VyU2VydmljZS5wYWdpbmF0aW9uKiciLAogICAgICAgICIncG9pbnRTZXJ2aWNlLnBhZ2luYXRpb24qJyIsCiAgICAgICAgIidwb2ludFNlcnZpY2Uuc3RhdGlzdGljc0J5VXNlcklkOicgKyAjdXNlcklkIgogICAgXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8bWFwcGluZyB0eXBlPSJvbmUtd2F5Ij4KICAgIDxjbGFzcy1hPmNvbS54dC5kdG8uaW5mcmFzdHJ1Y3R1cmUuZGljdGlvbmFyeS5BZGREaWN0aW9uYXJ5SXRlbUR0bzwvY2xhc3MtYT4KICAgIDxjbGFzcy1iPmNvbS54dC5lbnRpdHkuRGljdGlvbmFyeUl0ZW08L2NsYXNzLWI+CiAgICA8ZmllbGQ+CiAgICAgIDxhPnBhcmVudElkPC9hPgogICAgICA8Yj5kaWN0aW9uYXJ5LmlkPC9iPgogICAgPC9maWVsZD4KICA8L21hcHBpbmc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBpZDogSW50PyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIGZvbGxvd2VyU2VydmljZTogVXNlckZvbGxvd2VyU2VydmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZS5zYXZlKG1hcHBlci5tYXAoZW50aXR5LCBEaWN0aW9uYXJ5OjpjbGFzcy5qYXZhKSkK</text>
+        <text encoding="base64">ICA8bWFwcGluZyB0eXBlPSJvbmUtd2F5Ij4KICAgIDxjbGFzcy1hPmNvbS54dC5kdG8uaW5mcmFzdHJ1Y3R1cmUuZGljdGlvbmFyeS5BZGREaWN0aW9uYXJ5SXRlbUR0bzwvY2xhc3MtYT4KICAgIDxjbGFzcy1iPmNvbS54dC5lbnRpdHkuRGljdGlvbmFyeUl0ZW08L2NsYXNzLWI+CiAgICA8ZmllbGQ+CiAgICAgIDxhPnBhcmVudElkPC9hPgogICAgICA8Yj5kaWN0aW9uYXJ5LmlkPC9iPgogICAgPC9maWVsZD4KICA8L21hcHBpbmc+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBNYXBUbyhEaWN0aW9uYXJ5SXRlbUR0bzo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIHZhciBpZDogSW50PyA9IG51bGwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZS5zYXZlKG1hcHBlci5tYXAoZHRvLCBEaWN0aW9uYXJ5SXRlbTo6Y2xhc3MuamF2YSkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZS5zYXZlKG1hcHBlci5tYXAoZW50aXR5LCBEaWN0aW9uYXJ5OjpjbGFzcy5qYXZhKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL3JtLWJwMW15OGphaDF6ODc3am4wZ28ubXlzcWwucmRzLmFsaXl1bmNzLmNvbS94dC12Mj91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZ1c2VTU0w9ZmFsc2UmYWxsb3dNdWx0aVF1ZXJpZXM9dHJ1ZQo=</text>
+        <text encoding="base64">ICAgIEBNYXBUbyhEaWN0aW9uYXJ5SXRlbUR0bzo6Y2xhc3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiB4dDEyMyojJFFBWgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZS5zYXZlKG1hcHBlci5tYXAoZHRvLCBEaWN0aW9uYXJ5SXRlbTo6Y2xhc3MuamF2YSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFORCB1LnN0YXR1cyA9ICR7QGNvbS54dC5lbnRpdHkuZW51bXMuVXNlclN0YXR1c0BBcHBseS5vcmlnaW59Cg==</text>
+        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL3JtLWJwMW15OGphaDF6ODc3am4wZ28ubXlzcWwucmRzLmFsaXl1bmNzLmNvbS94dC12Mj91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZ1c2VTU0w9ZmFsc2UmYWxsb3dNdWx0aVF1ZXJpZXM9dHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0b2tlblR5cGUgPT0pCg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiB4dDEyMyojJFFBWgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>bean</last-search>
+      <last-search encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>bean</last-pattern>
+      <last-pattern encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>\(</last-substitute>
       <last-dir>1</last-dir>
@@ -1957,6 +1961,7 @@
         <entry>dozer</entry>
         <entry>\(</entry>
         <entry>bean</entry>
+        <entry encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gender_id/gender/g</entry>
