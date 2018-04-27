@@ -1007,10 +1007,10 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1524533310667">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="156" column="6" />
-        <mark key="." line="146" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1524796341717">
+        <mark key="[" line="162" column="80" />
+        <mark key="]" line="162" column="80" />
+        <mark key="." line="162" column="80" />
         <mark key="^" line="162" column="83" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/FeedbackMapper.kt" timestamp="1523501911026">
@@ -1171,11 +1171,11 @@
         <mark key="." line="39" column="74" />
         <mark key="^" line="39" column="73" />
       </file>
-      <file name="D:/Works/xt-api/pom.xml" timestamp="1523870735034">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
+      <file name="D:/Works/xt-api/pom.xml" timestamp="1524796465208">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
         <mark key="^" line="177" column="31" />
-        <mark key="." line="126" column="0" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/application.yaml" timestamp="1521859783995">
         <mark key="[" line="65" column="16" />
@@ -1901,10 +1901,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>followSchoolPoint</text>
+        <text>31</text>
       </register>
       <register name="-" type="4">
-        <text>followSchoolPoint</text>
+        <text>31</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
