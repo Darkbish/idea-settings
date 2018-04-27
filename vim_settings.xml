@@ -678,11 +678,11 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/AreaController.kt" timestamp="1524797932618">
-        <mark key="[" line="126" column="4" />
-        <mark key="]" line="120" column="21" />
-        <mark key="." line="120" column="21" />
-        <mark key="^" line="120" column="21" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/AreaController.kt" timestamp="1524806046305">
+        <mark key="[" line="131" column="19" />
+        <mark key="]" line="131" column="19" />
+        <mark key="." line="131" column="19" />
+        <mark key="^" line="131" column="21" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/entity/VerifyCode.kt" timestamp="1521788046352">
         <mark key="[" line="11" column="11" />
@@ -1900,11 +1900,11 @@
       <jump line="295" column="16" filename="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaWRzID0gaWQuc3BsaXQoJywnKS5kcm9wV2hpbGUgeyBpdC5pc0JsYW5rKCkgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>cancelHot</text>
       </register>
       <register name="-" type="4">
-        <text>ids</text>
+        <text>cancelHot</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
