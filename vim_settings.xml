@@ -82,11 +82,11 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1524533340463">
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" timestamp="1524796312275">
         <mark key="'" line="295" column="16" />
-        <mark key="[" line="295" column="69" />
-        <mark key="]" line="295" column="69" />
-        <mark key="." line="295" column="69" />
+        <mark key="[" line="294" column="71" />
+        <mark key="]" line="294" column="71" />
+        <mark key="." line="294" column="71" />
         <mark key="^" line="295" column="41" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterpriseInfoDto.kt" timestamp="1523165081849">
@@ -1901,10 +1901,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jwt.principal as String</text>
+        <text>followSchoolPoint</text>
       </register>
       <register name="-" type="4">
-        <text>jwt.principal as String</text>
+        <text>followSchoolPoint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
