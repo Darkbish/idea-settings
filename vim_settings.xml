@@ -327,12 +327,6 @@
         <mark key="]" line="24" column="30" />
         <mark key="." line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/entity/Area.java" timestamp="1520256401329">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/Compare.kt" timestamp="1520846164656">
         <mark key="[" line="48" column="25" />
         <mark key="]" line="48" column="25" />
@@ -454,6 +448,12 @@
         <mark key="]" line="21" column="36" />
         <mark key="^" line="19" column="55" />
         <mark key="." line="19" column="55" />
+      </file>
+      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/entity/Area.java" timestamp="1520256401329">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/UserFollowerMapping.xml" timestamp="1521430691732">
         <mark key="[" line="6" column="55" />
@@ -992,7 +992,7 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1524796341717">
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserFollowerService.kt" timestamp="1525742845248">
         <mark key="[" line="162" column="80" />
         <mark key="]" line="162" column="80" />
         <mark key="." line="162" column="80" />
@@ -1275,6 +1275,11 @@
         <mark key="." line="6" column="59" />
         <mark key="^" line="6" column="59" />
       </file>
+      <file name="$USER_HOME$/work/xt/xt-api/pom.xml" timestamp="1524932069892">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/point/PointPageRequestDto.kt" timestamp="1521184657624">
         <mark key="[" line="12" column="67" />
         <mark key="]" line="12" column="67" />
@@ -1438,6 +1443,12 @@
         <mark key="^" line="78" column="44" />
         <mark key="." line="75" column="91" />
       </file>
+      <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520256376372">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="45" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/PicCodeUtil.kt" timestamp="1520586761232">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
@@ -1461,11 +1472,6 @@
         <mark key="]" line="36" column="8" />
         <mark key="^" line="36" column="8" />
         <mark key="." line="36" column="8" />
-      </file>
-      <file name="$USER_HOME$/work/xt/xt-api/pom.xml" timestamp="1524932069892">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/ResourceActionMapping.xml" timestamp="1523438205407">
         <mark key="[" line="12" column="0" />
@@ -1610,12 +1616,6 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/Program.java" timestamp="1520256492826">
-        <mark key="[" line="15" column="80" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/follower/UserFollowerListPageRequestDto.kt" timestamp="1521449673714">
         <mark key="[" line="14" column="103" />
         <mark key="]" line="14" column="103" />
@@ -1638,12 +1638,6 @@
         <mark key="]" line="50" column="20" />
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
-      </file>
-      <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520256376372">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="45" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/FileService.kt" timestamp="1523499765651">
         <mark key="[" line="33" column="41" />
@@ -1761,6 +1755,12 @@
         <mark key="]" line="9" column="47" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/Program.java" timestamp="1520256492826">
+        <mark key="[" line="15" column="80" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WebSecurityConfig.kt" timestamp="1523610053048">
         <mark key="[" line="59" column="48" />
