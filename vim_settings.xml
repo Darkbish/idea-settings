@@ -524,6 +524,12 @@
         <mark key="^" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/GlobalErrorHandler.kt" timestamp="1525836414327">
+        <mark key="[" line="48" column="70" />
+        <mark key="]" line="48" column="75" />
+        <mark key="." line="48" column="75" />
+        <mark key="^" line="48" column="75" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/category/ArticleCategoryPageListDto.kt" timestamp="1521529210235">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="9" column="20" />
@@ -1888,10 +1894,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cancelHot</text>
+        <text>message</text>
       </register>
       <register name="-" type="4">
-        <text>cancelHot</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
