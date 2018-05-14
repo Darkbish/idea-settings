@@ -467,6 +467,9 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="58" column="25" />
       </file>
+      <file name="D:/Works/duiba-java-sdk/src/main/java/cn/com/duiba/credits/sdk/entity/CreditNotifyParams.java" timestamp="1526274920728">
+        <mark key="[" line="81" column="5" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/PointMapper.kt" timestamp="1521183227381">
         <mark key="[" line="8" column="7" />
         <mark key="]" line="9" column="4" />
@@ -1312,11 +1315,11 @@
         <mark key="^" line="34" column="19" />
         <mark key="." line="34" column="19" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/OrderService.kt" timestamp="1526270272056">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="47" column="66" />
-        <mark key="." line="47" column="66" />
-        <mark key="^" line="47" column="66" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/OrderService.kt" timestamp="1526275169367">
+        <mark key="[" line="65" column="7" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="27" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/user/UserDetailsInfoDto.kt" timestamp="1521444064971">
         <mark key="[" line="9" column="0" />
@@ -1354,7 +1357,7 @@
         <mark key="." line="100" column="24" />
         <mark key="^" line="100" column="24" />
       </file>
-      <file name="D:/Works/xt-api/src/main/resources/application-dev.yml" timestamp="1526263271806">
+      <file name="D:/Works/xt-api/src/main/resources/application-dev.yml" timestamp="1526276188145">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="68" column="48" />
         <mark key="." line="66" column="5" />
@@ -1479,10 +1482,11 @@
         <mark key="^" line="145" column="62" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Order.kt" timestamp="1526269660820">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Order.kt" timestamp="1526274355518">
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="64" column="12" />
+        <mark key="." line="64" column="12" />
+        <mark key="^" line="64" column="12" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/controller/ValueController.kt" timestamp="1521789393519">
         <mark key="[" line="54" column="19" />
@@ -1774,18 +1778,18 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/OrderMapper.kt" timestamp="1526266852529">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="2" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/OrderMapper.kt" timestamp="1526274671840">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="8" column="78" />
+        <mark key="." line="8" column="78" />
+        <mark key="^" line="8" column="78" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DuibaController.kt" timestamp="1526270341953">
-        <mark key="'" line="61" column="30" />
-        <mark key="[" line="48" column="25" />
-        <mark key="]" line="73" column="25" />
-        <mark key="." line="73" column="25" />
-        <mark key="^" line="73" column="25" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DuibaController.kt" timestamp="1526276026532">
+        <mark key="'" line="30" column="47" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="94" column="23" />
+        <mark key="^" line="94" column="23" />
+        <mark key="." line="94" column="23" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceTag/ServiceTagListDto.kt" timestamp="1522378105993">
         <mark key="[" line="11" column="0" />
@@ -1804,11 +1808,11 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WebSecurityConfig.kt" timestamp="1523610053048">
-        <mark key="[" line="59" column="48" />
-        <mark key="]" line="59" column="48" />
-        <mark key="." line="59" column="48" />
-        <mark key="^" line="59" column="47" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WebSecurityConfig.kt" timestamp="1526275937643">
+        <mark key="[" line="59" column="89" />
+        <mark key="]" line="59" column="89" />
+        <mark key="." line="59" column="89" />
+        <mark key="^" line="59" column="89" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/PointService.kt" timestamp="1523584135546">
         <mark key="[" line="29" column="12" />
@@ -1935,46 +1939,49 @@
       <jump line="295" column="16" filename="D:/Works/xt-api/src/main/kotlin/com/xt/service/UserService.kt" />
       <jump line="52" column="30" filename="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DuibaController.kt" />
       <jump line="24" column="45" filename="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DuibaController.kt" />
+      <jump line="97" column="0" filename="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DuibaController.kt" />
+      <jump line="0" column="0" filename="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DuibaController.kt" />
+      <jump line="30" column="47" filename="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DuibaController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user.point - entity.credits</text>
+        <text>部</text>
       </register>
       <register name="-" type="4">
-        <text>user.point - entity.credits</text>
+        <text>部</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBHZW5lcmF0ZWRWYWx1ZShnZW5lcmF0b3IgPSAiSkRCQyIpCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJjcmVhdGVfZGF0ZSIsIG51bGxhYmxlID0gZmFsc2UsIGluc2VydGFibGUgPSBmYWxzZSwgdXBkYXRhYmxlID0gZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHVzZXJTZXJ2aWNlOlVzZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gIm9rIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIgPSB1c2VyU2VydmljZS5maW5kT25lQnlJZCh1c2VySWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBvcmRlciA9IHNlcnZpY2UuZmluZE9uZUJ5T3JkZXJOdW0ocGFyYW1zLm9yZGVyTnVtKSA/OiB0aHJvdyBOdWxsUG9pbnRlckV4Y2VwdGlvbigitqm1pbK7tObU2iIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZpY2UuZ2VuZXJhdGUodXNlcklkKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCA9ICJvayIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHZW5lcmF0ZWRWYWx1ZShnZW5lcmF0b3IgPSAiSkRCQyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG9yKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">QENhY2hlYWJsZSgib3JkZXIiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpdmF0ZSBmdW4gSW50LnRvTW9uZXkoKTogQmlnRGVjaW1hbD8gewoKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJzZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBybWIK</text>
+        <text encoding="base64">ICAgIEBMYW5nKCIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnN0cmluZygwLCAyMCkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFzZTY0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
