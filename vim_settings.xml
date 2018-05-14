@@ -214,6 +214,11 @@
         <mark key="." line="95" column="55" />
         <mark key="^" line="95" column="55" />
       </file>
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/common/WeekendPredicate.kt" timestamp="1526285142375">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+      </file>
       <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/WxTokenMapping.xml" timestamp="1520494417127">
         <mark key="[" line="4" column="10" />
         <mark key="]" line="4" column="10" />
@@ -536,10 +541,11 @@
         <mark key="^" line="78" column="21" />
         <mark key="." line="78" column="21" />
       </file>
-      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/GlobalErrorHandler.kt" timestamp="1526284119882">
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="D:/Works/xt-api/src/main/kotlin/com/xt/filter/GlobalErrorHandler.kt" timestamp="1526285172900">
+        <mark key="[" line="53" column="39" />
+        <mark key="]" line="39" column="52" />
+        <mark key="." line="39" column="52" />
+        <mark key="^" line="39" column="52" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/article/category/ArticleCategoryPageListDto.kt" timestamp="1521529210235">
         <mark key="[" line="8" column="21" />
@@ -1973,11 +1979,11 @@
       <jump line="30" column="47" filename="D:/Works/xt-api/src/main/kotlin/com/xt/controller/DuibaController.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhlLnN0YWNrVHJhY2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50ZXJuYWwg</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">aW50ZXJuYWwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
