@@ -306,6 +306,12 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="6" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/kotlin/com/xt/dto/PageList.kt" timestamp="1528707962380">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+      </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/FeedbackMapper.xml" timestamp="1523502945066">
         <mark key="[" line="45" column="62" />
         <mark key="]" line="45" column="68" />
@@ -324,12 +330,6 @@
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520256376372">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="45" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/mapper/SchoolMapper.kt" timestamp="1523343342617">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="17" column="21" />
@@ -346,6 +346,12 @@
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="30" />
         <mark key="." line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/entity/Area.java" timestamp="1520256401329">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/validator/Compare.kt" timestamp="1520846164656">
         <mark key="[" line="48" column="25" />
@@ -495,11 +501,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/xt/xt-api/pom.xml" timestamp="1524932069892">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/ServiceTypeService.kt" timestamp="1521442795829">
         <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="5" />
@@ -621,11 +622,6 @@
         <mark key="]" line="6" column="15" />
         <mark key="^" line="6" column="15" />
         <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/kotlin/com/xt/mapper/AreaMapper.kt" timestamp="1528708898432">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/service/UserServiceListDto.kt" timestamp="1521511061676">
         <mark key="[" line="11" column="4" />
@@ -769,12 +765,6 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="63" />
       </file>
-      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/entity/Area.java" timestamp="1520256401329">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/GalleryController.kt" timestamp="1523590147918">
         <mark key="[" line="41" column="15" />
         <mark key="]" line="50" column="13" />
@@ -860,11 +850,6 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/kotlin/com/xt/controller/ActionController.kt" timestamp="1528708370689">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/controller/UserController.kt" timestamp="1526011129870">
         <mark key="[" line="232" column="60" />
         <mark key="]" line="232" column="84" />
@@ -910,12 +895,6 @@
         <mark key="]" line="31" column="3" />
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/Program.java" timestamp="1520256492826">
-        <mark key="[" line="15" column="80" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/CorsProperties.kt" timestamp="1520582343421">
         <mark key="[" line="7" column="35" />
@@ -1031,7 +1010,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/resources/dozer/mappings/AreaMapping.xml" timestamp="1528708492934" />
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/serviceType/UserServiceTypePageRequestDto.kt" timestamp="1521438184747">
         <mark key="[" line="10" column="37" />
         <mark key="]" line="10" column="37" />
@@ -1108,12 +1086,6 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/kotlin/com/xt/dto/PageList.kt" timestamp="1528707962380">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="4" />
       </file>
       <file name="D:/Works/xt-api/src/main/resources/mybatis/mapper/PointMapper.xml" timestamp="1521509319292">
         <mark key="[" line="42" column="0" />
@@ -1259,6 +1231,11 @@
         <mark key="]" line="56" column="37" />
         <mark key="^" line="48" column="90" />
         <mark key="." line="56" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/ace/community/pom.xml" timestamp="1528898823376">
+        <mark key="[" line="110" column="21" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/sys/feedback/FeedbackPageRequestDto.kt" timestamp="1523502047134">
         <mark key="[" line="11" column="57" />
@@ -1432,6 +1409,11 @@
         <mark key="]" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/kotlin/com/xt/mapper/AreaMapper.kt" timestamp="1528708898432">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/WxProperties.kt" timestamp="1520581770202">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="13" column="42" />
@@ -1461,6 +1443,11 @@
         <mark key="]" line="12" column="14" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/kotlin/com/xt/controller/ActionController.kt" timestamp="1528708370689">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/Config.kt" timestamp="1523843448918">
         <mark key="[" line="39" column="5" />
@@ -1539,6 +1526,11 @@
         <mark key="]" line="67" column="27" />
         <mark key="." line="67" column="27" />
         <mark key="^" line="64" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/xt/xt-api/pom.xml" timestamp="1528898599017">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="54" column="12" />
+        <mark key="." line="24" column="26" />
       </file>
       <file name="D:/Projects/demo/src/main/kotlin/com/xt/demo/controller/ValueController.kt" timestamp="1521789393519">
         <mark key="[" line="54" column="19" />
@@ -1701,6 +1693,12 @@
         <mark key="^" line="40" column="62" />
         <mark key="." line="40" column="62" />
       </file>
+      <file name="$USER_HOME$/work/demo/src/main/java/com/xt/demo/Program.java" timestamp="1520256492826">
+        <mark key="[" line="15" column="80" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/user/enterpriseInfo/UserEnterprisePageRequestDto.kt" timestamp="1523863877860">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
@@ -1729,6 +1727,12 @@
         <mark key="]" line="50" column="20" />
         <mark key="^" line="50" column="20" />
         <mark key="." line="50" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/demo/build.gradle" timestamp="1520256376372">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/FileService.kt" timestamp="1523499765651">
         <mark key="[" line="33" column="41" />
@@ -1997,7 +2001,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QE1hcHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY2tzb24tY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi45LjQ8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW50ZXJuYWwg</text>
@@ -2006,34 +2010,34 @@
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsiJ3VzZXJTZXJ2aWNlLnBhZ2luYXRpb24qJyIsICIndXNlclNlcnZpY2UuZmluZEJhc2ljSW5mbzonICsgI2lkIiwgIidwb2ludFNlcnZpY2U6c3RhdGlzdGljc0J5VXNlcklkOicgKyAjaWQiXSkK</text>
+        <text encoding="base64">ICA8cHJvZmlsZXM+CiAgICA8cHJvZmlsZT4KICAgICAgPGlkPmRldjwvaWQ+CiAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgIDxwcm9maWxlQWN0aXZlPmRldjwvcHJvZmlsZUFjdGl2ZT4KICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICA8YWN0aXZhdGlvbj4KICAgICAgICA8YWN0aXZlQnlEZWZhdWx0PnRydWU8L2FjdGl2ZUJ5RGVmYXVsdD4KICAgICAgPC9hY3RpdmF0aW9uPgogICAgPC9wcm9maWxlPgogICAgPHByb2ZpbGU+CiAgICAgIDxpZD5wcm9kPC9pZD4KICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgPHByb2ZpbGVBY3RpdmU+cHJvZDwvcHJvZmlsZUFjdGl2ZT4KICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICA8YnVpbGQ+CiAgICAgICAgPHJlc291cmNlcz4KICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgPGRpcmVjdG9yeT5zcmMvbWFpbi93ZWJhcHAvdXBsb2FkPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgIDxleGNsdWRlcz4KICAgICAgICAgICAgICA8ZXhjbHVkZT4qKi8qLio8L2V4Y2x1ZGU+CiAgICAgICAgICAgIDwvZXhjbHVkZXM+CiAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgIDwvcmVzb3VyY2VzPgogICAgICA8L2J1aWxkPgogICAgPC9wcm9maWxlPgogIDwvcHJvZmlsZXM+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QE1hcHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY2tzb24tY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi45LjQ8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiIikK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmNvcmU8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY2tzb24tY29yZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi45LjQ8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhlLnN0YWNrVHJhY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhlLm1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciB0eXBlOiBVc2VyVHlwZT8K</text>
+        <text encoding="base64">QE1hcHBlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGlmIHRlc3Q9InR5cGUgIT0gbnVsbCI+CiAgICAgICAgQU5EIHUudHlwZSA9ICN7dHlwZX0KICAgICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2FjaGUuYW5ub3RhdGlvbi5DYWNoZUV2aWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhlLnN0YWNrVHJhY2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QE9wZW4K</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhlLm1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gIm9rIgo=</text>
+        <text encoding="base64">ICAgIHZhciB0eXBlOiBVc2VyVHlwZT8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
