@@ -347,6 +347,10 @@
         <mark key="]" line="60" column="22" />
         <mark key="." line="60" column="22" />
       </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Activity.kt" timestamp="1528958605466">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="26" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/BaseEntity.kt" timestamp="1526266481745">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="39" />
@@ -522,16 +526,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5idWlsZGVyLlNwcmluZ0FwcGxpY2F0aW9uQnVpbGRlcgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5ib290LndlYi5zZXJ2bGV0LnN1cHBvcnQuU3ByaW5nQm9vdFNlcnZsZXRJbml0aWFsaXplcgoKY2xhc3MgU2VydmxldEluaXRpYWxpemVyIDogU3ByaW5nQm9vdFNlcnZsZXRJbml0aWFsaXplcigpIHsKCiAgICBvdmVycmlkZSBmdW4gY29uZmlndXJlKGFwcGxpY2F0aW9uOiBTcHJpbmdBcHBsaWNhdGlvbkJ1aWxkZXIpOiBTcHJpbmdBcHBsaWNhdGlvbkJ1aWxkZXIgewogICAgICAgIHJldHVybiBhcHBsaWNhdGlvbi5zb3VyY2VzKEFwaUFwcGxpY2F0aW9uOjpjbGFzcy5qYXZhKQogICAgfQoKfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUKaW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLioK</text>
       </register>
       <register name="-" type="4">
-        <text>com.xt</text>
+        <text>DateTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5idWlsZGVyLlNwcmluZ0FwcGxpY2F0aW9uQnVpbGRlcgppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5ib290LndlYi5zZXJ2bGV0LnN1cHBvcnQuU3ByaW5nQm9vdFNlcnZsZXRJbml0aWFsaXplcgoKY2xhc3MgU2VydmxldEluaXRpYWxpemVyIDogU3ByaW5nQm9vdFNlcnZsZXRJbml0aWFsaXplcigpIHsKCiAgICBvdmVycmlkZSBmdW4gY29uZmlndXJlKGFwcGxpY2F0aW9uOiBTcHJpbmdBcHBsaWNhdGlvbkJ1aWxkZXIpOiBTcHJpbmdBcHBsaWNhdGlvbkJ1aWxkZXIgewogICAgICAgIHJldHVybiBhcHBsaWNhdGlvbi5zb3VyY2VzKEFwaUFwcGxpY2F0aW9uOjpjbGFzcy5qYXZhKQogICAgfQoKfQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUKaW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLioK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICog55So5oi356ev5YiG5LiN6LazCiAgICAgKi8KICAgIGNvbnN0IHZhbCBVU0VSX1BPSU5UX0xBQ0tJTkcgPSAyCiAgICAvKioKICAgICAqIOeUqOaIt+acquaJvuWIPwogICAgICovCiAgICBjb25zdCB2YWwgVVNFUl9OT1RfRk9VTkQgPSAzCg==</text>
