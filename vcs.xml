@@ -6,11 +6,12 @@
           <option name="url" value="ssh://xiangchunlin@git.darkiller.cc:29418/xt-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://xiangchunlin@git.darkiller.cc:29418/ace-community-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/work/xt" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="C:\Users\Darkiller\work\ace" />
   </component>
 </application>
