@@ -69,8 +69,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/RoleMapper.kt" timestamp="1529034822778">
-        <mark key="[" line="5" column="20" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/RoleMapper.kt" timestamp="1529042541998">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/manager/role/RolePageListDto.kt" timestamp="1522378166935">
         <mark key="[" line="14" column="0" />
@@ -132,6 +135,11 @@
         <mark key="[" line="50" column="32" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/mybatis/RoleMapper.xml" timestamp="1529042634894">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/GroupMsgService.kt" timestamp="1529040216955">
         <mark key="[" line="8" column="1" />
@@ -253,8 +261,11 @@
         <mark key="." line="73" column="45" />
         <mark key="^" line="73" column="48" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/mybatis/ResourceMapper.xml" timestamp="1529040850382">
-        <mark key="[" line="2" column="65" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/mybatis/ResourceMapper.xml" timestamp="1529042072092">
+        <mark key="[" line="44" column="18" />
+        <mark key="]" line="44" column="13" />
+        <mark key="^" line="44" column="13" />
+        <mark key="." line="44" column="13" />
       </file>
       <file name="$USER_HOME$/work/ace/community/src/main/kotlin/org/aceyouth/community/dto/ResponseCode.kt" timestamp="1528902182771">
         <mark key="[" line="27" column="0" />
@@ -289,8 +300,8 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/ResourceService.kt" timestamp="1529040406813">
-        <mark key="[" line="12" column="47" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/ResourceService.kt" timestamp="1529042376317">
+        <mark key="[" line="16" column="0" />
         <mark key="]" line="8" column="1" />
         <mark key="^" line="9" column="35" />
         <mark key="." line="8" column="1" />
@@ -359,11 +370,11 @@
         <mark key="]" line="11" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/ResourceMapper.kt" timestamp="1529040544170">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="38" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/ResourceMapper.kt" timestamp="1529041636411">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/dto/infrastructure/action/ActionPageListDto.kt" timestamp="1522651288361">
         <mark key="[" line="15" column="0" />
@@ -527,6 +538,9 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/mybatis/ResourceActionMapper.xml" timestamp="1529041541063">
+        <mark key="[" line="2" column="71" />
+      </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/service/RoleService.kt" timestamp="1523584659506">
         <mark key="[" line="75" column="44" />
         <mark key="]" line="60" column="22" />
@@ -574,6 +588,10 @@
         <mark key="]" line="50" column="54" />
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/resources/mybatis/mapper/RoleMapper.xml" timestamp="1529042632542">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="83" column="27" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/config/JwtAuthenticationProvider.kt" timestamp="1523927195602">
         <mark key="[" line="54" column="91" />
@@ -720,8 +738,8 @@
       <jump line="39" column="50" filename="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Menu.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -730,19 +748,19 @@
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiC0tL2oyrG85AogICAgICAgICAqLwogICAgICAgIEBDb2x1bW4obmFtZSA9ICJgY3JlYXRlX3RpbWVgIiwgbnVsbGFibGUgPSBmYWxzZSwgaW5zZXJ0YWJsZSA9IGZhbHNlLCB1cGRhdGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgY3JlYXRlVGltZTogRGF0ZVRpbWUsCiAgICAgICAgLyoqCiAgICAgICAgICoguPzQwsqxvOQKICAgICAgICAgKi8KICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYHVwZGF0ZV90aW1lYCIsIG51bGxhYmxlID0gZmFsc2UsIGluc2VydGFibGUgPSBmYWxzZSwgdXBkYXRhYmxlID0gZmFsc2UpCiAgICAgICAgdmFyIHVwZGF0ZVRpbWU6IERhdGVUaW1lLAo=</text>
+        <text encoding="base64">ICAgIFNFTEVDVCBDQVNFCiAgICAgICAgICAgY291bnQoci5pZCkKICAgICAgICAgICBXSEVOIDAKICAgICAgICAgICAgIFRIRU4KICAgICAgICAgICAgICAgMAogICAgICAgICAgIEVMU0UgMQogICAgICAgICAgIEVORCBBUyBpc19yb290CiAgICBGUk9NCiAgICAgIG1hbmFnZXJfcm9sZSBtcgogICAgICBJTk5FUiBKT0lOIHJvbGUgciBPTiBtci5yb2xlX2lkID0gci5pZAogICAgV0hFUkUKICAgICAgbXIubWFuYWdlcl9pZCA9ICN7bWFuYWdlcklkfQogICAgICBBTkQgci5idWlsdGluID0gdHJ1ZQogICAgICBBTkQgci5kaXNhYmxlZCA9IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENhY2hlYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">QENhY2hlYWJsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9rZW5UeXBlLkJhc2ljIC0+IHsKICAgICAgICAgICAgICAgIHZhbCBjbGllbnQgPSBjbGllbnRTZXJ2aWNlLmZpbmRPbmVCeUNsaWVudElkKHN1YmplY3QpCiAgICAgICAgICAgICAgICAgICAgPzogdGhyb3cgVXNlcm5hbWVOb3RGb3VuZEV4Y2VwdGlvbigiY2xpZW50X2lkILK7tObU2iIpCiAgICAgICAgICAgICAgICBpZiAoY2xpZW50LmRpc2FibGVkKQogICAgICAgICAgICAgICAgICAgIHRocm93IERpc2FibGVkRXhjZXB0aW9uKCJjbGllbnRfaWQg0tG9+9PDIikKICAgICAgICAgICAgICAgIHByaW5jaXBhbCA9IHN1YmplY3QKICAgICAgICAgICAgICAgIGlkID0gY2xpZW50LmlkLnRvTG9uZygpCiAgICAgICAgICAgICAgICBhdXRob3JpdGllcy5hZGQoQ3VzdG9tR3JhbnRlZEF1dGhvcml0eSgiUk9MRV9iYXNpYyIpKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVG9rZW5UeXBlLkJhc2ljIC0+IHsKICAgICAgICAgICAgICAgIHZhbCBjbGllbnQgPSBjbGllbnRTZXJ2aWNlLmZpbmRPbmVCeUNsaWVudElkKHN1YmplY3QpCiAgICAgICAgICAgICAgICAgICAgPzogdGhyb3cgVXNlcm5hbWVOb3RGb3VuZEV4Y2VwdGlvbigiY2xpZW50X2lkILK7tObU2iIpCiAgICAgICAgICAgICAgICBpZiAoY2xpZW50LmRpc2FibGVkKQogICAgICAgICAgICAgICAgICAgIHRocm93IERpc2FibGVkRXhjZXB0aW9uKCJjbGllbnRfaWQg0tG9+9PDIikKICAgICAgICAgICAgICAgIHByaW5jaXBhbCA9IHN1YmplY3QKICAgICAgICAgICAgICAgIGlkID0gY2xpZW50LmlkLnRvTG9uZygpCiAgICAgICAgICAgICAgICBhdXRob3JpdGllcy5hZGQoQ3VzdG9tR3JhbnRlZEF1dGhvcml0eSgiUk9MRV9iYXNpYyIpKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
