@@ -63,11 +63,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/GroupService.kt" timestamp="1529040227759">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="9" column="32" />
-        <mark key="." line="8" column="1" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/GroupService.kt" timestamp="1529049499091">
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/ResourceAction.kt" timestamp="1522649676553">
         <mark key="[" line="58" column="0" />
@@ -319,11 +319,11 @@
         <mark key="^" line="60" column="28" />
         <mark key="." line="60" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/GroupController.kt" timestamp="1529032904409">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/GroupController.kt" timestamp="1529049254931">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/RoleService.kt" timestamp="1529040251041">
         <mark key="[" line="8" column="1" />
@@ -409,8 +409,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/UserMapper.kt" timestamp="1529031914928">
-        <mark key="[" line="5" column="20" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/UserMapper.kt" timestamp="1529049555876">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/AttachmentService.kt" timestamp="1529045532555">
         <mark key="[" line="7" column="25" />
@@ -850,11 +852,11 @@
       <jump line="39" column="50" filename="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Menu.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IDENTITY</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>IDENTITY</text>
+        <text>!!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
@@ -863,33 +865,35 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogsunRr8r9vt3Kx7fxzqnSuwogICAgICogQHBhcmFtIGNvZGUgzqnSu9fWts4KICAgICAqIEBwYXJhbSBpZCDK/b7dIGlkCiAgICAgKi8KICAgIGZ1biB1bmlxdWUoY29kZTogU3RyaW5nLCBpZDogVD8pOiBCb29sZWFuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXBwZXJzOiB0ay5teWJhdGlzLm15YmF0aXMuY29tbW9uLk1hcHBlcgo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hY2V5b3V0aC5jb21tdW5pdHkuZHRvLnVzZXIuc2VydmljZS5Vc2VyU2VydmljZUNhdGVnb3J5RHRvCg==</text>
+      <register name="2" type="4">
+        <text>: Any {
+
+    }</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGZ1biBmaW5kQWxsKCk6IEFueSB7CgogICAgfQoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtYXBwZXJzOiB0ay5teWJhdGlzLm15YmF0aXMuY29tbW9uLk1hcHBlcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hY2V5b3V0aC5jb21tdW5pdHkuZHRvLnVzZXIuc2VydmljZS5Vc2VyU2VydmljZUNhdGVnb3J5RHRvCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>mapper.selectOne {
             it.andEqualTo(VerifyCode::cellphone, cellphone).andEqualTo(VerifyCode::code, code).andIsFalse(VerifyCode::used)
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG1hcHBlcjogVmVyaWZ5Q29kZU1hcHBlcgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUaHJvd3MoQXBpRXhjZXB0aW9uOjpjbGFzcykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodG9rZW5UeXBlID09PSBUb2tlblR5cGUuQmFzaWMpCiAgICAgICAgICAgIHNiLmFwcGVuZCh1cGxvYWRQcm9wZXJ0aWVzLnRlbXApCiAgICAgICAgZWxzZSB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hY2V5b3V0aC5jb21tdW5pdHkuZW50aXR5LkJhc2VFbnRpdHkK</text>
+        <text encoding="base64">ICAgIEBUaHJvd3MoQXBpRXhjZXB0aW9uOjpjbGFzcykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
