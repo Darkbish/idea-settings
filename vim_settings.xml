@@ -85,6 +85,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/xt/xt-api/src/main/kotlin/com/xt/entity/BaseEntity.kt" timestamp="1529048813603" />
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/ApiApplication.kt" timestamp="1529043360380">
         <mark key="[" line="21" column="60" />
         <mark key="]" line="22" column="56" />
@@ -113,6 +114,7 @@
         <mark key="^" line="21" column="90" />
         <mark key="." line="21" column="88" />
       </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/JwtAuthenticationEntryPoint.kt" timestamp="1529048568515" />
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/RedisConfiguration.kt" timestamp="1529043429171">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -365,16 +367,17 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="26" column="42" />
       </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/CustomResponseBodyAdvice.kt" timestamp="1529048546118" />
       <file name="D:/Projects/demo/src/test/kotlin/com/xt/demo/QrCodeTest.kt" timestamp="1521771458567">
         <mark key="[" line="24" column="39" />
         <mark key="]" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Token.kt" timestamp="1529044443741">
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
-        <mark key="^" line="31" column="28" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Token.kt" timestamp="1529048929700">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupNewsMapper.kt" timestamp="1529031855722">
         <mark key="[" line="5" column="25" />
@@ -415,6 +418,7 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/GlobalErrorHandler.kt" timestamp="1529048520992" />
       <file name="D:/Works/xt-api/src/main/resources/dozer/mappings/UserServiceCustom.xml" timestamp="1522661282222">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -514,6 +518,7 @@
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/TokenMapper.kt" timestamp="1529034841372">
         <mark key="[" line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/CustomAccessDeniedHandler.kt" timestamp="1529048460133" />
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/ActivityFormMapper.kt" timestamp="1529031740730">
         <mark key="[" line="5" column="28" />
       </file>
@@ -549,8 +554,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/WebSecurityConfig.kt" timestamp="1529043456846">
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/WebSecurityConfig.kt" timestamp="1529048600114">
+        <mark key="[" line="56" column="32" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
@@ -846,10 +851,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IDENTITY</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IDENTITY</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
