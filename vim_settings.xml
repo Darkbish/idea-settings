@@ -64,11 +64,11 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/GroupService.kt" timestamp="1529372869245">
-        <mark key="[" line="45" column="55" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="50" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/GroupService.kt" timestamp="1529373143465">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+        <mark key="." line="32" column="27" />
       </file>
       <file name="D:/Works/xt-api/src/main/kotlin/com/xt/entity/ResourceAction.kt" timestamp="1522649676553">
         <mark key="[" line="58" column="0" />
@@ -333,11 +333,10 @@
         <mark key="^" line="50" column="32" />
         <mark key="." line="50" column="32" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/GroupController.kt" timestamp="1529049254931">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/GroupController.kt" timestamp="1529373286844">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/RoleService.kt" timestamp="1529040251041">
         <mark key="[" line="8" column="1" />
@@ -873,10 +872,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFnZXIgPSBQYWdlUmVxdWVzdER0bygxLCAzKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuUHJpbmNpcGFsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, userId: Long</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlclNlcnZpY2VcPg==</text>
@@ -885,31 +884,31 @@
         <text>查询社群详情</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFnZXIgPSBQYWdlUmVxdWVzdER0bygxLCAzKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc2VjdXJpdHkuUHJpbmNpcGFsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cC5vd25lciA9IHVzZXJNYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KGdyb3VwLm93bmVySWQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGFnZXIgPSBQYWdlUmVxdWVzdER0bygxLCAzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySWQg08O7pyBpZAo=</text>
+        <text encoding="base64">ICAgICAgICBncm91cC5vd25lciA9IHVzZXJNYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KGdyb3VwLm93bmVySWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxjb2xsZWN0aW9uIHByb3BlcnR5PSJhY3Rpdml0aWVzIiBzZWxlY3Q9Im9yZy5hY2V5b3V0aC5jb21tdW5pdHkubWFwcGVyLkFjdGl2aXR5TWFwcGVyLnNlbGVjdElzTGlrZWQiLz4K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySWQg08O7pyBpZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqICAK</text>
+        <text encoding="base64">ICAgIDxjb2xsZWN0aW9uIHByb3BlcnR5PSJhY3Rpdml0aWVzIiBzZWxlY3Q9Im9yZy5hY2V5b3V0aC5jb21tdW5pdHkubWFwcGVyLkFjdGl2aXR5TWFwcGVyLnNlbGVjdElzTGlrZWQiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8K</text>
+        <text encoding="base64">ICAgICAqICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJ1c2VySWQgIT0gbnVsbCI+Cg==</text>
+        <text encoding="base64">ICAgIC8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvaWY+Cg==</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJ1c2VySWQgIT0gbnVsbCI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvaWY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyIvJy9n</text>
