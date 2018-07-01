@@ -88,6 +88,12 @@
         <mark key="^" line="21" column="90" />
         <mark key="." line="21" column="88" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupMapper.kt" timestamp="1530448290669">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/TokenController.kt" timestamp="1529047797669">
         <mark key="[" line="23" column="45" />
         <mark key="]" line="23" column="85" />
@@ -362,6 +368,12 @@
         <mark key="]" line="6" column="40" />
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/GroupMapper.xml" timestamp="1530448472170">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="16" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="52" column="16" />
       </file>
       <file name="D:/Works/ace/ace-community-api/pom.xml" timestamp="1530292694215">
         <mark key="[" line="247" column="0" />
@@ -729,8 +741,8 @@
       <jump line="20" column="30" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/UserDto.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj5uby1hcmc8L3BsdWdpbj4K</text>
+      <register name="&quot;" type="4">
+        <text>查询社群，如果已登录，还需查询是否已赞</text>
       </register>
       <register name="-" type="4">
         <text>org.aceyouth.community.common</text>
@@ -738,8 +750,8 @@
       <register name="/" type="4">
         <text>groupNews</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj5uby1hcmc8L3BsdWdpbj4K</text>
+      <register name="0" type="4">
+        <text>查询社群，如果已登录，还需查询是否已赞</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbj5uby1hcmc6YW5ub3RhdGlvbj1qYXZheC5wZXJzaXN0ZW5jZS5UYWJsZTwvb3B0aW9uPgo=</text>
