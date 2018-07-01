@@ -9,13 +9,6 @@
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="54" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/ActivityMapper.xml" timestamp="1530276467713">
-        <mark key="'" line="48" column="18" />
-        <mark key="[" line="48" column="16" />
-        <mark key="]" line="48" column="14" />
-        <mark key="." line="48" column="14" />
-        <mark key="^" line="48" column="14" />
-      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/enums/ApplyStatus.kt" timestamp="1530107546964">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
@@ -207,13 +200,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/UserMapper.xml" timestamp="1530286365472">
-        <mark key="'" line="21" column="35" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/enums/TokenType.kt" timestamp="1529039399611">
         <mark key="[" line="2" column="83" />
         <mark key="]" line="2" column="72" />
@@ -249,6 +235,12 @@
         <mark key="]" line="24" column="12" />
         <mark key="^" line="24" column="12" />
         <mark key="." line="24" column="12" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/GroupService.kt" timestamp="1530449157667">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="172" column="6" />
+        <mark key="^" line="136" column="16" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupMapper.kt" timestamp="1529375709839">
         <mark key="[" line="28" column="7" />
@@ -333,6 +325,12 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Group.kt" timestamp="1530449685197">
+        <mark key="[" line="47" column="61" />
+        <mark key="]" line="52" column="23" />
+        <mark key="^" line="52" column="23" />
+        <mark key="." line="52" column="23" />
+      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/SpaceService.kt" timestamp="1529040256400">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="1" />
@@ -369,11 +367,11 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/GroupMapper.xml" timestamp="1530448472170">
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="16" />
-        <mark key="^" line="52" column="16" />
-        <mark key="." line="52" column="16" />
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/GroupMapper.xml" timestamp="1530449719532">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="D:/Works/ace/ace-community-api/pom.xml" timestamp="1530292694215">
         <mark key="[" line="247" column="0" />
@@ -487,17 +485,22 @@
         <mark key="^" line="27" column="79" />
         <mark key="." line="27" column="79" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" timestamp="1530449995666">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/GroupApply.kt" timestamp="1530107556718">
         <mark key="[" line="36" column="20" />
         <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="30" />
         <mark key="^" line="36" column="30" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/GroupController.kt" timestamp="1530108048587">
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="66" column="21" />
-        <mark key="^" line="66" column="21" />
-        <mark key="." line="66" column="21" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/GroupController.kt" timestamp="1530449463354">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/common/NoArgs.kt" timestamp="1530292516947">
         <mark key="[" line="2" column="0" />
@@ -538,13 +541,6 @@
         <mark key="]" line="64" column="11" />
         <mark key="." line="64" column="11" />
         <mark key="^" line="68" column="34" />
-      </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/GroupApplyMapper.xml" timestamp="1530276550449">
-        <mark key="'" line="26" column="46" />
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/User.kt" timestamp="1529386391317">
         <mark key="[" line="69" column="25" />
@@ -741,44 +737,44 @@
       <jump line="20" column="30" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/UserDto.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>查询社群，如果已登录，还需查询是否已赞</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ewogICAgb3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAoamF2YUNsYXNzICE9IG90aGVyPy5qYXZhQ2xhc3MpIHJldHVybiBmYWxzZQoKICAgICAgICBvdGhlciBhcyBHcm91cER0bwoKICAgICAgICBpZiAoaWQgIT0gb3RoZXIuaWQpIHJldHVybiBmYWxzZQogICAgICAgIGlmIChvd25lcklkICE9IG90aGVyLm93bmVySWQpIHJldHVybiBmYWxzZQogICAgICAgIGlmIChuYW1lICE9IG90aGVyLm5hbWUpIHJldHVybiBmYWxzZQogICAgICAgIGlmICh0aHVtYiAhPSBvdGhlci50aHVtYikgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGJ1aWxkVGltZSAhPSBvdGhlci5idWlsZFRpbWUpIHJldHVybiBmYWxzZQogICAgICAgIGlmICh0b3BpYyAhPSBvdGhlci50b3BpYykgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGFjdGl2aXR5VHlwZSAhPSBvdGhlci5hY3Rpdml0eVR5cGUpIHJldHVybiBmYWxzZQogICAgICAgIGlmICghQXJyYXlzLmVxdWFscyh0YWdzLCBvdGhlci50YWdzKSkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGludHJvICE9IG90aGVyLmludHJvKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoZGVzYyAhPSBvdGhlci5kZXNjKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAobGlrZSAhPSBvdGhlci5saWtlKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoc3RhdHVzICE9IG90aGVyLnN0YXR1cykgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGNyZWF0ZVRpbWUgIT0gb3RoZXIuY3JlYXRlVGltZSkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGxpa2VkICE9IG90aGVyLmxpa2VkKSByZXR1cm4gZmFsc2UKCiAgICAgICAgcmV0dXJuIHRydWUKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gaGFzaENvZGUoKTogSW50IHsKICAgICAgICB2YXIgcmVzdWx0ID0gaWQ/Lmhhc2hDb2RlKCkgPzogMAogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgKG93bmVySWQ/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChuYW1lPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAodGh1bWI/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChidWlsZFRpbWU/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArICh0b3BpYz8uaGFzaENvZGUoKSA/OiAwKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgKGFjdGl2aXR5VHlwZT8uaGFzaENvZGUoKSA/OiAwKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgQXJyYXlzLmhhc2hDb2RlKHRhZ3MpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAoaW50cm8/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChkZXNjPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBsaWtlCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBzdGF0dXMuaGFzaENvZGUoKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgY3JlYXRlVGltZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBsaWtlZC5oYXNoQ29kZSgpCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>org.aceyouth.community.common</text>
+        <text>= false</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
       </register>
-      <register name="0" type="4">
-        <text>查询社群，如果已登录，还需查询是否已赞</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDW97z8aWQKICAgICAgICAgKi8KICAgICAgICBASWQKICAgICAgICBAR2VuZXJhdGVkVmFsdWUoZ2VuZXJhdG9yID0gIkpEQkMiKQogICAgICAgIHZhciBpZDogTG9uZyA9IDAsCiAgICAgICAgLyoqCiAgICAgICAgICogt6LG8MjLaWQKICAgICAgICAgKi8KICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYG93bmVyX2lkYCIsIG51bGxhYmxlID0gZmFsc2UpCiAgICAgICAgdmFyIG93bmVySWQ6IExvbmcgPSAwLAogICAgICAgIC8qKgogICAgICAgICAqIMnnyLrD+7PGCiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImBuYW1lYCIsIG51bGxhYmxlID0gZmFsc2UpCiAgICAgICAgdmFyIG5hbWU6IFN0cmluZyA9ICIiLAogICAgICAgIC8qKgogICAgICAgICAqIMnnyLq34sPmCiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImB0aHVtYmAiLCBudWxsYWJsZSA9IGZhbHNlKQogICAgICAgIHZhciB0aHVtYjogU3RyaW5nID0gIiIsCiAgICAgICAgLyoqCiAgICAgICAgICogs8nBosqxvOQKICAgICAgICAgKi8KICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYGJ1aWxkX3RpbWVgIiwgbnVsbGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgYnVpbGRUaW1lOiBEYXRlVGltZSA9IERhdGVUaW1lLm5vdygpLAogICAgICAgIC8qKgogICAgICAgICAqIMnnyLq7sMziCiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImB0b3BpY2AiLCBudWxsYWJsZSA9IGZhbHNlKQogICAgICAgIHZhciB0b3BpYzogU3RyaW5nID0gIiIsCiAgICAgICAgLyoqCiAgICAgICAgICogu+62r9DOyr0KICAgICAgICAgKi8KICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYGFjdGl2aXR5X3R5cGVgIiwgbnVsbGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgYWN0aXZpdHlUeXBlOiBBY3Rpdml0eVR5cGUgPSBBY3Rpdml0eVR5cGUuT25saW5lLAogICAgICAgIC8qKgogICAgICAgICAqIMnnyLq88r3pCiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImBpbnRyb2AiLCBudWxsYWJsZSA9IGZhbHNlKQogICAgICAgIHZhciBpbnRybzogU3RyaW5nID0gIiIsCiAgICAgICAgLyoqCiAgICAgICAgICogyefIus/qz7i96cncCiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImBkZXNjYCIsIG51bGxhYmxlID0gZmFsc2UpCiAgICAgICAgdmFyIGRlc2M6IFN0cmluZyA9ICIiLAogICAgICAgIC8qKgogICAgICAgICAqILXj1N7K/QogICAgICAgICAqLwogICAgICAgIEBDb2x1bW4obmFtZSA9ICJgbGlrZWAiLCBudWxsYWJsZSA9IGZhbHNlKQogICAgICAgIHZhciBsaWtlOiBJbnQgPSAwLAogICAgICAgIC8qKgogICAgICAgICAqILzTyOvKscrHt/HQ6NKq0enWpAogICAgICAgICAqLwogICAgICAgIEBDb2x1bW4obmFtZSA9ICJgaXNfdmVyaWZ5X25lZWRgIiwgbnVsbGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgaXNWZXJpZnlOZWVkOiBCb29sZWFuID0gZmFsc2UsCiAgICAgICAgLyoqCiAgICAgICAgICog0enWpM7KzOIKICAgICAgICAgKi8KICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYHZlcmlmeV9xdWVzdGlvbmAiKQogICAgICAgIHZhciB2ZXJpZnlRdWVzdGlvbjogU3RyaW5nPyA9ICIiLAogICAgICAgIC8qKgogICAgICAgICAqINHp1qS08LC4CiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImB2ZXJpZnlfYW5zd2VyYCIpCiAgICAgICAgdmFyIHZlcmlmeUFuc3dlcjogU3RyaW5nPyA9ICIiLAogICAgICAgIC8qKgogICAgICAgICAqIMnnyLrXtMysCiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImBzdGF0dXNgIiwgbnVsbGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgc3RhdHVzOiBHcm91cFN0YXR1cyA9IEdyb3VwU3RhdHVzLkFwcGx5LAogICAgICAgIC8qKgogICAgICAgICAqILS0vajKsbzkCiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImBjcmVhdGVfdGltZWAiLCBudWxsYWJsZSA9IGZhbHNlLCBpbnNlcnRhYmxlID0gZmFsc2UsIHVwZGF0YWJsZSA9IGZhbHNlKQogICAgICAgIHZhciBjcmVhdGVUaW1lOiBEYXRlVGltZSA9IERhdGVUaW1lLm5vdygpLAogICAgICAgIC8qKgogICAgICAgICAqILj80MLKsbzkCiAgICAgICAgICovCiAgICAgICAgQENvbHVtbihuYW1lID0gImB1cGRhdGVfdGltZWAiLCBudWxsYWJsZSA9IGZhbHNlLCBpbnNlcnRhYmxlID0gZmFsc2UsIHVwZGF0YWJsZSA9IGZhbHNlKQogICAgICAgIHZhciB1cGRhdGVUaW1lOiBEYXRlVGltZSA9IERhdGVUaW1lLm5vdygpLAogICAgICAgIC8qKgogICAgICAgICAqINLR1N4KICAgICAgICAgKi8KICAgICAgICBAVHJhbnNpZW50CiAgICAgICAgdmFyIGxpa2VkOiBCb29sZWFuID0gZmFsc2UsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbj5uby1hcmc6YW5ub3RhdGlvbj1qYXZheC5wZXJzaXN0ZW5jZS5UYWJsZTwvb3B0aW9uPgo=</text>
+        <text encoding="base64">ewogICAgb3ZlcnJpZGUgZnVuIGVxdWFscyhvdGhlcjogQW55Pyk6IEJvb2xlYW4gewogICAgICAgIGlmICh0aGlzID09PSBvdGhlcikgcmV0dXJuIHRydWUKICAgICAgICBpZiAoamF2YUNsYXNzICE9IG90aGVyPy5qYXZhQ2xhc3MpIHJldHVybiBmYWxzZQoKICAgICAgICBvdGhlciBhcyBHcm91cER0bwoKICAgICAgICBpZiAoaWQgIT0gb3RoZXIuaWQpIHJldHVybiBmYWxzZQogICAgICAgIGlmIChvd25lcklkICE9IG90aGVyLm93bmVySWQpIHJldHVybiBmYWxzZQogICAgICAgIGlmIChuYW1lICE9IG90aGVyLm5hbWUpIHJldHVybiBmYWxzZQogICAgICAgIGlmICh0aHVtYiAhPSBvdGhlci50aHVtYikgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGJ1aWxkVGltZSAhPSBvdGhlci5idWlsZFRpbWUpIHJldHVybiBmYWxzZQogICAgICAgIGlmICh0b3BpYyAhPSBvdGhlci50b3BpYykgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGFjdGl2aXR5VHlwZSAhPSBvdGhlci5hY3Rpdml0eVR5cGUpIHJldHVybiBmYWxzZQogICAgICAgIGlmICghQXJyYXlzLmVxdWFscyh0YWdzLCBvdGhlci50YWdzKSkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGludHJvICE9IG90aGVyLmludHJvKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoZGVzYyAhPSBvdGhlci5kZXNjKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAobGlrZSAhPSBvdGhlci5saWtlKSByZXR1cm4gZmFsc2UKICAgICAgICBpZiAoc3RhdHVzICE9IG90aGVyLnN0YXR1cykgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGNyZWF0ZVRpbWUgIT0gb3RoZXIuY3JlYXRlVGltZSkgcmV0dXJuIGZhbHNlCiAgICAgICAgaWYgKGxpa2VkICE9IG90aGVyLmxpa2VkKSByZXR1cm4gZmFsc2UKCiAgICAgICAgcmV0dXJuIHRydWUKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gaGFzaENvZGUoKTogSW50IHsKICAgICAgICB2YXIgcmVzdWx0ID0gaWQ/Lmhhc2hDb2RlKCkgPzogMAogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgKG93bmVySWQ/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChuYW1lPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAodGh1bWI/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChidWlsZFRpbWU/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArICh0b3BpYz8uaGFzaENvZGUoKSA/OiAwKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgKGFjdGl2aXR5VHlwZT8uaGFzaENvZGUoKSA/OiAwKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgQXJyYXlzLmhhc2hDb2RlKHRhZ3MpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyAoaW50cm8/Lmhhc2hDb2RlKCkgPzogMCkKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIChkZXNjPy5oYXNoQ29kZSgpID86IDApCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBsaWtlCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBzdGF0dXMuaGFzaENvZGUoKQogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgY3JlYXRlVGltZS5oYXNoQ29kZSgpCiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBsaWtlZC5oYXNoQ29kZSgpCiAgICAgICAgcmV0dXJuIHJlc3VsdAogICAgfQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbj5hbGwtb3Blbjphbm5vdGF0aW9uPWphdmF4LnBlcnNpc3RlbmNlLlRhYmxlPC9vcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDJ58i617TMrAogICAgICAgICAqLwogICAgICAgIHZhciBzdGF0dXM6IEdyb3VwU3RhdHVzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbj5hbGwtb3Blbjphbm5vdGF0aW9uPW9yZy5hY2V5b3V0aC5jb21tdW5pdHkuY29tbW9uLk9wZW48L29wdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICBAVHJhbnNpZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiC4/NDCyrG85AogICAgICAgICAqLwogICAgICAgIEBDb2x1bW4obmFtZSA9ICJgdXBkYXRlX3RpbWVgIiwgbnVsbGFibGUgPSBmYWxzZSwgaW5zZXJ0YWJsZSA9IGZhbHNlLCB1cGRhdGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgdXBkYXRlVGltZTogRGF0ZVRpbWUgPSBEYXRlVGltZS5ub3coKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2F0YWxpbmEuVXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYGNyZWF0ZV90aW1lYCIsIG51bGxhYmxlID0gZmFsc2UsIGluc2VydGFibGUgPSBmYWxzZSwgdXBkYXRhYmxlID0gZmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Y3VzdG9tLWNvbnZlcnRlcnM+CiAgICAgICAgICAgIDxjb252ZXJ0ZXIgdHlwZT0ib3JnLmFjZXlvdXRoLmNvbW11bml0eS5jb252ZXJ0ZXIuRW51bUNvbnZlcnRlciI+CiAgICAgICAgICAgICAgICA8Y2xhc3MtYT5qYXZhLmxhbmcuRW51bTwvY2xhc3MtYT4KICAgICAgICAgICAgICAgIDxjbGFzcy1iPm9yZy5hY2V5b3V0aC5jb21tdW5pdHkuZHRvLk9wdGlvbkR0bzwvY2xhc3MtYj4KICAgICAgICAgICAgPC9jb252ZXJ0ZXI+CiAgICAgICAgICAgIDxjb252ZXJ0ZXIgdHlwZT0ib3JnLmFjZXlvdXRoLmNvbW11bml0eS5jb252ZXJ0ZXIuSW50Q29udmVydGVyIj4KICAgICAgICAgICAgICAgIDxjbGFzcy1hPmphdmEubGFuZy5JbnRlZ2VyPC9jbGFzcy1hPgogICAgICAgICAgICAgICAgPGNsYXNzLWI+amF2YS5sYW5nLk51bWJlcjwvY2xhc3MtYj4KICAgICAgICAgICAgPC9jb252ZXJ0ZXI+CiAgICAgICAgICAgIDxjb252ZXJ0ZXIgdHlwZT0ib3JnLmFjZXlvdXRoLmNvbW11bml0eS5jb252ZXJ0ZXIuTG9uZ0NvbnZlcnRlciI+CiAgICAgICAgICAgICAgICA8Y2xhc3MtYT5qYXZhLmxhbmcuTG9uZzwvY2xhc3MtYT4KICAgICAgICAgICAgICAgIDxjbGFzcy1iPmphdmEubGFuZy5OdW1iZXI8L2NsYXNzLWI+CiAgICAgICAgICAgIDwvY29udmVydGVyPgogICAgICAgICAgICA8Y29udmVydGVyIHR5cGU9Im9yZy5hY2V5b3V0aC5jb21tdW5pdHkuY29udmVydGVyLkRhdGVUaW1lQ29udmVydGVyIj4KICAgICAgICAgICAgICAgIDxjbGFzcy1hPm9yZy5qb2RhLnRpbWUuRGF0ZVRpbWU8L2NsYXNzLWE+CiAgICAgICAgICAgICAgICA8Y2xhc3MtYj5vcmcuam9kYS50aW1lLkRhdGVUaW1lPC9jbGFzcy1iPgogICAgICAgICAgICA8L2NvbnZlcnRlcj4KICAgICAgICA8L2N1c3RvbS1jb252ZXJ0ZXJzPgo=</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYHN0YXR1c2AiLCBudWxsYWJsZSA9IGZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gVXNlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDR6dakzsrM4gogICAgICAgICAqLwogICAgICAgIEBDb2x1bW4obmFtZSA9ICJgdmVyaWZ5X3F1ZXN0aW9uYCIpCiAgICAgICAgdmFyIHZlcmlmeVF1ZXN0aW9uOiBTdHJpbmc/ID0gIiIsCiAgICAgICAgLyoqCiAgICAgICAgICog0enWpLTwsLgKICAgICAgICAgKi8KICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYHZlcmlmeV9hbnN3ZXJgIikKICAgICAgICB2YXIgdmVyaWZ5QW5zd2VyOiBTdHJpbmc/ID0gIiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiC808jryrHKx7fx0OjSqtHp1qQKICAgICAgICAgKi8KICAgICAgICB2YXIgaXNWZXJpZnlOZWVkOiBCb29sZWFuID0gZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYGlzX3ZlcmlmeV9uZWVkYCIsIG51bGxhYmxlID0gZmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/groupNews/activity/g</text>
