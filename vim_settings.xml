@@ -120,11 +120,11 @@
         <mark key="." line="31" column="10" />
         <mark key="^" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/mybatis/GroupMsgMapper.xml" timestamp="1530689642794">
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="78" column="16" />
-        <mark key="^" line="78" column="16" />
-        <mark key="." line="78" column="16" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/mybatis/GroupMsgMapper.xml" timestamp="1530694924478">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="44" />
+        <mark key="^" line="79" column="16" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/UserController.kt" timestamp="1530671744703">
         <mark key="[" line="65" column="0" />
@@ -587,7 +587,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgSEg6bW0iKQo=</text>
+        <text encoding="base64">ICAgIElOTkVSIEpPSU4gYHVzZXJgIHUgT04gZ20udXNlcl9pZCA9IHUuaWQK</text>
       </register>
       <register name="-" type="4">
         <text>af</text>
@@ -596,7 +596,7 @@
         <text>groupNews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgSEg6bW0iKQo=</text>
+        <text encoding="base64">ICAgIElOTkVSIEpPSU4gYHVzZXJgIHUgT04gZ20udXNlcl9pZCA9IHUuaWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPGlmIHRlc3Q9InVzZXJJZCAhPSBudWxsIj4KICAgICAgICBBTkQgKGFmLnVzZXJfaWQgPSAje3VzZXJJZH0gT1IgYWYudXNlcl9pZCBJUyBOVUxMKQogICAgICA8L2lmPgo=</text>
