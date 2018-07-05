@@ -143,11 +143,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ace/community/src/main/kotlin/org/aceyouth/community/service/ActivityService.kt" timestamp="1530794425073">
-        <mark key="[" line="74" column="13" />
-        <mark key="]" line="69" column="12" />
-        <mark key="^" line="69" column="12" />
-        <mark key="." line="69" column="12" />
+      <file name="$USER_HOME$/work/ace/community/src/main/kotlin/org/aceyouth/community/service/ActivityService.kt" timestamp="1530795469071">
+        <mark key="[" line="73" column="49" />
+        <mark key="]" line="73" column="51" />
+        <mark key="^" line="73" column="55" />
+        <mark key="." line="73" column="51" />
       </file>
       <file name="$USER_HOME$/work/ace/community/src/main/resources/mybatis/ActivityFieldMapper.xml" timestamp="1530792929117">
         <mark key="[" line="30" column="0" />
@@ -689,11 +689,11 @@
       <jump line="12" column="10" filename="$USER_HOME$/work/ace/community/src/main/resources/dozer/mappings/GroupMapping.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5YWz5rOo5rS75YqoCiAgICAgKiBAcGFyYW0gaWQg5rS75YqoIGlkCiAgICAgKiBAcGFyYW0gcHJpbmNpcGFsIOW9k+WJjeeZu+W9leeUqOaItwogICAgICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>+ #entity.groupId + '*'</text>
       </register>
       <register name="-" type="4">
-        <text>注</text>
+        <text>+ #entity.groupId + '*'</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
