@@ -55,9 +55,6 @@
         <mark key="^" line="90" column="44" />
         <mark key="." line="67" column="37" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/META-INF/spring-devtools.properties" timestamp="1530669626007">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/LoginUserDto.kt" timestamp="1529044835979">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
@@ -129,9 +126,6 @@
         <mark key="]" line="51" column="79" />
         <mark key="." line="51" column="63" />
         <mark key="^" line="51" column="63" />
-      </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/PageResponseDto.kt" timestamp="1530685343759">
-        <mark key="[" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/ManagerService.kt" timestamp="1529040373933">
         <mark key="[" line="21" column="88" />
@@ -384,9 +378,6 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="/group_news [ace-community@localhost]" timestamp="1530686373074">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/NewsController.kt" timestamp="1530685008381">
         <mark key="[" line="32" column="28" />
         <mark key="]" line="19" column="22" />
@@ -544,9 +535,6 @@
         <mark key="." line="80" column="58" />
         <mark key="^" line="73" column="48" />
       </file>
-      <file name="$USER_HOME$/work/ace/community/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" timestamp="1530714680490">
-        <mark key="[" line="24" column="11" />
-      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupMsgMapper.kt" timestamp="1529390854842">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="35" column="47" />
@@ -612,17 +600,11 @@
         <mark key="." line="31" column="40" />
         <mark key="^" line="83" column="17" />
       </file>
-      <file name="/dummy.sql" timestamp="1530686375037">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Resource.kt" timestamp="1529034654891">
         <mark key="[" line="45" column="32" />
         <mark key="]" line="50" column="54" />
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="54" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1530805199243">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/community/src/main/kotlin/org/aceyouth/community/common/Variable.kt" timestamp="1530802908121">
         <mark key="[" line="36" column="37" />
