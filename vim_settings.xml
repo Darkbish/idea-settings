@@ -584,6 +584,9 @@
         <mark key="^" line="11" column="78" />
         <mark key="." line="11" column="78" />
       </file>
+      <file name="/Dummy.txt" timestamp="1530893270100">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/UserService.kt" timestamp="1530283179904">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -650,6 +653,9 @@
         <mark key="]" line="35" column="46" />
         <mark key="^" line="35" column="46" />
         <mark key="." line="35" column="46" />
+      </file>
+      <file name="/fragment.java" timestamp="1530893270078">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
