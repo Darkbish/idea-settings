@@ -198,11 +198,11 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/MemberController.kt" timestamp="1530956767475">
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="30" column="6" />
-        <mark key="." line="32" column="0" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/MemberController.kt" timestamp="1530958879913">
+        <mark key="[" line="71" column="15" />
+        <mark key="]" line="71" column="15" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="71" column="15" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/UserService.kt" timestamp="1529388349947">
         <mark key="[" line="43" column="38" />
@@ -807,17 +807,17 @@
       <jump line="51" column="20" filename="D:/Works/ace/ace-community-api/src/main/resources/mybatis/UserMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiJ2dyb3VwU2VydmljZS5maW5kTWVtYmVyOicgKyAjZ3JvdXBJZCIK</text>
+      <register name="&quot;" type="4">
+        <text>UPDATE_SUCCESS</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>UPDATE_SUCCESS</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiJ2dyb3VwU2VydmljZS5maW5kTWVtYmVyOicgKyAjZ3JvdXBJZCIK</text>
+        <text encoding="base64">ICAgIEBSZXR1cm5Nc2coVVBEQVRFX1NVQ0NFU1MpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiJ2dyb3VwU2VydmljZS5maW5kTGlzdConImRkLAo=</text>
