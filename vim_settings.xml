@@ -516,6 +516,12 @@
         <mark key="." line="7" column="63" />
         <mark key="^" line="7" column="63" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/ActivityListDto.kt" timestamp="1531029891226">
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/activity/AnswerMapper.kt" timestamp="1530984065957">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="0" />
@@ -891,6 +897,12 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="13" column="28" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/activity/ActivityMapper.xml" timestamp="1531029930711">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="41" />
+        <mark key="." line="29" column="41" />
+        <mark key="^" line="29" column="41" />
+      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/news/AddNewsDto.kt" timestamp="1529393106123">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="9" column="24" />
@@ -938,6 +950,12 @@
         <mark key="]" line="27" column="79" />
         <mark key="^" line="27" column="79" />
         <mark key="." line="27" column="79" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/ActivityDetailsDto.kt" timestamp="1531029840976">
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="14" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" timestamp="1530449995666">
         <mark key="[" line="103" column="0" />
@@ -1043,6 +1061,12 @@
         <mark key="]" line="61" column="61" />
         <mark key="^" line="61" column="3" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/activity/Activity.kt" timestamp="1531029774965">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="14" />
+        <mark key="^" line="52" column="14" />
+        <mark key="." line="52" column="14" />
       </file>
       <file name="D:/Works/ace/dozer/src/main/resources/application.properties" timestamp="1530292326151">
         <mark key="[" line="0" column="0" />
@@ -1175,16 +1199,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(&quot;activityController&quot;)</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text>(&quot;activityController&quot;)</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDYWNoZUV2aWN0KFsKICAgICAgICAiJ2dyb3VwQXBwbHlTZXJ2aWNlLmZpbmRMaXN0OicgKyAjZ3JvdXBJZCArICcqJyIsCiAgICAiJ2dyb3VwU2VydmljZS5maW5kRGV0YWlsczonICsgI2dyb3VwSWQgKyAnKiciLAogICAgIidncm91cFNlcnZpY2UuZmluZE1lbWJlcjonICsgI2dyb3VwSWQiCiAgICBdKQo=</text>
+        <text encoding="base64">ICAgIDxyZXN1bHQgcHJvcGVydHk9InN0YXJ0RGF0ZSIgY29sdW1uPSJzdGFydF9kYXRlIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAib3JnLmFjZXlvdXRoLmNvbW11bml0eS5tYXBwZXIuZ3JvdXAiLAogICAgICAgICJvcmcuYWNleW91dGguY29tbXVuaXR5Lm1hcHBlci5tYW5hZ2VyIiwKICAgICAgICAib3JnLmFjZXlvdXRoLmNvbW11bml0eS5tYXBwZXIuc3BhY2UiLAogICAgICAgICJvcmcuYWNleW91dGguY29tbXVuaXR5Lm1hcHBlci5zeXMiLAogICAgICAgICJvcmcuYWNleW91dGguY29tbXVuaXR5Lm1hcHBlci51c2VyIgo=</text>
