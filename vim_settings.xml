@@ -897,11 +897,8 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="13" column="28" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/activity/ActivityMapper.xml" timestamp="1531029930711">
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="29" column="41" />
-        <mark key="." line="29" column="41" />
-        <mark key="^" line="29" column="41" />
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/activity/ActivityMapper.xml" timestamp="1531031773131">
+        <mark key="[" line="24" column="62" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/news/AddNewsDto.kt" timestamp="1529393106123">
         <mark key="[" line="5" column="22" />
@@ -1062,11 +1059,11 @@
         <mark key="^" line="61" column="3" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/activity/Activity.kt" timestamp="1531029774965">
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="14" />
-        <mark key="^" line="52" column="14" />
-        <mark key="." line="52" column="14" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/activity/Activity.kt" timestamp="1531031666238">
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="87" column="15" />
+        <mark key="^" line="87" column="15" />
+        <mark key="." line="87" column="15" />
       </file>
       <file name="D:/Works/ace/dozer/src/main/resources/application.properties" timestamp="1530292326151">
         <mark key="[" line="0" column="0" />
@@ -1199,10 +1196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>focused</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>focused</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
