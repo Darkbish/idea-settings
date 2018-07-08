@@ -314,9 +314,9 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1530982758532">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupVerifyMapper.kt" timestamp="1530960946157">
         <mark key="[" line="5" column="11" />
@@ -327,7 +327,7 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/CheckOwnerInterceptor.kt" timestamp="1530967699551">
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/CheckOwnerInterceptor.kt" timestamp="1531027758226">
         <mark key="[" line="39" column="45" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -448,9 +448,6 @@
         <mark key="]" line="8" column="24" />
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1530893270100">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/group/GroupApply.kt" timestamp="1530975861228">
         <mark key="[" line="11" column="15" />
@@ -952,6 +949,9 @@
         <mark key="]" line="8" column="1" />
         <mark key="^" line="9" column="40" />
         <mark key="." line="8" column="1" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" timestamp="1531027664530">
+        <mark key="[" line="37" column="45" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupMsgService.kt" timestamp="1530980077497">
         <mark key="[" line="16" column="12" />
