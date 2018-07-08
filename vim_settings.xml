@@ -304,11 +304,11 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/MsgController.kt" timestamp="1531054921776">
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="61" column="5" />
-        <mark key="^" line="61" column="7" />
-        <mark key="." line="61" column="5" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/MsgController.kt" timestamp="1531055509147">
+        <mark key="[" line="77" column="16" />
+        <mark key="]" line="77" column="16" />
+        <mark key="^" line="77" column="18" />
+        <mark key="." line="77" column="16" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/sys/VerifyCodeMapper.kt" timestamp="1530979667203">
         <mark key="[" line="5" column="0" />
@@ -1007,11 +1007,11 @@
       <file name="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" timestamp="1531027664530">
         <mark key="[" line="37" column="45" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupMsgService.kt" timestamp="1530980077497">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="10" />
-        <mark key="^" line="16" column="10" />
-        <mark key="." line="16" column="10" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupMsgService.kt" timestamp="1531055534065">
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="40" />
+        <mark key="^" line="63" column="31" />
+        <mark key="." line="49" column="40" />
       </file>
       <file name="D:/Works/ace/dozer/src/main/kotlin/com/dk/dozer/pojo/UpdateUserDto.kt" timestamp="1530292610476">
         <mark key="[" line="3" column="0" />
@@ -1238,10 +1238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PatchMapping</text>
+        <text>entity.</text>
       </register>
       <register name="-" type="4">
-        <text>PatchMapping</text>
+        <text>entity.</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
