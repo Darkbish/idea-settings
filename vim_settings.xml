@@ -304,11 +304,11 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="19" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/MsgController.kt" timestamp="1531053870655">
-        <mark key="[" line="48" column="41" />
-        <mark key="]" line="58" column="21" />
-        <mark key="^" line="58" column="21" />
-        <mark key="." line="58" column="21" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/MsgController.kt" timestamp="1531054921776">
+        <mark key="[" line="61" column="5" />
+        <mark key="]" line="61" column="5" />
+        <mark key="^" line="61" column="7" />
+        <mark key="." line="61" column="5" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/sys/VerifyCodeMapper.kt" timestamp="1530979667203">
         <mark key="[" line="5" column="0" />
@@ -1237,11 +1237,11 @@
       <jump line="12" column="0" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/activity/Activity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPHdoZXJlPjwvd2hlcmU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PatchMapping</text>
       </register>
       <register name="-" type="4">
-        <text>, principal: Principal</text>
+        <text>PatchMapping</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
