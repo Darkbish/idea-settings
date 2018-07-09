@@ -1070,10 +1070,10 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" timestamp="1531148351778">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" timestamp="1531150345317">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupMsgService.kt" timestamp="1531055534065">
         <mark key="[" line="49" column="40" />
