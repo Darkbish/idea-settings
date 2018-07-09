@@ -74,10 +74,11 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/space/SpaceMapper.kt" timestamp="1530979642472">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/space/SpaceMapper.kt" timestamp="1531139687389">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+        <mark key="^" line="26" column="52" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/HomeController.kt" timestamp="1531049832227">
         <mark key="[" line="34" column="34" />
@@ -310,6 +311,12 @@
         <mark key="^" line="77" column="18" />
         <mark key="." line="77" column="16" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/space/SpaceMapper.xml" timestamp="1531139736170">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/sys/VerifyCodeMapper.kt" timestamp="1530979667203">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="0" />
@@ -373,6 +380,12 @@
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/manager/ManagerMapper.kt" timestamp="1530979611712">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/space/SpaceController.kt" timestamp="1531139333169">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="22" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupNewsService.kt" timestamp="1531061687801">
@@ -680,6 +693,12 @@
         <mark key="^" line="40" column="24" />
         <mark key="." line="43" column="38" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/space/SpaceService.kt" timestamp="1531139571465">
+        <mark key="[" line="21" column="66" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/activity/ApplyMapper.kt" timestamp="1530984081638">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="6" column="11" />
@@ -709,7 +728,7 @@
         <mark key="]" line="61" column="29" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/space/Space.kt" timestamp="1531137209126">
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/space/Space.kt" timestamp="1531139275618">
         <mark key="[" line="49" column="33" />
         <mark key="]" line="49" column="30" />
         <mark key="^" line="49" column="30" />
@@ -1122,13 +1141,6 @@
         <mark key="^" line="61" column="3" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/activity/Activity.kt" timestamp="1531052104384">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="112" column="35" />
-        <mark key="]" line="137" column="52" />
-        <mark key="^" line="87" column="15" />
-        <mark key="." line="87" column="15" />
-      </file>
       <file name="D:/Works/ace/dozer/src/main/resources/application.properties" timestamp="1530292326151">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1262,10 +1274,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
