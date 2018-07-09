@@ -212,6 +212,7 @@
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/GroupVerify.kt" timestamp="1530960873972">
         <mark key="[" line="10" column="12" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/RedisInterceptor.kt" timestamp="1531143898724" />
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/ResourceActionService.kt" timestamp="1529040241389">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="1" />
@@ -311,11 +312,11 @@
         <mark key="^" line="77" column="18" />
         <mark key="." line="77" column="16" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/space/SpaceMapper.xml" timestamp="1531140757829">
-        <mark key="[" line="57" column="50" />
-        <mark key="]" line="57" column="42" />
-        <mark key="^" line="57" column="42" />
-        <mark key="." line="57" column="42" />
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/space/SpaceMapper.xml" timestamp="1531144575421">
+        <mark key="[" line="57" column="18" />
+        <mark key="]" line="62" column="42" />
+        <mark key="^" line="62" column="42" />
+        <mark key="." line="62" column="42" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/sys/VerifyCodeMapper.kt" timestamp="1530979667203">
         <mark key="[" line="5" column="0" />
@@ -698,11 +699,11 @@
         <mark key="^" line="40" column="24" />
         <mark key="." line="43" column="38" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/space/SpaceService.kt" timestamp="1531140857506">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="47" column="86" />
-        <mark key="^" line="47" column="86" />
-        <mark key="." line="47" column="86" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/space/SpaceService.kt" timestamp="1531143710698">
+        <mark key="[" line="63" column="59" />
+        <mark key="]" line="63" column="59" />
+        <mark key="^" line="63" column="62" />
+        <mark key="." line="63" column="59" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/activity/ApplyMapper.kt" timestamp="1530984081638">
         <mark key="[" line="7" column="11" />
@@ -810,8 +811,8 @@
         <mark key="]" line="6" column="29" />
         <mark key="." line="43" column="49" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/space/BusinessTimeMapper.kt" timestamp="1530979637588">
-        <mark key="[" line="5" column="0" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/space/BusinessTimeMapper.kt" timestamp="1531144602136">
+        <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="0" />
@@ -824,6 +825,9 @@
         <mark key="]" line="29" column="30" />
         <mark key="^" line="29" column="30" />
         <mark key="." line="29" column="30" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/space/SpaceBusinessTimeMapper.xml" timestamp="1531144531697">
+        <mark key="[" line="2" column="48" />
       </file>
       <file name="D:/Works/ace/dozer/src/main/kotlin/com/dk/dozer/controller/UserController.kt" timestamp="1530292431776">
         <mark key="[" line="4" column="0" />
@@ -1293,10 +1297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG51bGxhYmxlID0gZmFsc2Us</text>
+        <text>follow</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGxhYmxlID0gZmFsc2Us</text>
+        <text>follow</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
