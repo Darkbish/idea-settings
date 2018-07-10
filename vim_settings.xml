@@ -396,8 +396,8 @@
         <mark key="." line="41" column="32" />
         <mark key="^" line="41" column="32" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/application-dev.yml" timestamp="1531212515401">
-        <mark key="[" line="62" column="0" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/application-dev.yml" timestamp="1531214375847">
+        <mark key="[" line="15" column="120" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
@@ -510,9 +510,6 @@
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/group/GroupApply.kt" timestamp="1530975861228">
         <mark key="[" line="11" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1531194055434">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Resource.kt" timestamp="1529034654891">
         <mark key="[" line="45" column="32" />
@@ -1171,10 +1168,10 @@
         <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/user/WxController.kt" timestamp="1531213033210">
-        <mark key="[" line="44" column="49" />
-        <mark key="]" line="45" column="83" />
-        <mark key="." line="45" column="83" />
-        <mark key="^" line="45" column="83" />
+        <mark key="[" line="41" column="49" />
+        <mark key="]" line="42" column="83" />
+        <mark key="." line="42" column="83" />
+        <mark key="^" line="42" column="83" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/UserService.kt" timestamp="1530283179904">
         <mark key="[" line="20" column="0" />
