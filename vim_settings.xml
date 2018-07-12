@@ -1082,10 +1082,10 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" timestamp="1531406608530">
-        <mark key="[" line="15" column="120" />
-        <mark key="]" line="15" column="149" />
-        <mark key="." line="15" column="120" />
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" timestamp="1531408031746">
+        <mark key="[" line="77" column="10" />
+        <mark key="]" line="77" column="10" />
+        <mark key="." line="77" column="10" />
         <mark key="^" line="15" column="119" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupMsgService.kt" timestamp="1531055534065">
@@ -1322,10 +1322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JmFsbG93UHVibGljS2V5UmV0cmlldmFsPXRydWU=</text>
+        <text>'*'</text>
       </register>
       <register name="-" type="4">
-        <text>nickname</text>
+        <text>'*'</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
