@@ -212,7 +212,6 @@
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/GroupVerify.kt" timestamp="1530960873972">
         <mark key="[" line="10" column="12" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/RedisInterceptor.kt" timestamp="1531143898724" />
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/ResourceActionService.kt" timestamp="1529040241389">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="1" />
@@ -764,11 +763,12 @@
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-dev.yml" timestamp="1531148247290">
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-dev.yml" timestamp="1531396835650">
         <mark key="'" line="5" column="45" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="82" column="12" />
-        <mark key="." line="37" column="38" />
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="61" column="54" />
+        <mark key="." line="61" column="54" />
+        <mark key="^" line="61" column="54" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/ActivityFieldMapper.kt" timestamp="1529397316624">
         <mark key="[" line="7" column="7" />
@@ -1305,11 +1305,11 @@
       <jump line="0" column="0" filename="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZToKICAgIGdyb3VwOiBjbGFzc3BhdGg6dGVtcGxhdGUvc2hhcmUxLmpwZwogICAgY2hhbm5lbDogY2xhc3NwYXRoOnRlbXBsYXRlL3NoYXJlMi5qcGcKICAgIGVudGVycHJpc2U6IGNsYXNzcGF0aDp0ZW1wbGF0ZS9zaGFyZTMuanBnCg==</text>
+      <register name="&quot;" type="4">
+        <text>com</text>
       </register>
       <register name="-" type="4">
-        <text>./src/main/webapp/upload</text>
+        <text>com</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
