@@ -317,6 +317,9 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/HomeController.kt" timestamp="1531706771544">
+        <mark key="[" line="65" column="31" />
+      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/AttachmentService.kt" timestamp="1529375168991">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="16" column="24" />
@@ -1111,6 +1114,11 @@
         <mark key="^" line="63" column="31" />
         <mark key="." line="49" column="40" />
       </file>
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1531706761558">
+        <mark key="[" line="124" column="66" />
+        <mark key="]" line="124" column="66" />
+        <mark key="." line="124" column="66" />
+      </file>
       <file name="D:/Works/ace/dozer/src/main/kotlin/com/dk/dozer/pojo/UpdateUserDto.kt" timestamp="1530292610476">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="4" />
@@ -1327,10 +1335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WxMpOAuth2AccessToken</text>
+        <text>userId</text>
       </register>
       <register name="-" type="4">
-        <text>WxMpOAuth2AccessToken</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
