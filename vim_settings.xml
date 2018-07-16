@@ -1114,10 +1114,11 @@
         <mark key="^" line="63" column="31" />
         <mark key="." line="49" column="40" />
       </file>
-      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1531706761558">
-        <mark key="[" line="124" column="66" />
-        <mark key="]" line="124" column="66" />
-        <mark key="." line="124" column="66" />
+      <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1531707473789">
+        <mark key="[" line="138" column="66" />
+        <mark key="]" line="138" column="66" />
+        <mark key="." line="138" column="72" />
+        <mark key="^" line="122" column="56" />
       </file>
       <file name="D:/Works/ace/dozer/src/main/kotlin/com/dk/dozer/pojo/UpdateUserDto.kt" timestamp="1530292610476">
         <mark key="[" line="3" column="0" />
