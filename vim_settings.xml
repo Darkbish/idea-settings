@@ -94,6 +94,12 @@
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/group/GroupApplyMapper.kt" timestamp="1530978103513">
         <mark key="[" line="5" column="17" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/sys/token/TokenDto.kt" timestamp="1531812463132">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/enums/ActivityType.kt" timestamp="1529032107219">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="5" column="20" />
@@ -261,11 +267,17 @@
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/group/GroupMsgMapper.kt" timestamp="1530978141743">
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/ApiApplication.kt" timestamp="1530984056308">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="39" />
-        <mark key="." line="22" column="44" />
-        <mark key="^" line="21" column="0" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/ApiApplication.kt" timestamp="1531812953968">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/JwtAuthenticationProvider.kt" timestamp="1531813203812">
+        <mark key="[" line="74" column="100" />
+        <mark key="]" line="74" column="100" />
+        <mark key="." line="74" column="100" />
+        <mark key="^" line="66" column="118" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/user/UserController.kt" timestamp="1531146396762">
         <mark key="[" line="79" column="17" />
@@ -367,11 +379,11 @@
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupVerifyMapper.kt" timestamp="1530960946157">
         <mark key="[" line="5" column="11" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/manager/ManagerController.kt" timestamp="1531811587228">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/manager/ManagerController.kt" timestamp="1531813955085">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/UserDto.kt" timestamp="1530286500126">
         <mark key="[" line="57" column="0" />
@@ -498,6 +510,11 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/properties/EnvProperties.kt" timestamp="1531812875416">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/resources/dozer/mappings/UserMapping.xml" timestamp="1530952025664">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="8" column="24" />
@@ -530,11 +547,11 @@
         <mark key="." line="23" column="85" />
         <mark key="^" line="23" column="85" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/manager/ManagerService.kt" timestamp="1531811705053">
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/manager/ManagerService.kt" timestamp="1531812699041">
+        <mark key="[" line="47" column="45" />
+        <mark key="]" line="48" column="36" />
+        <mark key="." line="48" column="36" />
+        <mark key="^" line="48" column="36" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/MemberListDto.kt" timestamp="1530954983657">
         <mark key="[" line="23" column="18" />
@@ -549,6 +566,12 @@
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/activity/ActivityAnswerMapper.kt" timestamp="1530978048202">
         <mark key="[" line="5" column="11" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/JwtAuthenticationFilter.kt" timestamp="1531813938976">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="60" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="60" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/activity/HomeController.kt" timestamp="1531053222566">
         <mark key="[" line="31" column="40" />
@@ -695,6 +718,12 @@
         <mark key="^" line="45" column="33" />
         <mark key="." line="45" column="24" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/WebSecurityConfig.kt" timestamp="1531813925630">
+        <mark key="[" line="56" column="65" />
+        <mark key="]" line="56" column="65" />
+        <mark key="^" line="56" column="57" />
+        <mark key="." line="56" column="65" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/space/BusinessTime.kt" timestamp="1530984022494">
         <mark key="[" line="11" column="12" />
       </file>
@@ -703,6 +732,11 @@
         <mark key="]" line="74" column="35" />
         <mark key="^" line="73" column="34" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/properties/UploadProperties.kt" timestamp="1531812930909">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/msg/AddMsgDto.kt" timestamp="1529391184523">
         <mark key="[" line="5" column="22" />
@@ -823,23 +857,17 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="24" column="35" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/space/Space.kt" timestamp="1531146550817">
-        <mark key="'" line="10" column="10" />
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/UpdateUserDto.kt" timestamp="1529387794459">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-dev.yml" timestamp="1531406601203">
-        <mark key="'" line="5" column="45" />
-        <mark key="[" line="15" column="120" />
-        <mark key="]" line="15" column="148" />
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-dev.yml" timestamp="1531812813040">
+        <mark key="'" line="3" column="45" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/NewsService.kt" timestamp="1530984255327">
         <mark key="[" line="16" column="7" />
@@ -908,17 +936,23 @@
       <file name="D:/Works/ace/dozer/src/main/kotlin/com/dk/dozer/config/DozerConfig.kt" timestamp="1530292071898">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/manager/Manager.kt" timestamp="1531812619360">
+        <mark key="[" line="31" column="27" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Space.kt" timestamp="1528960828216">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="20" />
         <mark key="^" line="60" column="20" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/common/Variable.kt" timestamp="1530108113945">
-        <mark key="[" line="35" column="58" />
-        <mark key="]" line="40" column="3" />
-        <mark key="^" line="40" column="3" />
-        <mark key="." line="40" column="3" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/common/Variable.kt" timestamp="1531812164093">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/ActivityFieldDto.kt" timestamp="1531040859296">
         <mark key="[" line="10" column="0" />
@@ -993,11 +1027,11 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/pom.xml" timestamp="1530891547574">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
+      <file name="D:/Works/ace/ace-community-api/pom.xml" timestamp="1531813616127">
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
         <mark key="^" line="121" column="19" />
-        <mark key="." line="158" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/converter/PipielineConverter.kt" timestamp="1529387778412">
         <mark key="[" line="12" column="0" />
@@ -1120,11 +1154,10 @@
         <mark key="^" line="82" column="50" />
         <mark key="." line="82" column="50" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" timestamp="1531408031746">
-        <mark key="[" line="77" column="10" />
-        <mark key="]" line="77" column="10" />
-        <mark key="." line="77" column="10" />
-        <mark key="^" line="15" column="119" />
+      <file name="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" timestamp="1531812845599">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupMsgService.kt" timestamp="1531055534065">
         <mark key="[" line="49" column="40" />
@@ -1247,6 +1280,11 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/sys/Token.kt" timestamp="1531812443727">
+        <mark key="'" line="20" column="10" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="29" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="36" column="22" filename="$USER_HOME$/work/demo/src/main/java/com/xt/demo/User.java" />
@@ -1339,46 +1377,47 @@
       <jump line="5" column="45" filename="D:/Works/ace/ace-community-api/src/main/resources/application-dev.yml" />
       <jump line="10" column="6" filename="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" />
       <jump line="0" column="0" filename="D:/Works/ace/ace-community-api/src/main/resources/application-prod.yml" />
+      <jump line="20" column="10" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/sys/Token.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QE1hcFRvKFRva2VuKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>'*'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JmFsbG93UHVibGljS2V5UmV0cmlldmFsPXRydWU=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiC3orK8yMsKICAgICAgICAgKi8KICAgICAgICBAQ29sdW1uKG5hbWUgPSAiYHN1YmplY3RgIiwgbnVsbGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgc3ViamVjdDogU3RyaW5nID0gIiIsCiAgICAgICAgLyoqCiAgICAgICAgICogwe7FxgogICAgICAgICAqLwogICAgICAgIEBDb2x1bW4obmFtZSA9ICJgdG9rZW5gIiwgbnVsbGFibGUgPSBmYWxzZSkKICAgICAgICB2YXIgdG9rZW46IFN0cmluZyA9ICIiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QE1hcFRvKFRva2VuKQo=</text>
+        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nCiAgICBmdW4gZ2VuKCkgPSBzZXJ2aWNlLmFkZCgpCgo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAtIGh0dHA6Ly9jb21tdW5pdHkuYWNleW91dGgub3JnCiAgICAtIGh0dHA6Ly9tYW5hZ2UuY29tbXVuaXR5LmFjZXlvdXRoLm9yZw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uZ29vZ2xlLnp4aW5nPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qYXZhc2U8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjMuMy4yPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPmNvbS5hbGl5dW48L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPmFsaXl1bi1qYXZhLXNkay1jb3JlPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4zLjYuMDwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5jb20uYWxpeXVuPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5hbGl5dW4tamF2YS1zZGstZHlzbXNhcGk8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuMS4wPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHNlcnZpY2U6IFRva2VuU2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCByZXNvdXJjZSA9IHJlc291cmNlU2VydmljZS5maW5kUGVybWlzc2lvbihpZCkKICAgICAgICAgICAgICAgIHZhbCBwZXJtaXNzaW9uID0gSGFzaE1hcDxTdHJpbmcsIExpc3Q8U3RyaW5nPj4oKQogICAgICAgICAgICAgICAgZm9yIChpdGVtIGluIHJlc291cmNlLmZpbHRlck5vdCB7IGl0LmNvZGUuaXNCbGFuaygpIHx8IGl0LmFjdGlvbnMgPT0gbnVsbCB9KSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHBlcm1pc3Npb24uY29udGFpbnNLZXkoaXRlbS5jb2RlKSkKICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5hY3Rpb25zPy5sZXQgeyAocGVybWlzc2lvbltpdGVtLmNvZGVdIGFzIEFycmF5TGlzdCkuYWRkQWxsKGl0Lm1hcCB7IGl0LnR5cGUubmFtZSB9KSB9CiAgICAgICAgICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgICAgICAgICBwZXJtaXNzaW9uW2l0ZW0uY29kZV0gPSBpdGVtLmFjdGlvbnM/Lm1hcCB7IGl0LnR5cGUubmFtZSB9ID86IEFycmF5TGlzdCgpCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHJlc291cmNlU2VydmljZTogUmVzb3VyY2VTZXJ2aWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBHZXRNYXBwaW5nKCJ7b3BlbklkfSIpCiAgICBmdW4gZ2V0KEBQYXRoVmFyaWFibGUgb3BlbklkOiBTdHJpbmcpID0gc2VydmljZS5maW5kQnlTdWJqZWN0KG9wZW5JZCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hY2V5b3V0aC5jb21tdW5pdHkuc2VydmljZS5tYW5hZ2VyLlJlc291cmNlU2VydmljZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdG9rZW4gPSB1dGlsLmdlbmVyYXRlTG9naW5Ub2tlbih1c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBTbXNQcm9wZXJ0aWVzOjpjbGFzcywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZToKICAgIGdyb3VwOiBjbGFzc3BhdGg6dGVtcGxhdGUvc2hhcmUxLmpwZwogICAgY2hhbm5lbDogY2xhc3NwYXRoOnRlbXBsYXRlL3NoYXJlMi5qcGcKICAgIGVudGVycHJpc2U6IGNsYXNzcGF0aDp0ZW1wbGF0ZS9zaGFyZTMuanBnCg==</text>
+        <text encoding="base64">ICAgIHZhciB0ZW1wOiBTdHJpbmcsCiAgICB2YXIgdGVtcGxhdGU6IFByb3BlcnRpZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW52OgogIGVudjogUHJvZHVjdGlvbgogIHBpYy1jb2RlOgogICAgc2Vzc2lvbi1pZDogUElDX0NPREUKICBkb3plcjoKICAgIG1hcHBpbmctbG9jYXRpb246IGNsYXNzcGF0aDpkb3plci8qKi8qLnhtbAogIHBpYy1ob3N0OiBodHRwOi8vaW1nMi5kYXJraWxsZXIuY2MKICBob3N0OiBodHRwOi8vYWNlLmRhcmtpbGxlci5jYwogIHZlcmlmeS1jb2RlOgogICAgZXhwaXJlOiAxMG0Kc2VydmVyOgogIHBvcnQ6IDgwOTEKc3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmpkYmMuRHJpdmVyCiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3QvYWNlLWNvbW11bml0eT91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmOCZ1c2VTU0w9ZmFsc2UmYWxsb3dNdWx0aVF1ZXJpZXM9dHJ1ZQogICAgdXNlcm5hbWU6IHJvb3QKICAgIHBhc3N3b3JkOiAxMjM0NTYKICByZWRpczoKICAgICAgaG9zdDogMTI3LjAuMC4xCiAgICAgIHBvcnQ6IDYzNzkKICAgICAgZGF0YWJhc2U6IDEKICBhb3A6CiAgICAgIGF1dG86IHRydWUKICAgICAgcHJveHktdGFyZ2V0LWNsYXNzOiB0cnVlCiAgc2VydmxldDoKICAgIG11bHRpcGFydDoKICAgICAgbWF4LXJlcXVlc3Qtc2l6ZTogMTBNQgogICAgICBtYXgtZmlsZS1zaXplOiAxME1CCiAgamFja3NvbjoKICAgIGpvZGEtZGF0ZS10aW1lLWZvcm1hdDogeXl5eS1NTS1kZCBISDptbTpzcwogICAgbWFwcGVyOgogICAgICBhY2NlcHQtY2FzZS1pc2Vuc2l0aXZlLWVudW1zOiB0cnVlCiAgbXZjOgogICAgbG9jYWxlOiB6aF9DTgpteWJhdGlzOgogIHR5cGUtYWxpYXNlcy1wYWNrYWdlOiBvcmcuYWNleW91dGguY29tbXVuaXR5LmVudGl0eQogIG1hcHBlci1sb2NhdGlvbnM6IGNsYXNzcGF0aDpteWJhdGlzL215YmF0aXMvKi8qLnhtbAogIGNvbmZpZ3VyYXRpb246CiAgICBtYXAtdW5kZXJzY29yZS10by1jYW1lbC1jYXNlOiB0cnVlCiAgICBsb2ctaW1wbDogb3JnLmFwYWNoZS5pYmF0aXMubG9nZ2luZy5zdGRvdXQuU3RkT3V0SW1wbAogICAgZGVmYXVsdC1lbnVtLXR5cGUtaGFuZGxlcjogb3JnLmFjZXlvdXRoLmNvbW11bml0eS5jb21tb24uRW51bUhhbmRsZXIKICAgIGF1dG8tbWFwcGluZy1iZWhhdmlvcjogZnVsbAogIHR5cGUtaGFuZGxlcnMtcGFja2FnZTogb3JnLmFjZXlvdXRoLmNvbW11bml0eS5oYW5kbGVyCm1hcHBlcjoKICBpZGVudGl0eTogTVlTUUwKICBub3QtZW1wdHk6IHRydWUKICBlbmFibGUtbWV0aG9kLWFubm90YXRpb246IHRydWUKICBtYXBwZXJzOiB0ay5teWJhdGlzLm15YmF0aXMuY29tbW9uLk1hcHBlcgpwYWdlaGVscGVyOgogIGhlbHBlci1kaWFsZWN0OiBNWVNRTAogIHJlYXNvbmFibGU6ICd0cnVlJwogIHBhcmFtczogcGFnZU51bT1wYWdlCmp3dDoKICBoZWFkZXI6IEF1dGhvcml6YXRpb24KICBleHBpcmF0aW9uOiA2MDQ4MDAKICBoZWFkZXItcHJlZml4OiAiQmVhcmVyICIKICBzZWNyZXQ6ICJhY2UgeW91dGggYXV0aGVudGljYXRpb24gdjEuMCIKd2VpeGluOgogIGlkOiBneHh1ZXRhbmcKICBhcHAtaWQ6IHd4MGM1YzA3NWMzOGY5YjI3YgogIHNlY3JldDogODRhN2RmYzRkYjUyYjc1YThiZDU0OTJlNGFlNWY0ZTAKICByZWRpcmVjdC11cmw6IGh0dHAlM0ElMkYlMkZhcGkyLmd4eHVldGFuZy5jb20lMkZ3eAogIGF1dGgtdXJsOiAke2Vudi5ob3N0fS9hdXRoCiAgYXV0aC1maWxlOiBNUF92ZXJpZnlfS2tGZVFDc3hyV21aNk5Fdy50eHQKICBleHBpcmVzLXRpbWU6IDcyMDAKdXBsb2FkOgogIG1heC1zaXplOiAxMDQ4NTc2MCAjIDEwTQogIGZvbGRlcjogL3Vzci93d3cvYWNlL3VwbG9hZAogIHRlbXA6ICR7dXBsb2FkLmZvbGRlcn0vdGVtcAogIGFsbG93ZWQtZXh0OiBqcGcsanBlZyxnaWYscG5nLHhscyx4bHN4LGRvYyxkb2N4LHBkZgpzbXM6CiAgcmVxdWVzdC10aW1lLW91dDogMTAwMDAKICByZWFkLXRpbWUtb3V0OiAxMDAwMAogIGFjY2Vzcy10b2tlbi1pZDogTFRBSVA2czg2Nm56U1FtUQogIGFjY2Vzcy10b2tlbi1zZWNyZXQ6IEdUcXJwYXlYbnpFNEFGMnl6T0twRVh3b2piM0lnZwpjb3JzOgogIGhlYWRlcjogIioiCiAgbWV0aG9kOiAiKiIKICBvcmlnaW46CiAgICAtIGh0dHA6Ly9hY2UuZGFya2lsbGVyLmNjCiAgICAtIGh0dHA6Ly9tYW5hZ2UuZGFya2lsbGVyLmNjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog08O7p7/VvOS31tKzwdCx7QogICAgICogQHBhcmFtIGR0byC31tKzsunRr8z1vP4KICAgICAqIEBwYXJhbSBwcmluY2lwYWwgtbHHsLXHwrzTw7unCiAgICAgKi8KICAgIEBHZXRNYXBwaW5nKCJ1c2VyIikKICAgIEBNYXBUbyhTcGFjZUxpc3REdG86OmNsYXNzKQogICAgZnVuIGxpc3QoZHRvOiBQYWdlUmVxdWVzdER0bywgcHJpbmNpcGFsOiBQcmluY2lwYWwpID0gc2VydmljZS5maW5kVXNlclNwYWNlcygocHJpbmNpcGFsIGFzIEp3dEF1dGhlbnRpY2F0aW9uVG9rZW4pLmlkLCBkdG8pCgo=</text>
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgVmVyaWZ5Q29kZSh2YXIgZXhwaXJlOiBEdXJhdGlvbiA9IER1cmF0aW9uLm9mTWludXRlcygxMCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/groupNews/activity/g</text>
