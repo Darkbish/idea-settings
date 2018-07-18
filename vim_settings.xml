@@ -62,11 +62,11 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/HomeController.kt" timestamp="1531894207149">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="11" />
-        <mark key="." line="33" column="11" />
-        <mark key="^" line="33" column="15" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/HomeController.kt" timestamp="1531902254976">
+        <mark key="[" line="136" column="22" />
+        <mark key="]" line="135" column="8" />
+        <mark key="." line="135" column="8" />
+        <mark key="^" line="135" column="8" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/ManagerService.kt" timestamp="1529040373933">
         <mark key="[" line="21" column="88" />
@@ -553,6 +553,12 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="2" column="21" />
+      </file>
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/RejectDto.kt" timestamp="1531902202033">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/ActivityListDto.kt" timestamp="1531029891226">
         <mark key="[" line="44" column="12" />
@@ -1298,11 +1304,11 @@
       <jump line="56" column="0" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiJ2dyb3VwU2VydmljZS5wYWdlTGlzdDprZXl3b3JkPSonIiwK</text>
+      <register name="&quot;" type="4">
+        <text>双链</text>
       </register>
       <register name="-" type="4">
-        <text>GroupDto</text>
+        <text>双链</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
