@@ -335,11 +335,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1531891029851">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="57" column="78" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1531895651726">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="44" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="133" column="40" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/manager/ManagerController.kt" timestamp="1531813955085">
         <mark key="[" line="23" column="18" />
@@ -353,7 +353,7 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/CheckOwnerInterceptor.kt" timestamp="1531893748804">
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/CheckOwnerInterceptor.kt" timestamp="1531895745511">
         <mark key="[" line="26" column="61" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -1298,8 +1298,8 @@
       <jump line="56" column="0" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GroupDto</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiJ2dyb3VwU2VydmljZS5wYWdlTGlzdDprZXl3b3JkPSonIiwK</text>
       </register>
       <register name="-" type="4">
         <text>GroupDto</text>
@@ -1308,7 +1308,7 @@
         <text>groupNews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25Gb3JtYXQK</text>
+        <text encoding="base64">ICAgICAgICAiJ2dyb3VwU2VydmljZS5wYWdlTGlzdDprZXl3b3JkPSonIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5qc29uZm8K</text>
