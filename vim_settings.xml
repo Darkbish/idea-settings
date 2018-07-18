@@ -1048,10 +1048,10 @@
         <mark key="^" line="61" column="13" />
         <mark key="." line="61" column="13" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" timestamp="1531884894411">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" timestamp="1531890171368">
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/AddActivityDto.kt" timestamp="1531048621806">
         <mark key="[" line="13" column="26" />
@@ -1289,11 +1289,11 @@
       <jump line="20" column="10" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/sys/Token.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIMm+s/3J58i6CiAgICAgKiBAcGFyYW0gZ3JvdXBJZCDJ58i6aWQKICAgICAqLwogICAgZnVuIGRlbGV0ZShncm91cElkOiBMb25nKTogSW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ActivityType</text>
       </register>
       <register name="-" type="4">
-        <text>AND g.`deleted` = FALSE</text>
+        <text>ActivityType</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
