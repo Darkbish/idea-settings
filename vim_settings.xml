@@ -74,11 +74,10 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Works/wx/src/main/java/com/retech/api/config/properties/CorsProperties.java" timestamp="1531979364635">
-        <mark key="[" line="37" column="57" />
-        <mark key="]" line="37" column="57" />
-        <mark key="." line="37" column="57" />
-        <mark key="^" line="37" column="56" />
+      <file name="D:/Works/wx/src/main/java/com/retech/api/config/properties/CorsProperties.java" timestamp="1531981699797">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/space/SpaceMapper.kt" timestamp="1531140487294">
         <mark key="[" line="17" column="21" />
@@ -221,6 +220,12 @@
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
+      </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/config/properties/JwtProperties.java" timestamp="1531981704651">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/GroupJoinController.kt" timestamp="1530961852496">
         <mark key="[" line="27" column="22" />
@@ -393,10 +398,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/Works/wx/src/main/resources/application-prod.yaml" timestamp="1531978487430">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="D:/Works/wx/src/main/resources/application-prod.yaml" timestamp="1531984507768">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1531902957353">
         <mark key="[" line="248" column="0" />
@@ -529,6 +534,14 @@
         <mark key="." line="64" column="8" />
         <mark key="^" line="64" column="8" />
       </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/config/properties/WxProperties.java" timestamp="1531985180587">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/model/enum/Option.java" timestamp="1531983276700">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/GroupApplyMapper.xml" timestamp="1530974847115">
         <mark key="[" line="40" column="107" />
         <mark key="]" line="40" column="53" />
@@ -646,10 +659,11 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="D:/Works/wx/src/main/java/com/retech/api/config/properties/EnvProperties.java" timestamp="1531980262035">
-        <mark key="[" line="64" column="37" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="D:/Works/wx/src/main/java/com/retech/api/config/properties/EnvProperties.java" timestamp="1531982380013">
+        <mark key="[" line="74" column="39" />
+        <mark key="]" line="74" column="39" />
+        <mark key="." line="74" column="39" />
+        <mark key="^" line="74" column="49" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/RejectDto.kt" timestamp="1531903583676">
         <mark key="[" line="9" column="28" />
@@ -780,6 +794,13 @@
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
+      </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/config/properties/UploadProperties.java" timestamp="1531981709124">
+        <mark key="'" line="35" column="47" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="35" column="47" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/space/BusinessTime.kt" timestamp="1530984022494">
         <mark key="[" line="11" column="12" />
@@ -1003,6 +1024,17 @@
       <file name="D:/Works/ace/dozer/src/main/kotlin/com/dk/dozer/config/DozerConfig.kt" timestamp="1530292071898">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/common/EnumHandler.java" timestamp="1531984478684">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="30" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="28" column="29" />
+      </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/config/properties/WebSecurityConfig.java" timestamp="1531984935431">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/manager/Manager.kt" timestamp="1531812619360">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="26" column="26" />
@@ -1091,6 +1123,12 @@
         <mark key="." line="36" column="44" />
         <mark key="^" line="38" column="44" />
       </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/controller/TestController.java" timestamp="1531984771798">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="50" column="25" />
+        <mark key="^" line="50" column="25" />
+        <mark key="." line="50" column="25" />
+      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/ActivityFieldService.kt" timestamp="1529396971931">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="40" />
@@ -1142,6 +1180,11 @@
       <file name="/fragment.kt" timestamp="1530981992768">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/config/WebSecurityConfig.java" timestamp="1531985007142">
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/ActivityAnswerMapper.xml" timestamp="1530974159499">
         <mark key="[" line="14" column="22" />
         <mark key="]" line="14" column="22" />
@@ -1190,8 +1233,10 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="D:/Works/wx/src/main/resources/application-dev.yaml" timestamp="1531978437480">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Works/wx/src/main/resources/application-dev.yaml" timestamp="1531984885495">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/ActivityDetailsDto.kt" timestamp="1531052422374">
         <mark key="[" line="75" column="27" />
@@ -1211,14 +1256,21 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="D:/Works/wx/pom.xml" timestamp="1531978786935">
-        <mark key="[" line="44" column="0" />
+      <file name="D:/Works/wx/pom.xml" timestamp="1531982629051">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupMapper.kt" timestamp="1529375709839">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="28" column="10" />
         <mark key="." line="30" column="25" />
         <mark key="^" line="30" column="25" />
+      </file>
+      <file name="D:/Works/wx/src/main/java/com/retech/api/model/enums/Option.java" timestamp="1531983906007">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/Group.kt" timestamp="1529374276458">
         <mark key="[" line="82" column="20" />
@@ -1450,48 +1502,48 @@
       <jump line="13" column="10" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDetailsDto.kt" />
       <jump line="2" column="17" filename="D:/Works/wx/src/main/resources/application.yaml" />
       <jump line="0" column="0" filename="D:/Works/wx/src/main/resources/application.yaml" />
+      <jump line="34" column="47" filename="D:/Works/wx/src/main/java/com/retech/api/config/properties/UploadProperties.java" />
+      <jump line="141" column="13" filename="D:/Works/wx/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wx</text>
       </register>
       <register name="-" type="4">
-        <text>!StringUtils::isEmpty</text>
+        <text>wx</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogxvTTwy+9+9PD08O7pwogICAgICogQHBhcmFtIGlkINPDu6dpZAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0RW51bSh2YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5jb25maWd1cmUoaHR0cCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgoUGF0aE1hdGNoaW5nUmVzb3VyY2VQYXR0ZXJuUmVzb2x2ZXIpIHJlc29sdmVyKS5nZXRSZXNvdXJjZSgpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgY29uZmlndXJlKEF1dGhlbnRpY2F0aW9uTWFuYWdlckJ1aWxkZXIgYXV0aCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgc3VwZXIuY29uZmlndXJlKGF1dGgpOwogICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEVuYWJsZUF1dG9Db25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">c2VjdXJpdHk6CiAgYmFzaWM6CiAgICBlbmFibGVkOiBmYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RDb25maWd1cmF0aW9uCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TdHJpbmdVdGlsczsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBFW10gZW51bXMgPSBjbGF6ei5nZXRFbnVtQ29uc3RhbnRzKCk7CiAgICAgICAgZm9yIChFIGl0ZW0gOiBlbnVtcykgewogICAgICAgICAgICBpZiAoaXRlbS5vcmlnaW4oKSA9PSB2YWx1ZSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGl0ZW07CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJyYXlzLnN0cmVhbShjbGF6ei5nZXRFbnVtQ29uc3RhbnRzKCkpLmZpbHRlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/groupNews/activity/g</text>
