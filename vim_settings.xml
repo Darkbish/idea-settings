@@ -376,10 +376,11 @@
         <mark key="]" line="254" column="6" />
         <mark key="." line="248" column="0" />
       </file>
-      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupBasicDto.kt" timestamp="1531965900878">
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="49" column="21" />
-        <mark key="." line="49" column="21" />
+      <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupBasicDto.kt" timestamp="1531968329301">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="37" column="24" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupVerifyMapper.kt" timestamp="1530960946157">
         <mark key="[" line="5" column="11" />
@@ -1403,10 +1404,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GroupListDto</text>
+        <text>OptionDto</text>
       </register>
       <register name="-" type="4">
-        <text>GroupListDto</text>
+        <text>OptionDto</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
