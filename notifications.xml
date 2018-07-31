@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="MATERIAL_THEME" shouldLog="false" />
-    <notification groupId="mybatisCodeHelper" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
