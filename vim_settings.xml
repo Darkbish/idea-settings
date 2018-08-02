@@ -604,6 +604,12 @@
       <file name="D:/Works/wx/src/main/java/com/retech/api/model/enum/Option.java" timestamp="1531983276700">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/logback-spring.xml" timestamp="1533213802612">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/GroupApplyMapper.xml" timestamp="1530974847115">
         <mark key="[" line="40" column="107" />
         <mark key="]" line="40" column="53" />
@@ -1641,10 +1647,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/usr/www/community/api/</text>
+        <text>/usr/www/community/api</text>
       </register>
       <register name="-" type="4">
-        <text>/usr/www/community/api/</text>
+        <text>/usr/www/community/api</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
