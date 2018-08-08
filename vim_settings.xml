@@ -334,6 +334,11 @@
         <mark key="]" line="56" column="11" />
         <mark key="." line="56" column="11" />
       </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/ApplyController.kt" timestamp="1533731874593">
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/ApplyService.kt" timestamp="1530984209567">
         <mark key="[" line="17" column="7" />
         <mark key="]" line="15" column="8" />
@@ -666,7 +671,7 @@
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/group/GroupApply.kt" timestamp="1530975861228">
         <mark key="[" line="11" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533560900256">
+      <file name="/Dummy.txt" timestamp="1533731942377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/enums/GroupStatus.kt" timestamp="1529374261482">
@@ -1025,6 +1030,11 @@
         <mark key="]" line="22" column="37" />
         <mark key="^" line="22" column="37" />
         <mark key="." line="22" column="37" />
+      </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/mybatis/group/ApplyMapper.xml" timestamp="1533732266456">
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="34" />
+        <mark key="." line="40" column="34" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/resources/mybatis/GroupMsgMapper.xml" timestamp="1529395552717">
         <mark key="[" line="92" column="27" />
@@ -1671,11 +1681,11 @@
       <jump line="11" column="10" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/ActivityListDto.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuc3RhdHVzID0gR3JvdXBTdGF0dXMuQXVkaXQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
