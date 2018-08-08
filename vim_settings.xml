@@ -610,7 +610,7 @@
       <file name="D:/Works/wx/src/main/java/com/retech/api/model/enum/Option.java" timestamp="1531983276700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/logback-spring.xml" timestamp="1533213802612">
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/logback-spring.xml" timestamp="1533728167416">
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="35" />
         <mark key="." line="4" column="35" />
@@ -1183,6 +1183,7 @@
         <mark key="." line="78" column="29" />
         <mark key="^" line="78" column="29" />
       </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/group/GroupApply.kt" timestamp="1533728054647" />
       <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/GroupNewsMapper.xml" timestamp="1530946084895">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
