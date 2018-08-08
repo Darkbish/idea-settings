@@ -1060,6 +1060,11 @@
         <mark key="." line="67" column="56" />
         <mark key="^" line="67" column="56" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1533727911200">
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="38" />
+        <mark key="." line="19" column="38" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupApplyMapper.kt" timestamp="1530967944397">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="15" column="27" />
