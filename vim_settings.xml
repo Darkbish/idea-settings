@@ -1517,11 +1517,11 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/mybatis/group/GroupMapper.xml" timestamp="1538231489725">
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/mybatis/group/GroupMapper.xml" timestamp="1538232602744">
         <mark key="[" line="91" column="13" />
-        <mark key="]" line="89" column="20" />
-        <mark key="^" line="89" column="20" />
-        <mark key="." line="89" column="20" />
+        <mark key="]" line="92" column="83" />
+        <mark key="^" line="92" column="83" />
+        <mark key="." line="92" column="83" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/UserService.kt" timestamp="1530283179904">
         <mark key="[" line="20" column="0" />
