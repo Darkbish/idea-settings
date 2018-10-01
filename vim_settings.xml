@@ -683,6 +683,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/msg/MsgListDto.kt" timestamp="1538403561888">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/resources/dozer/mappings/UserMapping.xml" timestamp="1530952025664">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="8" column="24" />
@@ -1729,10 +1735,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>年</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>年</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
