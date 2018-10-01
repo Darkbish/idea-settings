@@ -207,8 +207,8 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDetailsDto.kt" timestamp="1538397534960">
-        <mark key="[" line="70" column="29" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDetailsDto.kt" timestamp="1538406354466">
+        <mark key="[" line="73" column="34" />
         <mark key="]" line="70" column="29" />
         <mark key="." line="70" column="29" />
       </file>
@@ -382,10 +382,10 @@
         <mark key="." line="29" column="26" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1538398277088">
-        <mark key="[" line="114" column="45" />
-        <mark key="]" line="114" column="45" />
-        <mark key="^" line="156" column="34" />
-        <mark key="." line="114" column="45" />
+        <mark key="[" line="111" column="45" />
+        <mark key="]" line="111" column="45" />
+        <mark key="^" line="154" column="34" />
+        <mark key="." line="111" column="45" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/ResourceActionMapper.xml" timestamp="1530978850771">
         <mark key="[" line="13" column="68" />
@@ -1064,11 +1064,11 @@
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/group/Group.kt" timestamp="1538397835485">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="52" column="11" />
-        <mark key="." line="124" column="37" />
-        <mark key="^" line="124" column="37" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/group/Group.kt" timestamp="1538406411343">
+        <mark key="[" line="139" column="47" />
+        <mark key="]" line="143" column="17" />
+        <mark key="." line="143" column="17" />
+        <mark key="^" line="143" column="17" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/ResourceService.kt" timestamp="1529042930351">
         <mark key="[" line="16" column="0" />
