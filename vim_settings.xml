@@ -168,6 +168,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/activity/ActivityService.kt" timestamp="1539083860198">
+        <mark key="[" line="178" column="7" />
+        <mark key="]" line="178" column="7" />
+        <mark key="." line="178" column="7" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/group/Apply.kt" timestamp="1530983973484">
         <mark key="[" line="11" column="12" />
       </file>
@@ -1741,10 +1746,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>年</text>
+        <text>取消活动点赞</text>
       </register>
       <register name="-" type="4">
-        <text>年</text>
+        <text>取消活动点赞</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
