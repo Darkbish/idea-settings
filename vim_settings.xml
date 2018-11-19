@@ -309,6 +309,9 @@
         <mark key="." line="74" column="100" />
         <mark key="^" line="66" column="118" />
       </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/sys/SettingsController.kt" timestamp="1542634212042">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/ApplyService.kt" timestamp="1530984209567">
         <mark key="[" line="17" column="7" />
         <mark key="]" line="15" column="8" />
@@ -359,6 +362,9 @@
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/config/properties/EnvProperties.kt" timestamp="1542634288989">
+        <mark key="[" line="13" column="28" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/ActivityPageListDto.kt" timestamp="1532075381147">
         <mark key="[" line="42" column="27" />
@@ -1385,6 +1391,9 @@
         <mark key="]" line="6" column="11" />
         <mark key="^" line="7" column="9" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/application-dev.yml" timestamp="1542634250929">
+        <mark key="[" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/ActivityApply.kt" timestamp="1528960200509">
         <mark key="[" line="45" column="29" />
