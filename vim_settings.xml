@@ -292,6 +292,12 @@
         <mark key="^" line="24" column="12" />
         <mark key="." line="24" column="12" />
       </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/news/NewsListDto.kt" timestamp="1543503240880">
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="38" />
+      </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/GroupVerify.kt" timestamp="1530960873972">
         <mark key="[" line="10" column="12" />
       </file>
@@ -1627,10 +1633,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>liked</text>
+        <text>日</text>
       </register>
       <register name="-" type="4">
-        <text>liked</text>
+        <text>日</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
