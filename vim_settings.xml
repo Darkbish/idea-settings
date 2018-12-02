@@ -1456,11 +1456,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/mybatis/group/GroupMapper.xml" timestamp="1543491013222">
-        <mark key="[" line="142" column="31" />
-        <mark key="]" line="142" column="31" />
-        <mark key="^" line="201" column="10" />
-        <mark key="." line="142" column="31" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/mybatis/group/GroupMapper.xml" timestamp="1543750437989">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="105" />
+        <mark key="^" line="202" column="10" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="D:/Works/wx/src/main/java/com/retech/api/common/NullModule.java" timestamp="1531991654889">
         <mark key="[" line="18" column="42" />
@@ -1666,7 +1666,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiZzogJyR7ZW52LnBpYy1ob3N0fS9iZy5qcGcnCg==</text>
+        <text encoding="base64">ICAgIChTRUxFQ1QgQ09VTlQoMCkgQVMgYG1lbWJlcl9jb3VudGAgRlJPTSBncm91cF9tZW1iZXIgZ20gV0hFUkUgZ20uZ3JvdXBfaWQgPSBnLmlkKSBBUyBgbWVtYmVyX2NvdW50YAo=</text>
       </register>
       <register name="-" type="4">
         <text>Putpping</text>
@@ -1675,7 +1675,7 @@
         <text>groupNews</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDpqozor4Hop4TliJkKICAgICAgICAgKi8KICAgICAgICB2YXIgcnVsZTogU3RyaW5nPywK</text>
+        <text encoding="base64">ICAgIChTRUxFQ1QgQ09VTlQoMCkgQVMgYG1lbWJlcl9jb3VudGAgRlJPTSBncm91cF9tZW1iZXIgZ20gV0hFUkUgZ20uZ3JvdXBfaWQgPSBnLmlkKSBBUyBgbWVtYmVyX2NvdW50YAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBiZzogJyR7ZW52LnBpYy1ob3N0fS9iZy5qcGcnCg==</text>
