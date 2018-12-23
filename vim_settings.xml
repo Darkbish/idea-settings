@@ -1195,10 +1195,11 @@
         <mark key="^" line="37" column="31" />
         <mark key="." line="37" column="31" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/user/UserController.kt" timestamp="1543676245916">
-        <mark key="[" line="120" column="5" />
-        <mark key="]" line="120" column="5" />
-        <mark key="." line="120" column="5" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/user/UserController.kt" timestamp="1545552415369">
+        <mark key="[" line="67" column="29" />
+        <mark key="]" line="67" column="11" />
+        <mark key="." line="67" column="11" />
+        <mark key="^" line="67" column="11" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/TokenController.kt" timestamp="1530282420014">
         <mark key="[" line="27" column="51" />
@@ -1560,11 +1561,11 @@
       <jump line="11" column="10" filename="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/ActivityListDto.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5mby51bmlvbklkLmlzTnVsbE9yQmxhbmsoKSkgewogICAgICAgICAgICBpbmZvLnVuaW9uSWQgPSAib0tSSDdqczZtZmdMMnVyeGlwNkpycWVISmVmcyIKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Long</text>
       </register>
       <register name="-" type="4">
-        <text>Putpping</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
