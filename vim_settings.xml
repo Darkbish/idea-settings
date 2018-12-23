@@ -230,10 +230,10 @@
         <mark key="^" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/group/HomeController.kt" timestamp="1543676121139">
-        <mark key="[" line="185" column="5" />
-        <mark key="]" line="185" column="5" />
-        <mark key="." line="185" column="7" />
-        <mark key="^" line="136" column="7" />
+        <mark key="[" line="193" column="5" />
+        <mark key="]" line="193" column="5" />
+        <mark key="." line="193" column="7" />
+        <mark key="^" line="144" column="7" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/activity/ActivityController.kt" timestamp="1530984305388">
         <mark key="[" line="16" column="14" />
@@ -331,10 +331,10 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1543417995214">
-        <mark key="[" line="230" column="7" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1545547716519">
+        <mark key="[" line="206" column="54" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/user/User.kt" timestamp="1542799246036">
         <mark key="[" line="29" column="32" />
