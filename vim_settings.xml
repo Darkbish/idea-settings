@@ -645,6 +645,9 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
+      <file name="/Dummy.txt" timestamp="1545995225488">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" timestamp="1538397840666">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="37" column="11" />
@@ -656,6 +659,12 @@
         <mark key="]" line="6" column="11" />
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1537967317930">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="19" column="47" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/enums/GroupStatus.kt" timestamp="1529374261482">
         <mark key="[" line="2" column="85" />
@@ -704,6 +713,9 @@
         <mark key="]" line="48" column="22" />
         <mark key="^" line="48" column="22" />
         <mark key="." line="48" column="22" />
+      </file>
+      <file name="/fragment.java" timestamp="1545995225480">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupListDto.kt" timestamp="1531965196765">
         <mark key="[" line="37" column="27" />
@@ -1051,12 +1063,6 @@
         <mark key="]" line="67" column="56" />
         <mark key="." line="67" column="56" />
         <mark key="^" line="67" column="56" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1537967317930">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="47" />
-        <mark key="." line="19" column="47" />
-        <mark key="^" line="19" column="47" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/sys/TokenController.kt" timestamp="1543133103660">
         <mark key="[" line="22" column="31" />
