@@ -382,10 +382,11 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1546345200605">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="35" />
-        <mark key="." line="248" column="0" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1546612528774">
+        <mark key="[" line="175" column="54" />
+        <mark key="]" line="175" column="55" />
+        <mark key="." line="175" column="55" />
+        <mark key="^" line="175" column="58" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/user/User.kt" timestamp="1542799246036">
         <mark key="[" line="29" column="32" />
@@ -1719,10 +1720,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>unionId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>unionId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
