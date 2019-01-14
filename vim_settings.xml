@@ -406,6 +406,12 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/mybatis/activity/ActivityMapper.xml" timestamp="1547476899057">
+        <mark key="'" line="145" column="41" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+      </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/UpdateUserDto.kt" timestamp="1529387794459">
         <mark key="[" line="27" column="18" />
         <mark key="]" line="27" column="22" />
@@ -1674,11 +1680,11 @@
       <jump line="1" column="56" filename="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/dozer/mappings/GroupMapping.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmmK/lkKblt7LotZ4KICAgICAgICAgKi8KICAgICAgICB2YXIgbGlrZWQ6IEJvb2xlYW4sCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
@@ -1687,31 +1693,31 @@
         <text encoding="base64">ICAgIDxmaWVsZD4KICAgICAgPGE+dXNlci50YWdzPC9hPgogICAgICA8Yj50YWdzPC9iPgogICAgPC9maWVsZD4K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIDxyZXN1bHQgcHJvcGVydHk9Imxpa2VkIiBjb2x1bW49Imxpa2VkIi8+Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmmK/lkKblt7LotZ4KICAgICAgICAgKi8KICAgICAgICB2YXIgbGlrZWQ6IEJvb2xlYW4sCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIDxjbGFzcy1hPm9yZy5hY2V5b3V0aC5jb21tdW5pdHkuZW50aXR5Lmdyb3VwLkdyb3VwPC9jbGFzcy1hPgogICAgPGNsYXNzLWI+b3JnLmFjZXlvdXRoLmNvbW11bml0eS5kdG8uU2VsZWN0SXRlbUR0bzwvY2xhc3MtYj4KICAgIDxmaWVsZD4KICAgICAgPGE+bmFtZTwvYT4KICAgICAgPGI+bGFiZWw8L2I+CiAgICA8L2ZpZWxkPg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgdXNlcjogT3duZXJEdG8K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgPGluY2x1ZGUgcmVmaWQ9ImNvbHVtbiI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9ImFsaWFzIiB2YWx1ZT0iZ20iLz4KICAgICAgICA8cHJvcGVydHkgbmFtZT0icHJlZml4IiB2YWx1ZT0iIi8+CiAgICAgIDwvaW5jbHVkZT4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLnpheHhlci5oaWthcmkuSGlrYXJpRGF0YVNvdXJjZSIgbGV2ZWw9IklORk8iLz4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPGxvZ2dlciBuYW1lPSJjb20uemF4eGVyLmhpa2FyaS5IaWthcmlEYXRhU291cmNlIiBsZXZlbD0iSU5GTyIvPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgPGxvZ2dlciBuYW1lPSJjb20uYXBhY2hlLmliYXRpcyIgbGV2ZWw9IlRSQUNFIi8+CiAgPGxvZ2dlciBuYW1lPSJqYXZhLnNxbC5Db25uZWN0aW9uIiBsZXZlbD0iREVCVUciLz4KICA8bG9nZ2VyIG5hbWU9ImphdmEuc3FsLlN0YXRlbWVudCIgbGV2ZWw9IkRFQlVHIi8+CiAgPGxvZ2dlciBuYW1lPSJqYXZhLnNxbC5QcmVwYXJlZFN0YXRlbWVudCIgbGV2ZWw9IkRFQlVHIi8+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmmK/lkKblt7LotZ4KICAgICAgICAgKi8KICAgICAgICB2YXIgbGlrZWQ6IEJvb2xlYW4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/groupNews/activity/g</text>
