@@ -182,12 +182,6 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/activity/ActivityService.kt" timestamp="1546441228143">
-        <mark key="[" line="149" column="30" />
-        <mark key="]" line="149" column="30" />
-        <mark key="^" line="139" column="9" />
-        <mark key="." line="149" column="30" />
-      </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/JwtAuthenticationFilter.kt" timestamp="1543134035119">
         <mark key="[" line="25" column="22" />
         <mark key="]" line="25" column="22" />
