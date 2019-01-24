@@ -459,7 +459,7 @@
         <mark key="." line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/activity/FormIdCache.kt" timestamp="1548254171744">
-        <mark key="[" line="10" column="7" />
+        <mark key="[" line="9" column="7" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupBasicDto.kt" timestamp="1531968329301">
         <mark key="[" line="33" column="26" />
@@ -693,6 +693,9 @@
         <mark key="]" line="8" column="24" />
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548257642126">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" timestamp="1548072388628">
         <mark key="[" line="44" column="33" />
@@ -1465,11 +1468,11 @@
         <mark key="^" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/common/TemplateMsgUtil.kt" timestamp="1548252206334">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="127" column="45" />
-        <mark key="]" line="127" column="46" />
-        <mark key="^" line="157" column="54" />
-        <mark key="." line="127" column="46" />
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="126" column="45" />
+        <mark key="]" line="126" column="46" />
+        <mark key="^" line="156" column="54" />
+        <mark key="." line="126" column="46" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/UserMapper.kt" timestamp="1530945478383">
         <mark key="[" line="7" column="7" />
