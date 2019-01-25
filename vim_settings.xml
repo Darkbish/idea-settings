@@ -364,7 +364,6 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/activity/ActivityMapper.kt" timestamp="1548339539394" />
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/user/UserService.kt" timestamp="1531971575427">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="80" column="6" />
@@ -638,10 +637,10 @@
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/RejectDto.kt" timestamp="1548249604993">
         <mark key="[" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/logback-spring.xml" timestamp="1548346025253">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/resources/logback-spring.xml" timestamp="1548424726016">
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="41" />
+        <mark key="." line="31" column="41" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/GroupApplyMapper.xml" timestamp="1530974847115">
         <mark key="[" line="40" column="107" />
@@ -1761,11 +1760,11 @@
       <jump line="113" column="0" filename="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/common/TemplateMsgUtil.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlZnVuZC1ub3RpZnktdXJsOiBodHRwczovL2FwaS1jb21tdW5pdHkuYWNleW91dGgub3JnL29yZGVyL25vdGlmeS9yZWZ1bmQK</text>
+      <register name="&quot;" type="4">
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text>Double</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
