@@ -417,10 +417,10 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1548666920182">
-        <mark key="[" line="32" column="44" />
-        <mark key="]" line="284" column="0" />
-        <mark key="." line="284" column="0" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/group/GroupService.kt" timestamp="1548687775969">
+        <mark key="[" line="171" column="33" />
+        <mark key="]" line="171" column="32" />
+        <mark key="." line="171" column="32" />
         <mark key="^" line="260" column="53" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/entity/user/User.kt" timestamp="1548665367973">
