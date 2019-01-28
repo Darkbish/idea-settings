@@ -207,11 +207,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/activity/ActivityService.kt" timestamp="1548683851330">
-        <mark key="[" line="182" column="46" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
-        <mark key="^" line="182" column="71" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/activity/ActivityService.kt" timestamp="1548684660630">
+        <mark key="[" line="161" column="47" />
+        <mark key="]" line="161" column="51" />
+        <mark key="." line="161" column="51" />
+        <mark key="^" line="161" column="51" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/JwtAuthenticationFilter.kt" timestamp="1548598523564">
         <mark key="[" line="18" column="0" />
@@ -1429,7 +1429,7 @@
         <mark key="." line="66" column="12" />
         <mark key="^" line="66" column="12" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/user/UserService.kt" timestamp="1548683894647">
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/user/UserService.kt" timestamp="1548684618371">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="81" column="56" />
         <mark key="." line="61" column="0" />
@@ -1873,11 +1873,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Work/ace/honeycomb-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiJ3VzZXJTZXJ2aWNlLnBhZ2VMaXN0KiciLAogICAgICAgICIndXNlclNlcnZpY2UuZmluZEJ5SWQ6JyArICNlbnRpdHkuaWQiLAogICAgICAgICIndXNlclNlcnZpY2UuZmluZEJ5TXBPcGVuSWQ6JyArICNlbnRpdHkubXBPcGVuSWQiLAogICAgICAgICIndXNlclNlcnZpY2UuZmluZEJ5VW5pb25JZDonICsgI2VudGl0eS51bmlvbklkIgo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>userMapper</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
