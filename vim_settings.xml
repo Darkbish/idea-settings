@@ -207,10 +207,10 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/activity/ActivityService.kt" timestamp="1548684660630">
-        <mark key="[" line="161" column="47" />
-        <mark key="]" line="161" column="51" />
-        <mark key="." line="161" column="51" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/activity/ActivityService.kt" timestamp="1548689020476">
+        <mark key="[" line="180" column="26" />
+        <mark key="]" line="180" column="26" />
+        <mark key="." line="180" column="26" />
         <mark key="^" line="161" column="51" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/filter/JwtAuthenticationFilter.kt" timestamp="1548598523564">
@@ -1874,10 +1874,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>groupNews</text>
