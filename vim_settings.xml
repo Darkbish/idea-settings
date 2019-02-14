@@ -1512,11 +1512,11 @@
         <mark key="^" line="53" column="63" />
         <mark key="." line="53" column="63" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupListDto.kt" timestamp="1539870009655">
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="37" column="31" />
-        <mark key="^" line="37" column="31" />
-        <mark key="." line="37" column="31" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupListDto.kt" timestamp="1550111415531">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="38" column="31" />
+        <mark key="^" line="38" column="31" />
+        <mark key="." line="38" column="31" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/user/UserController.kt" timestamp="1550109839694">
         <mark key="[" line="141" column="7" />
