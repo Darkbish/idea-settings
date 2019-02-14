@@ -190,11 +190,10 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/MemberDto.kt" timestamp="1550135331976">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="57" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/MemberDto.kt" timestamp="1550136225516">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/UserListDto.kt" timestamp="1532052005165">
         <mark key="[" line="17" column="26" />
@@ -1857,7 +1856,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgSEg6bW0iKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaWQ6IExvbmcsCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1869,31 +1868,31 @@
         <text encoding="base64">ICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgSEg6bW0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYHR5cGVgICAgICAgID0gI3t0eXBlfSwK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaWQ6IExvbmcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySWQg55So5oi3IGlkCg==</text>
+        <text encoding="base64">ICAgICAgYHR5cGVgICAgICAgID0gI3t0eXBlfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmtLvliqjnsbvlnosKICAgICAgICAgKi8KICAgICAgICB2YXIgdHlwZTogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySWQg55So5oi3IGlkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmiqXlkI3miKrmraLml7bpl7QKICAgICAgICAgKi8KICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgSEg6bW0iKQogICAgICAgIHZhciBkZWFkbGluZTogRGF0ZVRpbWUsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5rS75Yqo6K+m5oOF77yI5ZCO5Y+w77yJCiAgICAgKiBAcGFyYW0gaWQg5rS75YqoaWQKICAgICAqLwogICAgQEdldE1hcHBpbmcoImRldGFpbHMve2lkfSIpCiAgICBmdW4gZGV0YWlscyhAUGF0aFZhcmlhYmxlIGlkOiBMb25nKSA9IHNlcnZpY2UuZmluZEJhc2ljKGlkKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiJ2FjdGl2aXR5U2VydmljZS5maW5kVXNlcionIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmtLvliqjnsbvlnosKICAgICAgICAgKi8KICAgICAgICB2YXIgdHlwZTogU3RyaW5nLAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmiqXlkI3miKrmraLml7bpl7QKICAgICAgICAgKi8KICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQgSEg6bW0iKQogICAgICAgIHZhciBkZWFkbGluZTogRGF0ZVRpbWUsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog5rS75Yqo6K+m5oOF77yI5ZCO5Y+w77yJCiAgICAgKiBAcGFyYW0gaWQg5rS75YqoaWQKICAgICAqLwogICAgQEdldE1hcHBpbmcoImRldGFpbHMve2lkfSIpCiAgICBmdW4gZGV0YWlscyhAUGF0aFZhcmlhYmxlIGlkOiBMb25nKSA9IHNlcnZpY2UuZmluZEJhc2ljKGlkKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAiJ2FjdGl2aXR5U2VydmljZS5maW5kVXNlcionIgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBgY29sbGVjdGlvbmAgPSAje2NvbGxlY3Rpb259Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmtLvliqjnsbvlnosKICAgICAgICAgKi8KICAgICAgICB2YXIgdHlwZTogU3RyaW5nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/groupNews/activity/g</text>
