@@ -1665,11 +1665,23 @@
         <mark key="]" line="171" column="30" />
         <mark key="." line="171" column="30" />
       </file>
+      <file name="$USER_HOME$/Work/ace/foo/src/main/java/com/demo/foo/Program.java" timestamp="1554034431713">
+        <mark key="[" line="54" column="9" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="52" column="8" />
+        <mark key="^" line="50" column="19" />
+      </file>
       <file name="D:/Works/wx/src/main/java/com/retech/api/common/NullModule.java" timestamp="1531991654889">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="18" column="42" />
         <mark key="^" line="18" column="54" />
         <mark key="." line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/Work/ace/foo/src/main/java/Program.java" timestamp="1554033766354">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/mapper/GroupMsgMapper.kt" timestamp="1529390854842">
         <mark key="[" line="29" column="4" />
@@ -1872,10 +1884,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-dev</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="-" type="4">
-        <text>-dev</text>
+        <text encoding="base64">ZG91YmxlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kTWVtYmVyc1w+</text>
@@ -1884,31 +1896,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog5rS75Yqo5oiQ5ZGYCiAgICAgKiBAcGFyYW0gaWQg5rS75YqoIGlkCiAgICAgKiBAcGFyYW0ga2V5d29yZCDnlKjmiLfmmLXnp7DmiJbmiYvmnLrlj7cKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGFpZDogQm9vbGVhbj8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGFpZDogQm9vbGVhbj8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFdIRVJFIGFtLmFjdGl2aXR5X2lkID0gI3tpZH0gQU5EIGFtLnBhaWQgPSAje3BhaWR9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBTkQgYW0K</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZGVtby5mb287Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9vID0gImZvbyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5rS75Yqo5oiQ5ZGYCiAgICAgKiBAcGFyYW0gaWQg5rS75YqoIGlkCiAgICAgKiBAcGFyYW0ga2V5d29yZCDnlKjmiLfmmLXnp7DmiJbmiYvmnLrlj7cKICAgICAqLwogICAgZnVuIHNlbGVjdChpZDpMb25nLCBrZXl3b3JkOiBTdHJpbmc/KTogTGlzdDxBY3Rpdml0eU1lbWJlcj4K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcGFpZDogQm9vbGVhbj8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcGFpZDogQm9vbGVhbj8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaWQ6IExvbmcsCg==</text>
+        <text encoding="base64">ICAgIFdIRVJFIGFtLmFjdGl2aXR5X2lkID0gI3tpZH0gQU5EIGFtLnBhaWQgPSAje3BhaWR9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYHR5cGVgICAgICAgID0gI3t0eXBlfSwK</text>
+        <text encoding="base64">ICAgICAgICBBTkQgYW0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/groupNews/activity/g</text>
