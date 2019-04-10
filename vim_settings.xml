@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/RoleService.kt" timestamp="1529040251041">
@@ -67,6 +67,12 @@
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/demo/src/main/java/Main.java" timestamp="1554908128378">
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="32" />
+        <mark key="^" line="16" column="9" />
       </file>
       <file name="D:/Works/ace/ace-community-api/src/main/resources/mybatis/user/UserMapper.xml" timestamp="1531971082001">
         <mark key="[" line="94" column="18" />
@@ -210,6 +216,12 @@
         <mark key="]" line="20" column="22" />
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/demo/src/main/java/Demo.java" timestamp="1554908056414">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/controller/sys/FeedbackController.kt" timestamp="1546006030561">
         <mark key="[" line="23" column="15" />
@@ -2173,11 +2185,11 @@
       <jump line="157" column="26" filename="$USER_HOME$/Work/ace/ace-community-api/src/main/kotlin/org/aceyouth/community/service/activity/ActivityService.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZG91YmxlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtID0yOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZG91YmxlIA==</text>
+        <text encoding="base64">bnVtICs9IDI7IG51bSA8IDEwMA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kTWVtYmVyc1w+</text>
@@ -2186,31 +2198,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog5rS75Yqo5oiQ5ZGYCiAgICAgKiBAcGFyYW0gaWQg5rS75YqoIGlkCiAgICAgKiBAcGFyYW0ga2V5d29yZCDnlKjmiLfmmLXnp7DmiJbmiYvmnLrlj7cKICAgICAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtID0yOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZGVtby5mb287Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9vID0gImZvbyI7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZGVtby5mb287Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGFpZDogQm9vbGVhbj8K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9vID0gImZvbyI7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgcGFpZDogQm9vbGVhbj8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFdIRVJFIGFtLmFjdGl2aXR5X2lkID0gI3tpZH0gQU5EIGFtLnBhaWQgPSAje3BhaWR9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcGFpZDogQm9vbGVhbj8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBTkQgYW0K</text>
+        <text encoding="base64">ICAgIFdIRVJFIGFtLmFjdGl2aXR5X2lkID0gI3tpZH0gQU5EIGFtLnBhaWQgPSAje3BhaWR9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/groupNews/activity/g</text>
