@@ -10,8 +10,12 @@
           <option name="url" value="ssh://xiangchunlin@git.darkiller.cc:29418/ace-community-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.11/dp/dp-micro-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Darkiller\work\ace" />
+    <option name="cloneParentDir" value="$USER_HOME$/Work" />
   </component>
 </application>
