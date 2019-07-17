@@ -6,8 +6,10 @@
       <file name="/Dummy.txt" timestamp="1560394683181">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/jackson-bigdecimal-demo/src/main/java/com/fs/demo/Program.java" timestamp="1563332722794">
-        <mark key="[" line="2" column="22" />
+      <file name="$USER_HOME$/Work/jackson-bigdecimal-demo/src/main/java/com/fs/demo/Program.java" timestamp="1563334115487">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Work/jackson-bigdecimal-demo/pom.xml" timestamp="1563332531878">
         <mark key="[" line="11" column="0" />
@@ -18,12 +20,18 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBPYmplY3RNYXBwZXIgbWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC4uLgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
     </registers>
