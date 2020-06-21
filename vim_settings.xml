@@ -10,11 +10,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1592721638905">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/" timestamp="1592719953121">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">LWphdmFhZ2VudDovVXNlcnMvZGFya2lsbGVyLy5qZXRicmFpbnMvamV0YnJhaW5zLWFnZW50LXYzLjIuMC5kZTcyLjYxOQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LWphdmFhZ2VudDovVXNlcnMvZGFya2lsbGVyLy5qZXRicmFpbnMvamV0YnJhaW5zLWFnZW50LXYzLjIuMC5kZTcyLjYxOQo=</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
