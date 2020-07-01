@@ -10,100 +10,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/ManagerService.kt" timestamp="1593610965540">
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Attachment.kt" timestamp="1593610411215">
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Order.kt" timestamp="1593610485993">
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="30" />
-        <mark key="^" line="43" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/PlanTopicMapper.kt" timestamp="1593611443839">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/User.kt" timestamp="1593610448012">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="29" />
-        <mark key="^" line="41" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/RewardMapper.kt" timestamp="1593611588451">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/GroupTypeMapper.kt" timestamp="1593611306607">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/PlanPunchMapper.kt" timestamp="1593611424856">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/LoginDto.kt" timestamp="1593611121307">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/AttachmentMapper.kt" timestamp="1593610603629">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="10" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/ManagerMapper.kt" timestamp="1593610774316">
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupTypeService.kt" timestamp="1593612021614">
         <mark key="[" line="7" column="24" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="10" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/PlanTopicInteractiveMapper.kt" timestamp="1593611568424">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="64" />
-        <mark key="^" line="7" column="64" />
-        <mark key="." line="7" column="63" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/RewardService.kt" timestamp="1593612216339">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/PlanCalendarMapper.kt" timestamp="1593611401184">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/PlanTopicService.kt" timestamp="1593612122213">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/UserPointMapper.kt" timestamp="1593611729831">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="7" column="42" />
-        <mark key="." line="7" column="41" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/AttachmentService.kt" timestamp="1593611923256">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/OrderMapper.kt" timestamp="1593611350712">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/GroupMapper.kt" timestamp="1593611243065">
-        <mark key="[" line="7" column="22" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/VerifyCodeService.kt" timestamp="1593612307857">
+        <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/UserPointService.kt" timestamp="1593612279938">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/UserMapper.kt" timestamp="1593611627934">
         <mark key="[" line="5" column="0" />
@@ -111,14 +51,73 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/PlanMapper.kt" timestamp="1593611374639">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/ManagerService.kt" timestamp="1593611813639">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1593610739866">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/User.kt" timestamp="1593612473711">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+        <mark key="^" line="41" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/LoginDto.kt" timestamp="1593612384992">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/PlanCalendarService.kt" timestamp="1593612100736">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/LoginUserDto.kt" timestamp="1593612449014">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/PlanTopicInteractiveService.kt" timestamp="1593612191563">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/UserPointMapper.kt" timestamp="1593611729831">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="41" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/OrderService.kt" timestamp="1593612046800">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/TokenService.kt" timestamp="1593612242115">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/UserService.kt" timestamp="1593612258081">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/PlanService.kt" timestamp="1593612070747">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupService.kt" timestamp="1593611949441">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="7" />
       </file>
     </filemarks>
     <jumps />
@@ -126,37 +125,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5kdG8ubWFuYWdlci5Mb2dpbkR0bwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGEK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>selectOne { it.andEqualTo(Manager::name, name) }</text>
+        <text>null</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5lbnRpdHkubWFuYWdlci5NYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5lbnRpdHkuc3lzLlRva2VuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5tYXBwZXIuTWFuYWdlck1hcHBlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5tYXBwZXIubWFuYWdlci5NYW5hZ2VyTWFwcGVyCg==</text>
+        <text encoding="base64">ICAgIEBDYWNoZWFibGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAiY2VsbHBob25lIikK</text>
+        <text encoding="base64">QENhY2hlQ29uZmlnKGNhY2hlTmFtZXMgPSBbIm1hbmFnZXIiXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAiY29kZSIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5kdG8ubWFuYWdlci5Mb2dpbkR0bwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAidXNlZCIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5lbnRpdHkubWFuYWdlci5NYW5hZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAiY3JlYXRlX2RhdGUiKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5lbnRpdHkuc3lzLlRva2VuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5pu05paw5pe26Ze0CiAgICAgKi8KICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAidXBkYXRlX2RhdGUiKQogICAgdmFyIHVwZGF0ZURhdGU6IERhdGVUaW1lID0gRGF0ZVRpbWUubm93KCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5tYXBwZXIubWFuYWdlci5NYW5hZ2VyTWFwcGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>selectOne { it.andEqualTo(Manager::name, name) }</text>
+        <text>null</text>
       </register>
     </registers>
   </component>
@@ -169,7 +168,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
