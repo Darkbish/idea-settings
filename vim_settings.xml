@@ -10,10 +10,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/ManagerController.kt" timestamp="1593618647773">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupTypeService.kt" timestamp="1593695540826">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/dozer/mappings/GroupMapping.xml" timestamp="1593695514917">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/dozer/mappings/AttachmentMapping.xml" timestamp="1593695491828">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/User.kt" timestamp="1593692293115">
         <mark key="[" line="76" column="35" />
@@ -21,12 +31,7 @@
         <mark key="^" line="81" column="38" />
         <mark key="." line="81" column="37" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/common/TokenUtil.kt" timestamp="1593691393773">
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="12" />
-        <mark key="^" line="88" column="15" />
-        <mark key="." line="88" column="12" />
-      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/WxConfiguration.kt" timestamp="1593695362032" />
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/JwtAuthenticationProvider.kt" timestamp="1593691407025">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -69,7 +74,7 @@
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/CustomWxMpInRedisConfigStorage.kt" timestamp="1593695093039">
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/CustomWxMpInRedisConfigStorage.kt" timestamp="1593695359937">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -87,18 +92,8 @@
         <mark key="." line="26" column="67" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/3.8.0/weixin-java-mp-3.8.0.jar!/me/chanjar/weixin/mp/config/impl/WxMpDefaultConfigImpl.class" timestamp="1593695089704" />
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/common/TemplateMsgUtil.kt" timestamp="1593691181896">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupService.kt" timestamp="1593691622611">
         <mark key="[" line="29" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/sys/FormIdCache.kt" timestamp="1593691202815">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1593695046688">
         <mark key="[" line="0" column="0" />
@@ -117,8 +112,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG1lLmNoYW5qYXIud2VpeGluLm1wLmFwaS5XeE1wSW5NZW1vcnlDb25maWdTdG9yYWdlCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1lLmNoYW5qYXIud2VpeGluLm1wLmFwaS5XeE1wSW5NZW1vcnlDb25maWdTdG9yYWdlCg==</text>
+      <register name="&quot;" type="4">
+        <text>GroupManager</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5yZWRpcy5jbGllbnRzPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qZWRpczwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
@@ -145,7 +140,7 @@
         <text encoding="base64">ICAgICAgPHZlcnNpb24+Mi4xMC40PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>jedisPool: JedisPool,</text>
+        <text>GroupManager</text>
       </register>
     </registers>
   </component>
