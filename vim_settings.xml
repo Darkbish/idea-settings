@@ -10,17 +10,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/RefundService.kt" timestamp="1593618400535">
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="40" column="8" />
-        <mark key="^" line="40" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/sys/ModifyPwdDto.kt" timestamp="1593618633361">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/ManagerController.kt" timestamp="1593618647773">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -38,11 +27,6 @@
         <mark key="^" line="88" column="15" />
         <mark key="." line="88" column="12" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/sys/TokenDto.kt" timestamp="1593618567347">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/JwtAuthenticationProvider.kt" timestamp="1593691407025">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -54,16 +38,19 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="18" column="13" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/OrderController.kt" timestamp="1593618530962">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/wx/handler/SubscribeHandler.kt" timestamp="1593691729145">
         <mark key="[" line="32" column="79" />
         <mark key="]" line="32" column="79" />
         <mark key="." line="32" column="79" />
         <mark key="^" line="30" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/application-dev.yml" timestamp="1593693512420">
+        <mark key="[" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/pom.xml" timestamp="1593694970808">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/UserMapper.xml" timestamp="1593692713059">
         <mark key="[" line="35" column="62" />
@@ -71,17 +58,21 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/OrderService.kt" timestamp="1593618339575">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="43" column="4" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/RedisConfiguration.kt" timestamp="1593694954535">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/filter/CheckOwnerInterceptor.kt" timestamp="1593692430922">
         <mark key="[" line="45" column="18" />
         <mark key="]" line="45" column="24" />
         <mark key="." line="45" column="23" />
         <mark key="^" line="45" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/CustomWxMpInRedisConfigStorage.kt" timestamp="1593695093039">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/UserService.kt" timestamp="1593692407677">
         <mark key="[" line="52" column="4" />
@@ -95,6 +86,7 @@
         <mark key="^" line="26" column="68" />
         <mark key="." line="26" column="67" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/3.8.0/weixin-java-mp-3.8.0.jar!/me/chanjar/weixin/mp/config/impl/WxMpDefaultConfigImpl.class" timestamp="1593695089704" />
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/common/TemplateMsgUtil.kt" timestamp="1593691181896">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -108,7 +100,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1593691193918">
+      <file name="/fragment.java" timestamp="1593695046688">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -123,37 +115,37 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog5Y+R6LW36YCA5qy+CiAgICAgKiBAcGFyYW0gZW50aXR5IOmAgOasvuS/oeaBrwogICAgICovCiAgICBAVHJhbnNhY3Rpb25hbAogICAgQENhY2hlRXZpY3QoWwogICAgICAgICInb3JkZXJTZXJ2aWNlLmZpbmRCeU5vOicgKyAjZW50aXR5Lm9yZGVyTm8iLAogICAgICAgICInb3JkZXJTZXJ2aWNlLmZpbmRQYXlpbmc6JyArICNlbnRpdHkucHJvZHVjdElkICsgJywnICsgI2VudGl0eS51c2VySWQgKyAnLConIiwKICAgICAgICAiJ3JlZnVuZFNlcnZpY2UuZmluZEJ5T3JkZXJObzonICsgI2VudGl0eS5vcmRlck5vIgogICAgXSkKICAgIGZ1biByZWZ1bmQoZW50aXR5OiBSZWZ1bmQpIHsKICAgICAgICB2YWwgb3JkZXIgPSBtYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KGVudGl0eS5vcmRlcklkKQogICAgICAgIG9yZGVyLnN0YXR1cyA9IE9yZGVyU3RhdHVzLlJlZnVuZGluZwogICAgICAgIG1hcHBlci51cGRhdGVCeVByaW1hcnlLZXkob3JkZXIpCiAgICAgICAgcmVmdW5kTWFwcGVyLmluc2VydFNlbGVjdGl2ZShlbnRpdHkpCiAgICB9CgogICAgLyoqCiAgICAgKiDlrozmiJDpgIDmrL4KICAgICAqIEBwYXJhbSBlbnRpdHkg6YCA5qy+5L+h5oGvCiAgICAgKi8KICAgIEBUcmFuc2FjdGlvbmFsCiAgICBAQ2FjaGVFdmljdChbCiAgICAgICAgIidvcmRlclNlcnZpY2UuZmluZEJ5Tm86JyArICNlbnRpdHkub3JkZXJObyIsCiAgICAgICAgIidvcmRlclNlcnZpY2UuZmluZFBheWluZzonICsgI2VudGl0eS5wcm9kdWN0SWQgKyAnLCcgKyAjZW50aXR5LnVzZXJJZCArICcsKiciLAogICAgICAgICIncmVmdW5kU2VydmljZS5maW5kQnlPcmRlck5vOicgKyAjZW50aXR5Lm9yZGVyTm8iCiAgICBdKQogICAgZnVuIHJlZnVuZGVkKGVudGl0eTogUmVmdW5kKSB7CiAgICAgICAgdmFsIG9yZGVyID0gbWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShlbnRpdHkub3JkZXJJZCkKICAgICAgICBvcmRlci5zdGF0dXMgPSBPcmRlclN0YXR1cy5SZWZ1bmQKICAgICAgICBtYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKG9yZGVyKQogICAgICAgIHJlZnVuZE1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUoZW50aXR5KQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5zZXJ2aWNlLnVzZXIuVXNlclNlcnZpY2UK</text>
+        <text encoding="base64">aW1wb3J0IG1lLmNoYW5qYXIud2VpeGluLm1wLmFwaS5XeE1wSW5NZW1vcnlDb25maWdTdG9yYWdlCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, it.mpOpenId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1lLmNoYW5qYXIud2VpeGluLm1wLmFwaS5XeE1wSW5NZW1vcnlDb25maWdTdG9yYWdlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YnNjcmliZWQgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5yZWRpcy5jbGllbnRzPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5qZWRpczwvYXJ0aWZhY3RJZD4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1c2VyICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICB1c2VyU2VydmljZS51cGRhdGVNcE9wZW5JZCh1c2VyLmlkLCB1c2VySW5mby5vcGVuSWQpCiAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5lbnRpdHkudXNlci5Vc2VyCmltcG9ydCBvcmcuY2hyb21pZS5hcGkuc2VydmljZS51c2VyLlVzZXJTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHByb3BlcnRpZXM6IFJlZGlzUHJvcGVydGllcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5zZXJ2aWNlLmdyb3VwLkdyb3VwU2VydmljZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5zZXJ2aWNlLnVzZXIuVXNlclNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBmdW4gamVkaXNDb25maWcoKTogUmVkaXNTdGFuZGFsb25lQ29uZmlndXJhdGlvbiA9IFJlZGlzU3RhbmRhbG9uZUNvbmZpZ3VyYXRpb24ocHJvcGVydGllcy5ob3N0LCBwcm9wZXJ0aWVzLnBvcnQpCgogICAgQEJlYW4KICAgIGZ1biBqZWRpc1Bvb2woKTogSmVkaXNQb29sIHsKICAgICAgICB2YWwgY29uZmlnID0gSmVkaXNQb29sQ29uZmlnKCkKICAgICAgICBjb25maWcubWF4SWRsZSA9IHByb3BlcnRpZXMuamVkaXMucG9vbC5tYXhJZGxlCiAgICAgICAgY29uZmlnLm1heFRvdGFsID0gcHJvcGVydGllcy5qZWRpcy5wb29sLm1heEFjdGl2ZQogICAgICAgIGNvbmZpZy5tYXhXYWl0TWlsbGlzID0gcHJvcGVydGllcy5qZWRpcy5wb29sLm1heFdhaXQudG9NaWxsaXMoKQogICAgICAgIHJldHVybiBKZWRpc1Bvb2woY29uZmlnLCBwcm9wZXJ0aWVzLmhvc3QsIHByb3BlcnRpZXMucG9ydCwgMTAwKQogICAgfQoKICAgIEBCZWFuCiAgICBmdW4gcmVkaXNDb25uZWN0aW9uRmFjdG9yeSggamVkaXNDb25maWc6IFJlZGlzU3RhbmRhbG9uZUNvbmZpZ3VyYXRpb24pOiBKZWRpc0Nvbm5lY3Rpb25GYWN0b3J5IHsKICAgICAgICByZXR1cm4gSmVkaXNDb25uZWN0aW9uRmFjdG9yeShqZWRpc0NvbmZpZykKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hY2V5b3V0aC5jb21tdW5pdHkuY29tbW9uLk5vQXJncwo=</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldFBvb2xDb25maWcoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5kdG8uYWN0aXZpdHkuRm9ybUlkQ2FjaGUK</text>
+        <text encoding="base64">ICAgICAgIGZhY3Rvcnkuc2V0UG9vbENvbmZpZygpIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jaHJvbWllLmFwaS5lbnRpdHkubWFuYWdlci5NYW5hZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgPHZlcnNpb24+Mi4xMC40PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>, it.mpOpenId</text>
+        <text>jedisPool: JedisPool,</text>
       </register>
     </registers>
   </component>
