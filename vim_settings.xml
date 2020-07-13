@@ -46,19 +46,14 @@
         <mark key="]" line="23" column="57" />
         <mark key="." line="23" column="57" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/wx/handler/UnsubscribeHandler.kt" timestamp="1593692453646">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="13" />
-      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/application-dev.yml" timestamp="1594642621789">
         <mark key="[" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/pom.xml" timestamp="1594644025189">
-        <mark key="[" line="125" column="19" />
-        <mark key="]" line="125" column="20" />
-        <mark key="." line="125" column="20" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/pom.xml" timestamp="1594651448288">
+        <mark key="[" line="120" column="17" />
+        <mark key="]" line="120" column="18" />
+        <mark key="." line="120" column="17" />
+        <mark key="^" line="120" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.0.4/mapper-core-1.0.4-sources.jar!/tk/mybatis/mapper/mapperhelper/resolve/DefaultEntityResolve.java" timestamp="1594645765086">
         <mark key="[" line="76" column="63" />
@@ -68,6 +63,9 @@
         <mark key="]" line="17" column="51" />
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Token.kt" timestamp="1594651826895">
+        <mark key="[" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/RedisConfiguration.kt" timestamp="1593694954535">
         <mark key="[" line="23" column="0" />
@@ -102,7 +100,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gbWFwcGVyLnNlbGVjdE9uZSB7IGl0LmFuZEVxdWFsVG8oTWFuYWdlcjo6bmFtZSwgImFkbWluIikgfSA/OiB0aHJvdyAgQXBpRXhjZXB0aW9uKCLnrqHnkIblkZjkuI3lrZjlnKgiKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Token</text>
+        <text>10</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBtYXBwZXIudXBkYXRlQnlFeGFtcGxlU2VsZWN0aXZlKGVudGl0eSwgRXhhbXBsZS5idWlsZGVyKE1hbmFnZXI6OmNsYXNzLmphdmEpLmFuZFdoZXJlIHsgU3Fscy5jdXN0b20oKS5hbmRFcXVhbFRvKCJuYW1lIiwgImFkbWluIikuY3JpdGVyaWEgfS5idWlsZCgpKQo=</text>
@@ -129,7 +127,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gc2VydmljZS5maW5kQnlOYW1lKCJhZG1pbiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Token</text>
+        <text>10</text>
       </register>
     </registers>
   </component>
