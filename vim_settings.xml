@@ -41,6 +41,11 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="81" />
       </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/common/TokenUtil.kt" timestamp="1594650203390">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="57" />
+        <mark key="." line="23" column="57" />
+      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/wx/handler/UnsubscribeHandler.kt" timestamp="1593692453646">
         <mark key="[" line="18" column="12" />
         <mark key="]" line="18" column="13" />
@@ -69,12 +74,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/filter/CheckOwnerInterceptor.kt" timestamp="1593692430922">
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="45" column="24" />
-        <mark key="." line="45" column="23" />
-        <mark key="^" line="45" column="24" />
-      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/CustomWxMpInRedisConfigStorage.kt" timestamp="1593695359937">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -102,8 +101,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gbWFwcGVyLnNlbGVjdE9uZSB7IGl0LmFuZEVxdWFsVG8oTWFuYWdlcjo6bmFtZSwgImFkbWluIikgfSA/OiB0aHJvdyAgQXBpRXhjZXB0aW9uKCLnrqHnkIblkZjkuI3lrZjlnKgiKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gbWFwcGVyLnNlbGVjdE9uZSB7IGl0LmFuZEVxdWFsVG8oTWFuYWdlcjo6bmFtZSwgImFkbWluIikgfSA/OiB0aHJvdyAgQXBpRXhjZXB0aW9uKCLnrqHnkIblkZjkuI3lrZjlnKgiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Token</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBtYXBwZXIudXBkYXRlQnlFeGFtcGxlU2VsZWN0aXZlKGVudGl0eSwgRXhhbXBsZS5idWlsZGVyKE1hbmFnZXI6OmNsYXNzLmphdmEpLmFuZFdoZXJlIHsgU3Fscy5jdXN0b20oKS5hbmRFcXVhbFRvKCJuYW1lIiwgImFkbWluIikuY3JpdGVyaWEgfS5idWlsZCgpKQo=</text>
@@ -130,7 +129,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gc2VydmljZS5maW5kQnlOYW1lKCJhZG1pbiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Manager::name.name</text>
+        <text>Token</text>
       </register>
     </registers>
   </component>
