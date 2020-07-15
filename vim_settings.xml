@@ -10,126 +10,153 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupTypeService.kt" timestamp="1593695540826">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+      <file name="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/service/user/UserService.kt" timestamp="1594819077483">
+        <mark key="[" line="29" column="75" />
+        <mark key="]" line="29" column="75" />
+        <mark key="." line="29" column="75" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/ManagerService.kt" timestamp="1594647437351">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Order.kt" timestamp="1594818471049" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupPageRequestDto.kt" timestamp="1594820106890">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/dozer/mappings/GroupMapping.xml" timestamp="1593695514917">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Group.kt" timestamp="1594820297182">
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="60" column="26" />
+        <mark key="^" line="60" column="26" />
+        <mark key="." line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/dozer/mappings/AttachmentMapping.xml" timestamp="1593695491828">
-        <mark key="[" line="6" column="35" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="6" column="35" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/application-dev.yml" timestamp="1594818245278">
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="37" column="38" />
+        <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/test/kotlin/org/chromie/api/PwdUtil.kt" timestamp="1594646859809">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="16" column="52" />
+      <file name="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/OwnerDto.kt" timestamp="1594819905677">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/work/chromie/ace-community-api/pom.xml" timestamp="1594643988752" />
-      <file name="$USER_HOME$/work/demo/pom.xml" timestamp="1594641654137">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="81" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/UserMapper.xml" timestamp="1594819076982">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="36" column="5" />
+        <mark key="^" line="44" column="24" />
+        <mark key="." line="36" column="5" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/common/TokenUtil.kt" timestamp="1594650203390">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="57" />
-        <mark key="." line="23" column="57" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/OrderMapper.xml" timestamp="1594818512081">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="48" />
+        <mark key="^" line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/application-dev.yml" timestamp="1594642621789">
-        <mark key="[" line="10" column="44" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupListDto.kt" timestamp="1594820591293">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="29" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/pom.xml" timestamp="1594651448288">
-        <mark key="[" line="120" column="17" />
-        <mark key="]" line="120" column="18" />
-        <mark key="." line="120" column="17" />
-        <mark key="^" line="120" column="18" />
+      <file name="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupListDto.kt" timestamp="1594819853965">
+        <mark key="'" line="22" column="10" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="40" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.0.4/mapper-core-1.0.4-sources.jar!/tk/mybatis/mapper/mapperhelper/resolve/DefaultEntityResolve.java" timestamp="1594645765086">
-        <mark key="[" line="76" column="63" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/UserService.kt" timestamp="1594819047750">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/UserMapper.xml" timestamp="1593692713059">
-        <mark key="[" line="35" column="62" />
-        <mark key="]" line="17" column="51" />
-        <mark key="^" line="17" column="51" />
-        <mark key="." line="17" column="50" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/UserMapper.kt" timestamp="1594819061820">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="52" />
+        <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Token.kt" timestamp="1594652256144">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/GroupMapper.kt" timestamp="1594820125440">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/RedisConfiguration.kt" timestamp="1593694954535">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/user/OwnerDto.kt" timestamp="1594819914274">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/CustomWxMpInRedisConfigStorage.kt" timestamp="1593695359937">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/GroupMapper.xml" timestamp="1594820337199">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="39" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Manager.kt" timestamp="1594643173769" />
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/ApiApplication.kt" timestamp="1594645911987">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/ApiApplication.kt" timestamp="1594818372168">
+        <mark key="[" line="14" column="34" />
         <mark key="]" line="37" column="58" />
       </file>
-      <file name="/fragment.java" timestamp="1594646303861">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupService.kt" timestamp="1594820110936">
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="24" column="48" />
+        <mark key="." line="24" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/user/UserPageRequestDto.kt" timestamp="1594819015242">
+        <mark key="[" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupTypeDto.kt" timestamp="1594820391996">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/GroupController.kt" timestamp="1594819961483">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="36" />
       </file>
     </filemarks>
     <jumps>
       <jump line="35" column="14" filename="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupDto.kt" />
       <jump line="10" column="10" filename="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Group.kt" />
+      <jump line="22" column="10" filename="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupListDto.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShCb29sZWFuOjpjbGFzcy5qYXZhKQogICAgU2ltcGxlVHlwZVV0aWwucmVnaXN0ZXJTaW1wbGVUeXBlKEludDo6Y2xhc3MuamF2YSkKICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShMb25nOjpjbGFzcy5qYXZhKQogICAgU2ltcGxlVHlwZVV0aWwucmVnaXN0ZXJTaW1wbGVUeXBlKERvdWJsZTo6Y2xhc3MuamF2YSkKICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShGbG9hdDo6Y2xhc3MuamF2YSkKICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShEYXRlVGltZTo6Y2xhc3MuamF2YSkKICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShBY3Rpb246OmNsYXNzLmphdmEpCiAgICBTaW1wbGVUeXBlVXRpbC5yZWdpc3RlclNpbXBsZVR5cGUoQXBwbHlTdGF0dXM6OmNsYXNzLmphdmEpCiAgICBTaW1wbGVUeXBlVXRpbC5yZWdpc3RlclNpbXBsZVR5cGUoR2VuZGVyOjpjbGFzcy5qYXZhKQogICAgU2ltcGxlVHlwZVV0aWwucmVnaXN0ZXJTaW1wbGVUeXBlKFRva2VuVHlwZTo6Y2xhc3MuamF2YSkKICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShXZWVrZGF5OjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">QE5vQXJncwpvcGVuIGNsYXNzIE93bmVyRHRvKAogICAgICAgIHZhciBpZDogTG9uZz8gPSBudWxsLAogICAgICAgIHZhciBuYW1lOiBTdHJpbmc/ID0gbnVsbCwKICAgICAgICB2YXIgYXZhdGFyOiBTdHJpbmc/ID0gbnVsbAopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEpzb25UeXBlSW5mbyh1c2UgPSBKc29uVHlwZUluZm8uKQo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmmK/lkKbmjqjojZAKICAgICAgICAgKi8KICAgICAgICB2YXIgcmVjb21tZW5kOiBCb29sZWFuPywKICAgICAgICB2YXIgY29sbGVjdGlvbjogQm9vbGVhbj8sCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEpzb25UeXBlSW5mbyh1c2UgPSBKc29uVHlwZUluZm8uKQo=</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmmK/lkKbmjqjojZAKICAgICAgICAgKi8KICAgICAgICB2YXIgcmVjb21tZW5kOiBCb29sZWFuPywKICAgICAgICB2YXIgY29sbGVjdGlvbjogQm9vbGVhbj8sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEpzb25DbGFzc0Rlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDnpL7nvqTor53popgKICAgICAgICAgKi8KICAgICAgICB2YXIgdG9waWM6IFN0cmluZz8sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEpzb25UeXBlSW5mbyh1c2UgPSBKc29uVHlwZUluZm8uSWQuTkFNRSkK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmiJDnq4vml7bpl7QKICAgICAgICAgKi8KICAgICAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0iKQogICAgICAgIHZhciBidWlsZFRpbWU6IERhdGVUaW1lPywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gbWFwcGVyLnNlbGVjdE9uZSB7IGl0LmFuZEVxdWFsVG8oTWFuYWdlcjo6bmFtZSwgImFkbWluIikgfSA/OiB0aHJvdyAgQXBpRXhjZXB0aW9uKCLnrqHnkIblkZjkuI3lrZjlnKgiKQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdGF0dXMg5ZyI5a2Q54q25oCBCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXBwZXIudXBkYXRlQnlFeGFtcGxlU2VsZWN0aXZlKGVudGl0eSwgRXhhbXBsZS5idWlsZGVyKE1hbmFnZXI6OmNsYXNzLmphdmEpLmFuZFdoZXJlIHsgU3Fscy5jdXN0b20oKS5hbmRFcXVhbFRvKCJuYW1lIiwgImFkbWluIikuY3JpdGVyaWEgfS5idWlsZCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc3RhdHVzOiBBcHBseVN0YXR1cz8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZW50aXR5ID0gbWFwcGVyLnNlbGVjdE9uZSB7IGl0LmFuZEVxdWFsVG8oTWFuYWdlcjo6bmFtZSwgImFkbWluIikgfSA/OiB0aHJvdyBBcGlFeGNlcHRpb24oIueuoeeQhuWRmOS4jeWtmOWcqCIpCg==</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJzdGF0dXMgIT0gbnVsbCI+CiAgICAgIEFORCBnLmBzdGF0dXNgID0gI3tzdGF0dXN9CiAgICA8L2lmPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVUeXBlVXRpbC5yZWdpc3RlclNpbXBsZVR5cGUoQm9vbGVhbjo6Y2xhc3MuamF2YSkKICAgICAgICBTaW1wbGVUeXBlVXRpbC5yZWdpc3RlclNpbXBsZVR5cGUoSW50OjpjbGFzcy5qYXZhKQogICAgICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShMb25nOjpjbGFzcy5qYXZhKQogICAgICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShEb3VibGU6OmNsYXNzLmphdmEpCiAgICAgICAgU2ltcGxlVHlwZVV0aWwucmVnaXN0ZXJTaW1wbGVUeXBlKEZsb2F0OjpjbGFzcy5qYXZhKQogICAgICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShEYXRlVGltZTo6Y2xhc3MuamF2YSkKICAgICAgICBTaW1wbGVUeXBlVXRpbC5yZWdpc3RlclNpbXBsZVR5cGUoQWN0aW9uOjpjbGFzcy5qYXZhKQogICAgICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShBcHBseVN0YXR1czo6Y2xhc3MuamF2YSkKICAgICAgICBTaW1wbGVUeXBlVXRpbC5yZWdpc3RlclNpbXBsZVR5cGUoR2VuZGVyOjpjbGFzcy5qYXZhKQogICAgICAgIFNpbXBsZVR5cGVVdGlsLnJlZ2lzdGVyU2ltcGxlVHlwZShUb2tlblR5cGU6OmNsYXNzLmphdmEpCiAgICAgICAgU2ltcGxlVHlwZVV0aWwucmVnaXN0ZXJTaW1wbGVUeXBlKFdlZWtkYXk6OmNsYXNzLmphdmEpCg==</text>
+        <text>class OwnerDto {
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIG12YzpNb2NrTXZjCg==</text>
+        <text>class GroupListDto {
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>String?</text>
       </register>
     </registers>
   </component>
