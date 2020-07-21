@@ -10,31 +10,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupTypeService.kt" timestamp="1595335815562">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="27" column="100" />
-        <mark key="^" line="27" column="100" />
-        <mark key="." line="27" column="99" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupTypeService.kt" timestamp="1595336545019">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+        <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/OwnerDto.kt" timestamp="1594819905677">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="1" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/GroupTypeMapper.xml" timestamp="1595336603182">
+        <mark key="[" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/service/user/UserService.kt" timestamp="1594819077483">
         <mark key="[" line="29" column="75" />
         <mark key="]" line="29" column="75" />
         <mark key="." line="29" column="75" />
       </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupDto.kt" timestamp="1595335939413">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupPageRequestDto.kt" timestamp="1594820106890">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/GroupTypeMapper.kt" timestamp="1595336572120">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="26" />
+      </file>
+      <file name="/default" timestamp="1595336621680">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Group.kt" timestamp="1594820297182">
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="60" column="26" />
+        <mark key="^" line="60" column="26" />
+        <mark key="." line="60" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/user/OwnerDto.kt" timestamp="1594819905677">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/UserMapper.xml" timestamp="1594819076982">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="36" column="5" />
         <mark key="^" line="44" column="24" />
         <mark key="." line="36" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupDto.kt" timestamp="1595335939413">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupListDto.kt" timestamp="1595334661164">
         <mark key="[" line="30" column="28" />
@@ -46,22 +69,6 @@
         <mark key="'" line="22" column="10" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="40" column="1" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/UserService.kt" timestamp="1594819047750">
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupPageRequestDto.kt" timestamp="1594820106890">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/UserMapper.kt" timestamp="1594819061820">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="15" column="53" />
-        <mark key="." line="15" column="52" />
-        <mark key="^" line="15" column="53" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/GroupMapper.kt" timestamp="1594820125440">
         <mark key="[" line="13" column="36" />
@@ -86,30 +93,21 @@
         <mark key="^" line="30" column="26" />
         <mark key="." line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/GroupTypeController.kt" timestamp="1595335870617">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/GroupTypeController.kt" timestamp="1595336423531">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="29" />
+        <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupService.kt" timestamp="1594820110936">
         <mark key="[" line="24" column="48" />
         <mark key="]" line="24" column="48" />
         <mark key="." line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/user/UserPageRequestDto.kt" timestamp="1594819015242">
-        <mark key="[" line="7" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Group.kt" timestamp="1594820297182">
-        <mark key="[" line="55" column="34" />
-        <mark key="]" line="60" column="26" />
-        <mark key="^" line="60" column="26" />
-        <mark key="." line="60" column="25" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupTypeDto.kt" timestamp="1595335892105">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupTypeDto.kt" timestamp="1595336371034">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/GroupController.kt" timestamp="1594819961483">
         <mark key="[" line="20" column="40" />
