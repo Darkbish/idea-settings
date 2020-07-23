@@ -38,6 +38,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="9" />
       </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/PlanRecommendController.kt" timestamp="1595509286630">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="17" />
+      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/PlanRecommendMapper.kt" timestamp="1595508756682">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="8" column="27" />
@@ -58,39 +64,35 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="15" column="65" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Group.kt" timestamp="1595505576633">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="55" column="26" />
-        <mark key="." line="86" column="0" />
-      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/KeywordPageRequestDto.kt" timestamp="1595506297377">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="37" />
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/PlanRecommend.kt" timestamp="1595508261646">
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="63" column="49" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/PlanRecommend.kt" timestamp="1595509054242">
+        <mark key="'" line="18" column="25" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="53" column="38" />
         <mark key="." line="63" column="49" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/PlanService.kt" timestamp="1595507548383">
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="33" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/GroupMapper.xml" timestamp="1595505608315">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="12" column="39" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/PlanService.kt" timestamp="1595509485747">
+        <mark key="[" line="33" column="70" />
+        <mark key="]" line="41" column="57" />
+        <mark key="." line="41" column="56" />
+        <mark key="^" line="41" column="57" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/GroupTypeController.kt" timestamp="1595507216552">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="26" column="38" />
+      </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/PlanController.kt" timestamp="1595509491524">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="20" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/common/Extension.kt" timestamp="1595507606702" />
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/service/GroupService.kt" timestamp="1595506276740">
@@ -99,16 +101,18 @@
         <mark key="." line="23" column="41" />
         <mark key="^" line="23" column="45" />
       </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/plan/PlanRecommendDto.kt" timestamp="1595509125722">
+        <mark key="'" line="34" column="33" />
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="6" column="17" />
+      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/enums/PlanType.kt" timestamp="1595505850651">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="16" />
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupTypeDto.kt" timestamp="1595505591352">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/controller/GroupController.kt" timestamp="1595506326516">
         <mark key="[" line="21" column="18" />
@@ -123,45 +127,47 @@
       <jump line="22" column="10" filename="$USER_HOME$/work/chromie/ace-community-api/src/main/kotlin/org/aceyouth/community/dto/group/GroupListDto.kt" />
       <jump line="26" column="37" filename="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/Plan.kt" />
       <jump line="22" column="7" filename="$USER_HOME$/work/chromie/chromie-api/src/main/resources/mybatis/PlanMapper.xml" />
+      <jump line="18" column="25" filename="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/entity/PlanRecommend.kt" />
+      <jump line="35" column="33" filename="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/plan/PlanRecommendDto.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+CjwhRE9DVFlQRSBtYXBwZXIgUFVCTElDICItLy9teWJhdGlzLm9yZy8vRFREIE1hcHBlciAzLjAvL0VOIiAiaHR0cDovL215YmF0aXMub3JnL2R0ZC9teWJhdGlzLTMtbWFwcGVyLmR0ZCIgPgo8bWFwcGVyIG5hbWVzcGFjZT0ib3JnLmNocm9taWUuYXBpLm1hcHBlci5QbGFuTWFwcGVyIj4KICA8c3FsIGlkPSJjb2x1bW4iPgogICAgJHthbGlhc30uYGlkYCBhcyBgJHtwcmVmaXh9aWRgLAogICAgJHthbGlhc30uYHVzZXJfaWRgIGFzIGAke3ByZWZpeH11c2VyX2lkYCwKICAgICR7YWxpYXN9LmBncm91cF9pZGAgYXMgYCR7cHJlZml4fWdyb3VwX2lkYCwKICAgICR7YWxpYXN9LmBuYW1lYCBhcyBgJHtwcmVmaXh9bmFtZWAsCiAgICAke2FsaWFzfS5gYW1vdW50YCBhcyBgJHtwcmVmaXh9YW1vdW50YCwKICAgICR7YWxpYXN9LmBpY29uYCBhcyBgJHtwcmVmaXh9aWNvbmAsCiAgICAke2FsaWFzfS5gY29sb3JgIGFzIGAke3ByZWZpeH1jb2xvcmAsCiAgICAke2FsaWFzfS5gY3ljbGVgIGFzIGAke3ByZWZpeH1jeWNsZWAsCiAgICAke2FsaWFzfS5gdHlwZWAgYXMgYCR7cHJlZml4fXR5cGVgLAogICAgJHthbGlhc30uYHN0YXJ0X2RhdGVgIGFzIGAke3ByZWZpeH1zdGFydF9kYXRlYCwKICAgICR7YWxpYXN9LmBlbmRfZGF0ZWAgYXMgYCR7cHJlZml4fWVuZF9kYXRlYCwKICAgICR7YWxpYXN9LmByZW1pbmRfdGltZWAgYXMgYCR7cHJlZml4fXJlbWluZF90aW1lYCwKICAgICR7YWxpYXN9LmBzdGF0dXNgIGFzIGAke3ByZWZpeH1zdGF0dXNgLAogICAgJHthbGlhc30uYGRheXNgIGFzIGAke3ByZWZpeH1kYXlzYCwKICAgICR7YWxpYXN9LmBhdWRpdGAgYXMgYCR7cHJlZml4fWF1ZGl0YCwKICAgICR7YWxpYXN9LmBkaXNhYmxlZGAgYXMgYCR7cHJlZml4fWRpc2FibGVkYCwKICAgICR7YWxpYXN9LmBjcmVhdGVfdGltZWAgYXMgYCR7cHJlZml4fWNyZWF0ZV90aW1lYCwKICAgICR7YWxpYXN9LmB1cGRhdGVfdGltZWAgYXMgYCR7cHJlZml4fXVwZGF0ZV90aW1lYCwKICA8L3NxbD4KICA8cmVzdWx0TWFwIGlkPSJwbGFuIiB0eXBlPSJvcmcuY2hyb21pZS5hcGkuZW50aXR5LlBsYW4iPgogICAgPGlkIHByb3BlcnR5PSJpZCIgY29sdW1uPSJpZCIgLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9InVzZXJJZCIgY29sdW1uPSJ1c2VyX2lkIi8+CiAgICA8cmVzdWx0IHByb3BlcnR5PSJncm91cElkIiBjb2x1bW49Imdyb3VwX2lkIi8+CiAgICA8cmVzdWx0IHByb3BlcnR5PSJuYW1lIiBjb2x1bW49Im5hbWUiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9InRvdGFsRmVlIiBjb2x1bW49ImFtb3VudCIvPgogICAgPHJlc3VsdCBwcm9wZXJ0eT0iaWNvbiIgY29sdW1uPSJpY29uIi8+CiAgICA8cmVzdWx0IHByb3BlcnR5PSJjb2xvciIgY29sdW1uPSJjb2xvciIvPgogICAgPHJlc3VsdCBwcm9wZXJ0eT0iY3ljbGUiIGNvbHVtbj0iY3ljbGUiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9InR5cGUiIGNvbHVtbj0idHlwZSIvPgogICAgPHJlc3VsdCBwcm9wZXJ0eT0ic3RhcnREYXRlIiBjb2x1bW49InN0YXJ0X2RhdGUiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9ImVuZERhdGUiIGNvbHVtbj0iZW5kX2RhdGUiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9InJlbWluZFRpbWUiIGNvbHVtbj0icmVtaW5kX3RpbWUiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9InN0YXR1cyIgY29sdW1uPSJzdGF0dXMiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9ImRheXMiIGNvbHVtbj0iZGF5cyIvPgogICAgPHJlc3VsdCBwcm9wZXJ0eT0iYXVkaXQiIGNvbHVtbj0iYXVkaXQiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9ImRpc2FibGVkIiBjb2x1bW49ImRpc2FibGVkIi8+CiAgICA8cmVzdWx0IHByb3BlcnR5PSJjcmVhdGVUaW1lIiBjb2x1bW49ImNyZWF0ZV90aW1lIi8+CiAgICA8cmVzdWx0IHByb3BlcnR5PSJ1cGRhdGVUaW1lIiBjb2x1bW49InVwZGF0ZV90aW1lIi8+CiAgPC9yZXN1bHRNYXA+CjwvbWFwcGVyPgo=</text>
+        <text encoding="base64">ICAgIEBQdXRNYXBwaW5nKCJ1cGRhdGUiKQogICAgQFByZUF1dGhvcml6ZSgiaGFzUm9sZSgnbWFuYWdlcicpIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgcHJvcGVydHk9InN0YXR1cyIgY29sdW1uPSJzdGF0dXMiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9ImRheXMiIGNvbHVtbj0iZGF5cyIvPgogICAgPHJlc3VsdCBwcm9wZXJ0eT0iYXVkaXQiIGNvbHVtbj0iYXVkaXQiLz4K</text>
+        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAiZGlzYWJsZWQiKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgcHJvcGVydHk9InN0YXR1cyIgY29sdW1uPSJzdGF0dXMiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9ImRheXMiIGNvbHVtbj0iZGF5cyIvPgogICAgPHJlc3VsdCBwcm9wZXJ0eT0iYXVkaXQiIGNvbHVtbj0iYXVkaXQiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>PageRequestDto</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgcHJvcGVydHk9InN0YXJ0RGF0ZSIgY29sdW1uPSJzdGFydF9kYXRlIi8+CiAgICA8cmVzdWx0IHByb3BlcnR5PSJlbmREYXRlIiBjb2x1bW49ImVuZF9kYXRlIi8+Cg==</text>
+        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAicmVtaW5kX3RpbWUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgcHJvcGVydHk9InRvdGFsRmVlIiBjb2x1bW49ImFtb3VudCIvPgo=</text>
+        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAiYHR5cGVgIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxyZXN1bHQgcHJvcGVydHk9InVzZXJJZCIgY29sdW1uPSJ1c2VyX2lkIi8+CiAgICA8cmVzdWx0IHByb3BlcnR5PSJncm91cElkIiBjb2x1bW49Imdyb3VwX2lkIi8+Cg==</text>
+        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAiY3ljbGUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICR7YWxpYXN9LmBhdWRpdGAgYXMgYCR7cHJlZml4fWF1ZGl0YCwK</text>
+        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAiY29sb3IiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICR7YWxpYXN9LmBkYXlzYCBhcyBgJHtwcmVmaXh9ZGF5c2AsCg==</text>
+        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAiaWNvbiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICR7YWxpYXN9LmBzdGF0dXNgIGFzIGAke3ByZWZpeH1zdGF0dXNgLAo=</text>
+        <text encoding="base64">ICAgIEBnZXQ6Q29sdW1uKG5hbWUgPSAibmFtZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICR7YWxpYXN9LmBzdGFydF9kYXRlYCBhcyBgJHtwcmVmaXh9c3RhcnRfZGF0ZWAsCiAgICAke2FsaWFzfS5gZW5kX2RhdGVgIGFzIGAke3ByZWZpeH1lbmRfZGF0ZWAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICR7YWxpYXN9LmBhbW91bnRgIGFzIGAke3ByZWZpeH1hbW91bnRgLAo=</text>
+        <text encoding="base64">ICAgIDxyZXN1bHQgcHJvcGVydHk9InN0YXR1cyIgY29sdW1uPSJzdGF0dXMiLz4KICAgIDxyZXN1bHQgcHJvcGVydHk9ImRheXMiIGNvbHVtbj0iZGF5cyIvPgogICAgPHJlc3VsdCBwcm9wZXJ0eT0iYXVkaXQiIGNvbHVtbj0iYXVkaXQiLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>Planbc</text>
+        <text>PageRequestDto</text>
       </register>
     </registers>
   </component>
