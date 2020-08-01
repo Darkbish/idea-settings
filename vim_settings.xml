@@ -52,6 +52,12 @@
       <file name="/Kotlin Console" timestamp="1596264887866">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupPageRequestDto.kt" timestamp="1596280375834">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/JwtAuthenticationEntryPoint.kt" timestamp="1596264381561">
         <mark key="[" line="30" column="38" />
         <mark key="]" line="30" column="38" />
@@ -83,9 +89,6 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/WebSecurityConfig.kt" timestamp="1596272261603" />
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/filter/JwtAuthenticationFilter.kt" timestamp="1596261522918">
-        <mark key="[" line="23" column="121" />
-      </file>
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/mapper/GroupMapper.kt" timestamp="1596275637906">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="22" column="33" />
