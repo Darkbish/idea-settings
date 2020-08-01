@@ -69,7 +69,7 @@
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/dto/group/GroupListDto.kt" timestamp="1596120127531">
         <mark key="[" line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/WebSecurityConfig.kt" timestamp="1596264607406" />
+      <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/config/WebSecurityConfig.kt" timestamp="1596270141986" />
       <file name="$USER_HOME$/work/chromie/chromie-api/src/main/kotlin/org/chromie/api/filter/JwtAuthenticationFilter.kt" timestamp="1596261522918">
         <mark key="[" line="23" column="121" />
       </file>
