@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useColoredDirectories" value="false" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="17e425ab:16c6aa81d8d:-8000" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>

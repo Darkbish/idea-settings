@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="CheckinProject" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
+  </action>
+</keymap>
