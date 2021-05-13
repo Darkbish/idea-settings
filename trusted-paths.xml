@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Downloads/art-5.4/src" />
+        <option value="$USER_HOME$/Work" />
       </list>
     </option>
   </component>
