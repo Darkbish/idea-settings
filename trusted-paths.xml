@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/art-5.4/src" />
+      </list>
+    </option>
+  </component>
+</application>
