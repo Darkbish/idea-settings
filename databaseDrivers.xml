@@ -9,5 +9,11 @@
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
       <property name="allowMultiQueries" value="true" />
     </driver>
+    <driver id="oracle.19">
+      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
+    </driver>
+    <driver id="oracle">
+      <artifact id="Oracle" name="Oracle" use="true" version="11.2.0.4" />
+    </driver>
   </component>
 </application>
