@@ -2,11 +2,7 @@
   <component name="Trusted.Paths.Settings">
     <option name="TRUSTED_PATHS">
       <list>
-        <option value="$USER_HOME$/Downloads/art-5.4/src" />
-        <option value="$USER_HOME$/Work" />
-        <option value="$USER_HOME$/work/fstech/bdm" />
-        <option value="$USER_HOME$/work/chromie" />
-        <option value="$USER_HOME$/work/fstech/dp" />
+        <option value="$USER_HOME$/work" />
       </list>
     </option>
   </component>
