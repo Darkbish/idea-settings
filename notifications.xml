@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Plugins Suggestion" displayType="NONE" />
     <notification groupId="Proofreading missing languages information" displayType="NONE" />
   </component>
 </application>
