@@ -1,20 +1,3 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="140" />
-  <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <option name="SOFT_MARGINS" value="100,140" />
-  <JSCodeStyleSettings version="0">
-    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
-  </JSCodeStyleSettings>
-  <JetCodeStyleSettings>
-    <option name="ALLOW_TRAILING_COMMA" value="true" />
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
-  </JetCodeStyleSettings>
-  <codeStyleSettings language="XML">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
-  </codeStyleSettings>
+  <option name="SOFT_MARGINS" value="80,140" />
 </code_scheme>
