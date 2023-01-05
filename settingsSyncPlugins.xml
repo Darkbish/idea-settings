@@ -189,6 +189,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.lppedd.idea-conventional-commit">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.freemarker">
           <value>
             <PluginData>
@@ -290,6 +301,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -384,9 +396,7 @@
         </entry>
         <entry key="org.intellij.groovy">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.jetbrains.android">
@@ -429,7 +439,6 @@
                   <option value="org.jetbrains.plugins.gradle" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -449,9 +458,7 @@
         </entry>
         <entry key="org.jetbrains.security.package-checker">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.sonarlint.idea">
@@ -462,7 +469,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
