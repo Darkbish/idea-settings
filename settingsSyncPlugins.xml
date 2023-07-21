@@ -36,6 +36,7 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -189,6 +190,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.lppedd.idea-conventional-commit">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.freemarker">
           <value>
             <PluginData>
@@ -282,6 +294,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jsonts.kotlin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.markskelton.one-dark-theme">
           <value>
             <PluginData>
@@ -290,6 +314,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -313,6 +338,29 @@
                   <option value="com.intellij.modules.java" />
                   <option value="com.intellij.modules.lang" />
                   <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.rmondjone.jsontotypescript">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.roy.common.plugin.typescript">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
                 </set>
               </option>
             </PluginData>
@@ -384,9 +432,7 @@
         </entry>
         <entry key="org.intellij.groovy">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.jetbrains.android">
@@ -429,7 +475,6 @@
                   <option value="org.jetbrains.plugins.gradle" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -449,9 +494,7 @@
         </entry>
         <entry key="org.jetbrains.security.package-checker">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.sonarlint.idea">

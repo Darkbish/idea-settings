@@ -1,6 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v16.13.0/bin/node" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://192.168.1.152:5000/" />
+          <token>dfd9dfdbdfcbdff5dfccdfcfdfcedf9bdfc8df9adf99df9cdf93dfc9df93df9cdfccdf98df92dfcbdfc9df93df99df9fdf93dfcfdf9bdf9edf9cdf92df9edf98df9adf93df93df9bdfc8df9fdf9ddfcfdf9adf9cdfccdfcb</token>
+          <option name="name" value="fengshun" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
